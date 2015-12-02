@@ -1,0 +1,48 @@
+{
+    "title": "Creative Power of the Flower of Life",
+    "description": "Complementary material to the research document Artifacts of the Flower of Life",
+    
+    "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
+    
+    "plugins": ["image-captions", "ga"],
+    
+    "pluginsConfig": {
+        "ga": {
+            "token": ""
+        },
+        "image-captions": {
+            "token": ""
+        },
+        "regexplace": {
+            "substitutes": [
+                {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
+                {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
+                {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
+                {"pattern": "<!-- endnote -->", "flags": "g", "substitute": "</div>"},
+                {
+                    "pattern": "<img ([^>]*) {0,}\/{0,}> {0,}{caption=1([^\\}]*)}", 
+                    "flags": "g", 
+                    "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\"><img $2 $1><figcaption></figcaption></figure>", 
+                    "decode": true
+                },
+                {
+                    "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}><figcaption></figcaption>", 
+                    "flags": "g", 
+                    "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
+                    "store": {
+                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (pic. _PAGE_LEVEL_._INDEX_)</span>",
+                        "variable_name": "pictures"
+                    }
+                }
+            ]
+        }
+    },
+    
+    "styles": {
+        "website": "media/website.css",
+        "ebook": "media/epub.css",
+        "pdf": "media/website.css",
+        "mobi": "media/website.css",
+        "epub": "media/epub.css"
+    }
+}

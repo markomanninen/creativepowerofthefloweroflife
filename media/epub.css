@@ -1,0 +1,52 @@
+figure {
+    margin: 1.5em 0px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+figcaption {
+    clear: left;
+    margin: 0.75em 0px;
+    text-align: center;
+    font-style: italic;
+    line-height: 1.5em;
+    font-size: 80%;
+    color: #666;
+}
+
+#page-book-details .details-readme section table thead,
+.book .book-body .page-wrapper .page-inner section.normal table thead {
+    display: none;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul {
+    margin-bottom: 10px;
+}
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+div.note {
+    background: #FCF8E3 none repeat scroll 0% 0%;
+    color: #8A6D3B;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-bottom: 5px solid #DDD;
+    border-color: #FAEBCC;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div.note p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+    margin: 0px 80px;
+    font-style: italic;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    display: none;
+}
