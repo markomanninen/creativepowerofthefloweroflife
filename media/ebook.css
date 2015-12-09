@@ -1,0 +1,204 @@
+/* image captions */
+
+figure {
+    margin: 1.0em 0px;
+    padding: 10px 0;
+    text-align: center;
+    page-break-inside: avoid;
+    display: block;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    clear: left;
+    margin: 1.0em 0 0 0;
+    text-align: center;
+    font-style: italic;
+    line-height: 1.5em;
+    font-size: 80%;
+    color: #666;
+    display: block;
+}
+
+/* table headers */
+
+#page-book-details .details-readme section table thead,
+div#README\.md table thead {
+    display: none;
+}
+
+/* ul, ol list margin fix */
+
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul {
+    margin-bottom: 10px;
+}
+
+/* no page break pdf/print definition */
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+/* note blocks */
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+div.note {
+    background: #FCF8E3 none repeat scroll 0% 0%;
+    color: #8A6D3B;
+    padding: 15px 15px 0 15px;
+    margin-bottom: 10px;
+    border-bottom: 5px solid #DDD;
+    border-color: #FAEBCC;
+    page-break-inside: avoid;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div.note p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* quotes */
+
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+    margin: 0 0 0 5%;
+    font-style: italic;
+}
+
+/* google map page */
+
+div#map\.md p {
+    text-align: center;
+}
+
+div.googlemaps {
+    display: none;
+}
+
+/* credits page */
+
+.page .section ul.pictures {
+    margin-left: -30px;
+}
+
+.page .section ul.pictures li {
+    list-style: outside none none;
+}
+
+.page .section ul.pictures li a {
+    float: left;
+}
+
+.page .section ul.pictures li span {
+    display: block;
+    margin-left: 100px;
+}
+
+/* citations */
+
+sup {
+    margin-left: -1px;
+    margin-right: 2px;
+}
+
+sup:before {
+    content: " ";
+}
+
+.page .section ul.citations,
+.page .section ul.references {
+    margin-left: -30px;
+}
+
+.page .section ul.citations li:nth-child(1) {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #BBB;
+}
+
+.page .section ul.citations li,
+.page .section ul.references li {
+    list-style: outside none none;
+}
+
+.page .section ul.citations li {
+    font-size: 80%;
+}
+
+.page .section ul.citations li > span:nth-child(1),
+.page .section ul.references li > span:nth-child(1) {
+    display: block;
+    float: left;
+    text-align: left;
+    width: 70px
+}
+
+.page .section ul.citations li > span:nth-child(1) {
+    width: 50px
+}
+
+.page .section ul.references li div {
+    margin-left: 70px;
+}
+
+.page .section ul.citations li div {
+    margin-left: 50px;
+}
+
+.page .section a[href="#"],
+.page .section a[href="#"]:link,
+.page .section a[href="#"]:visited,
+.page .section a[href="#"]:hover,
+.page .section a[href="#"]:focus {
+    text-decoration: none;
+    color: inherit;
+    cursor: text;
+    font-style: italic;
+}
+
+/* page header and footer */
+
+.pdf-footer,
+.pdf-header {
+    margin-top: 20px;
+    color: #aaa;
+}
+.pdf-footer .sub {
+    padding-top: 8px;
+    font-size: 80%;
+}
+.pdf-header .sub {
+    padding-top: 2px;
+    font-size: 80%;
+}
+.pdf-footer {
+    padding-top: 10px;
+    border-top: 1px solid #eee;
+}
+.pdf-footer .footer-pages-count {
+    float: right;
+}
+.pdf-header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+.pdf-header .header-pages-count {
+    float: right;
+    text-align: right;
+}
+.pdf-header .header-pages-count a,
+.pdf-header .header-pages-count a:visited,
+.pdf-header .header-pages-count a:active,
+.pdf-header .header-pages-count a:focus,
+.pdf-header .header-pages-count a:link {
+    text-decoration: none;
+    color: #aaa;
+    cursor: text;
+}
