@@ -1,20 +1,19 @@
 {
     "title": "Creative Power of the Flower of Life",
     "description": "Complementary material to the research document Artifacts of the Flower of Life",
-    
+    "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
-    "plugins": ["image-captions", "ga"],
+    "plugins": ["regexplace", "ga"],
     
     "pluginsConfig": {
         "ga": {
             "token": ""
         },
-        "image-captions": {
-            "token": ""
-        },
         "regexplace": {
             "substitutes": [
+                {"pattern": "<!-- pagewrapper -->", "flags": "g", "substitute": "<div id=\"_PAGE_PATH_\">"},
+                {"pattern": "<!-- endpagewrapper -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
                 {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
@@ -30,19 +29,64 @@
                     "flags": "g", 
                     "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
                     "store": {
-                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (pic. _PAGE_LEVEL_._INDEX_)</span>",
+                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">Pic. _PAGE_LEVEL_._INDEX_</a> <span>$2</span>",
                         "variable_name": "pictures"
+                    }
+                },
+                {
+                    "pattern": "<!-- cite author=\"(.*?)\" title=\"(.*?)\" date=\"(.*?)\" location=\"(.*?)\" type=\"(.*?)\"(.*?) -->",
+                    "flags": "g",
+                    "substitute": "<sup><a id=\"cite_INDEX_\" href=\"references.html#ref_PAGE_LEVEL_._INDEX_\" title=\"$1: $2 $3\" type=\"$5\">_INDEX_</a></sup>",
+                    "store": {
+                        "substitute": "<span><a id=\"ref_PAGE_LEVEL_._INDEX_\" href=\"_PAGE_PATH_#cite_INDEX_\">_PAGE_LEVEL_._INDEX_.</a></span> <div><span>$1:</span> <span><a$6>$2</a></span> <span>$3</span> <span>$4</span></div>",
+                        "variable_name": "citations"
                     }
                 }
             ]
+        },
+        "": [
+            {
+                "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                "flags": "g",
+                "substitute": "$1",
+                "unreset": true,
+                "store": {
+                    "substitute": "{$1}",
+                    "unique": true,
+                    "lower": true,
+                    "variable_name": "uniquewords"
+                }
+            },
+            {
+                "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                "flags": "g",
+                "substitute": "$1",
+                "unreset": true,
+                "store": {
+                    "substitute": "{$1}",
+                    "variable_name": "allwords"
+                }
+            }
+        ],
+        "sitemap": {
+            "hostname": "http://creative.flowerofliferesearch.com/"
         }
     },
-    
+    "variables": {
+        "pictures": [],
+        "allwords": [],
+        "uniquewords": [],
+        "citations": []
+    },
+    "pdf": {
+        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count sub\"><a href=\"http://creative.flowerofliferesearch.com\">http://creative.flowerofliferesearch.com</a></span></div></body></html>",
+        "footerTemplate": "<html><body><div class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: 12/12/2015 | Updated: 12/12/2015 | _AUTHOR_ © 2015</span> <span class=\"footer-pages-count\"> _PAGENUM_</span></body></html>"
+    },
     "styles": {
         "website": "media/website.css",
-        "ebook": "media/epub.css",
-        "pdf": "media/website.css",
-        "mobi": "media/website.css",
-        "epub": "media/epub.css"
+        "ebook": "media/ebook.css",
+        "pdf": "media/ebook.css",
+        "mobi": "media/ebook.css",
+        "epub": "media/ebook.css"
     }
 }
