@@ -183,3 +183,33 @@ figure#fig6\.3\.8 img {
 }
 
 */
+
+div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
+div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+    text-align: center;
+}
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- pre {
+    text-align: center;
+    font-size: 120%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"],
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:link,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:visited,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:hover,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:focus {
+    font-style: normal;
+}
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- blockquote {
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
+/*
+position: absolute;
+clip: rect(250px, 630px, 400px, 440px);
+right: -4%;
+*/
