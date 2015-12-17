@@ -24,6 +24,19 @@ figcaption {
     display: block;
 }
 
+p img {
+    margin-top: 10px;
+}
+
+/* hexagon, hexagram and six-spoked wheel */
+
+figure#fig2\.3\.10,
+figure#fig2\.3\.11,
+figure#fig2\.3\.12 {
+    float:left;
+    width: 33%;
+}
+
 /* table headers */
 
 #page-book-details .details-readme section table thead,
@@ -33,8 +46,8 @@ div#README\.md table thead {
 
 /* ul, ol list margin fix */
 
-.book .book-body .page-wrapper .page-inner section.normal ol,
-.book .book-body .page-wrapper .page-inner section.normal ul {
+.page .section ol,
+.page .section ul {
     margin-bottom: 10px;
 }
 
@@ -46,10 +59,6 @@ div.nopb {
 
 /* note blocks */
 
-div.nopb {
-    page-break-inside: avoid;
-}
-
 div.note {
     background: #FCF8E3 none repeat scroll 0% 0%;
     color: #8A6D3B;
@@ -60,14 +69,14 @@ div.note {
     page-break-inside: avoid;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div.note p {
+.page .section div.note p {
     padding-bottom: 0;
     margin-bottom: 0;
 }
 
 /* quotes */
 
-.book .book-body .page-wrapper .page-inner section.normal blockquote {
+.page .section blockquote {
     margin: 0 0 0 5%;
     font-style: italic;
 }
@@ -163,6 +172,42 @@ sup:before {
     font-style: italic;
 }
 
+/* self referential footnotes */
+
+.page .section div[type="selfref"] a[href="#"],
+.page .section div[type="selfref"] a[href="#"]:link,
+.page .section div[type="selfref"] a[href="#"]:visited,
+.page .section div[type="selfref"] a[href="#"]:hover,
+.page .section div[type="selfref"] a[href="#"]:focus {
+    font-style: normal;
+}
+
+.page .section div[type="selfref"] span:nth-child(1) {
+    display: none;
+}
+
+/* part 1 and 2 image align */
+
+div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
+div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+    text-align: center;
+}
+
+/* big number */
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- pre {
+    text-align: center;
+    font-size: 120%;
+}
+
+/* kalevala quote */
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- blockquote {
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
 /* page header and footer */
 
 .pdf-footer,
@@ -172,11 +217,11 @@ sup:before {
 }
 .pdf-footer .sub {
     padding-top: 8px;
-    font-size: 80%;
+    font-size: 70%;
 }
 .pdf-header .sub {
     padding-top: 2px;
-    font-size: 80%;
+    font-size: 70%;
 }
 .pdf-footer {
     padding-top: 10px;

@@ -1,14 +1,14 @@
 {
-    "title": "Creative Power of the Flower of Life",
+    "title": "Creative power of the Flower of Life",
     "description": "Complementary material to the research document Artifacts of the Flower of Life",
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
-    "plugins": ["regexplace", "ga"],
+    "plugins": ["regexplace", "ga", "mathjax", "-mixpanel"],
     
     "pluginsConfig": {
         "ga": {
-            "token": ""
+            "token": "UA-70930023-2"
         },
         "regexplace": {
             "substitutes": [

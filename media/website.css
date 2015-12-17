@@ -1,4 +1,4 @@
-/* image captions */
+/* images, figures and captions */
 
 figure {
     margin: 1.0em 0px;
@@ -22,6 +22,19 @@ figcaption {
     font-size: 80%;
     color: #666;
     display: block;
+}
+
+p img {
+    margin-top: 10px;
+}
+
+/* hexagon, hexagram and six-spoked wheel */
+
+figure#fig2\.3\.10,
+figure#fig2\.3\.11,
+figure#fig2\.3\.12 {
+    float:left;
+    width: 33%;
 }
 
 /* table headers */
@@ -68,17 +81,6 @@ div.note {
     font-style: italic;
 }
 
-/* google map page */
-
-div#map\.md {
-    text-align: center;
-}
-
-div#map\.md img,
-div#map\.md figure {
-    display: none;
-}
-
 /* credits page */
 
 ul.pictures {
@@ -98,7 +100,7 @@ ul.pictures li span {
     margin-left: 100px;
 }
 
-/* citations */
+/* citations and references */
 
 sup {
     margin-left: -1px;
@@ -107,6 +109,10 @@ sup {
 
 sup:before {
     content: " ";
+}
+
+sup a {
+    font-size: 75%;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,
@@ -160,6 +166,42 @@ ul.citations li {
     font-style: italic;
 }
 
+/* self referential footnotes */
+
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"],
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:link,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:visited,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:hover,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:focus {
+    font-style: normal;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] span:nth-child(1) {
+    display: none;
+}
+
+/* part 1 and 2 image align */
+
+div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
+div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+    text-align: center;
+}
+
+/* big number */
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- pre {
+    text-align: center;
+    font-size: 120%;
+}
+
+/* kalevala quote */
+
+div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- blockquote {
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
 /*
 
 body#fp-README {
@@ -184,32 +226,28 @@ figure#fig6\.3\.8 img {
 
 */
 
-div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
-div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+/* google map page */
+/*
+div#map\.md {
     text-align: center;
 }
 
-div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- pre {
-    text-align: center;
-    font-size: 120%;
+div#map\.md img,
+div#map\.md figure {
+    display: none;
 }
-
-.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"],
-.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:link,
-.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:visited,
-.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:hover,
-.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:focus {
-    font-style: normal;
-}
-
-div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- blockquote {
-    text-align: center;
-    border: 0;
-    margin: 0;
-}
+*/
 
 /*
-position: absolute;
-clip: rect(250px, 630px, 400px, 440px);
-right: -4%;
+figure#fig2\.3\.10 figcaption span,
+figure#fig2\.3\.11 figcaption span,
+figure#fig2\.3\.12 figcaption span {
+    margin-right: -4px;
+    color: white;
+    background-color: white;
+    z-index: 0;
+    position: relative;
+    margin-left: -80px;
+}
 */
+

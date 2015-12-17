@@ -4,7 +4,7 @@
 
 * Drunvalo Melchizedek: The ancient secret of the Flower of Life, Vol. 1&2 (1999 & 2000)
 * Anonymous source (goldin) for geometrical figures and vocabulary of Old Babylonian mathematics: http://wiki.tcl.tk/28557
-* Eleanor Robson: Mesopotamian Mathematics, 2100 - 1600 BC (Chapter 3: http://www.helsinki.fi/~whiting/coefficients01.pdf)
+* Eleanor Robson: Mesopotamian Mathematics, 2100 - 1600 BC (Chapter 3: http://www.helsinki.fi/~whiting/coefficients01.pdf) (1999)
 * The Assyrian Dictionary of the Oriental Institute of the University of Chicago, 25 volumes
 * Martin Bernal: Black Athena, the linguistic evidence
 * Martin Bernal: Afroasiatic Roots of Classical Civilization, Volume I: The Fabrication of Ancient Greece
