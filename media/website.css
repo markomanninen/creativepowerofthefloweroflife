@@ -24,7 +24,7 @@ figcaption {
     display: block;
 }
 
-p img {
+.book .book-body .page-wrapper .page-inner section.normal p img {
     margin-top: 10px;
 }
 
@@ -69,7 +69,7 @@ div.note {
     page-break-inside: avoid;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div.note p {
+div.note p {
     padding-bottom: 0;
     margin-bottom: 0;
 }
@@ -83,35 +83,35 @@ div.note {
 
 /* credits page */
 
-ul.pictures {
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures {
     margin-left: -30px;
 }
 
-ul.pictures li {
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li {
     list-style: outside none none;
 }
 
-ul.pictures li a {
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li a {
     float: left;
 }
 
-ul.pictures li span {
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li span {
     display: block;
     margin-left: 100px;
 }
 
 /* citations and references */
 
-sup {
+.book .book-body .page-wrapper .page-inner section.normal sup {
     margin-left: -1px;
     margin-right: 2px;
 }
 
-sup:before {
+.book .book-body .page-wrapper .page-inner section.normal sup:before {
     content: " ";
 }
 
-sup a {
+.book .book-body .page-wrapper .page-inner section.normal sup a {
     font-size: 75%;
 }
 
@@ -120,18 +120,18 @@ sup a {
     margin-left: -30px;
 }
 
-ul.citations li:nth-child(1) {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li:nth-child(1) {
     margin-top: 20px;
     padding-top: 20px;
     border-top: 1px solid #BBB;
 }
 
-ul.citations li,
-ul.references li {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li,
+.book .book-body .page-wrapper .page-inner section.normal ul.references li {
     list-style: outside none none;
 }
 
-ul.citations li {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li {
     font-size: 80%;
 }
 

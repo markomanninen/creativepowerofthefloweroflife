@@ -24,7 +24,7 @@ figcaption {
     display: block;
 }
 
-p img {
+.page .section p img {
     margin-top: 10px;
 }
 
@@ -69,7 +69,7 @@ div.note {
     page-break-inside: avoid;
 }
 
-.page .section div.note p {
+div.note p {
     padding-bottom: 0;
     margin-bottom: 0;
 }
@@ -112,12 +112,12 @@ div.googlemaps {
 
 /* citations */
 
-sup {
+.page .section sup {
     margin-left: -1px;
     margin-right: 2px;
 }
 
-sup:before {
+.page .section sup:before {
     content: " ";
 }
 
