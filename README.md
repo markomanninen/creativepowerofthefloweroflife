@@ -21,7 +21,7 @@ I hope my independent research provides valuable resources for people to do furt
 | **Description** | Complementary material to the research document [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) |
 | **Keywords** | Flower of Life, six-petal rosette, Apsamikku, concave square, square root of 3, square root of 2, intersecting circles, hexagon, equilateral triangle, Vesica Piscis, Fleur-de-lis, tree of life, menorah, sacred geometry |
 | **Language** | English |
-| **Publish status** | Will be published 2015-xx-xx as an electronic book |
+| **Publish status** | Will be published 2016-xx-xx as an electronic book |
 | **Last updated** | {{ file.mtime }} |
 | **ISBN** | 978-952-68480-3-7 (PDF)<br/>978-952-68480-4-4 (EPUB)<br/>978-952-68480-5-1 (MOBI) |
 | **Collection** | Open-source |
