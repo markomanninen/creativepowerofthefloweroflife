@@ -4,7 +4,7 @@
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
-    "plugins": ["regexplace", "ga", "mathjax", "-mixpanel"],
+    "plugins": ["ga", "mathjax", "-autocover"],
     
     "pluginsConfig": {
         "ga": {
