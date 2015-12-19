@@ -4,9 +4,13 @@
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
-    "plugins": ["regexplace", "ga", "mathjax"],
+    "plugins": ["regexplace", "ga", "addcssjs", "-mathjax"],
     
     "pluginsConfig": {
+        "addcssjs": {
+            "js": ["https://cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_SVG"],
+            "css": []
+        },
         "ga": {
             "token": "UA-70930023-2"
         },
