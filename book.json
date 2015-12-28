@@ -8,7 +8,9 @@
     
     "pluginsConfig": {
         "addcssjs": {
-            "js": ["https://cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_SVG"],
+            "js": ["//cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_SVG",
+                   "//code.jquery.com/jquery-2.1.4.min.js",
+                   "media/jquery-mathjax-to-png.js"],
             "css": []
         },
         "ga": {
