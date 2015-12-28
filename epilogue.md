@@ -1,11 +1,41 @@
 # Epilogue
 
-<!--
-## Framework
 
-## Etymology
+### Framework used in the study
 
-## Geometry
+I have paid a great attention to the study of fields that seem to be off topic, or, at least, shooting a topic of the FOL with a shotgun. I have chosen to do so to show my methodology and path to get answers to the origin of the FOL. Essentially I want to mix the subjective and the objective view to the study because I can't believe the understanding of anything in a humanistic field can happen without "getting involved". Following a bit of the hermeneutic reflection<!-- cite author="René Gothóni" title="Words Matter. Hermeneutics in the Study of Religions" date="2011" location="" type="book" href="#" -->, getting involved in this case means practically drawing the Flower of Life symbol on its different stages by bare hands (as well as computer aided). Contemplating, reading, discussing the topic, traveling around, seeing, smelling and touching symbols on their original environment is another way of getting involved. The third way to get involved is to meet people on modern New Age groups and still alive historical fraternal and gnostic groups who pays attention to the more practical side of the studying symbolism of the ancients. Meeting people in traditional religious and spiritual groups is equally important because they keep alive the ancient heritage by paintings, frescoes, iconography, architecture, literature and so on.
 
-## Mythology
--->
+The problem of constitutional religious groups to get attention to the FOL topic probably comes from the fact that the Flower of Life symbolism was brought to the awareness of public by the New Age movement in the late 20th century. It's a kind of a shame for old traditions if they have totally missed the meaning of so ancient symbol. This association to the pseudo-scientific and neo-religious societies can be the reason why some academic minds are also so eager to deny the significance of the FOL. Artistic individuals and groups are more enthusiastic to the phenomenon since they take thesymbol as a creative source for their impressions. Festival decoration group Flowers of Life<!-- cite author="flowersoflife.net" title="Flower of Life decorations" date="" location="" type="website" href="http://www.flowersoflife.net/" -->, Flower of Life artpark for children<!-- cite author="karlsson-sutisna.com" title="Flower Of Life Artpark" date="" location="" type="website" href="http://www.artpark.karlsson-sutisna.com/" -->, Architect office Kanttia2<!-- cite author="kanttia2.fi" title="Kanttia 2 architect office" date="" location="" type="website" href="http://kanttia2.fi/" -->, Geometrify Virtual Reality application<!-- cite author="geometrify.net" title="Geometrify - Music for Your Eyes" date="" location="" type="website" href="http://geometrify.net/" -->, graphic designer Hannamari Mäkelä<!-- cite author="hannamarimakela.com" title="Geometric paintings" date="" location="" type="website" href="http://www.hannamarimakela.com/Geometriset-maalaukset-Geometric-paintings/" --> are just a few modern examples of inspiration the FOL symbol have given in a small country like Finland.
+
+Recently (11/2015) the world-famous music band Goldplay announced a yet to be released album *A Head Full of Dreams* with the FOL motif in the center of the album cover<!-- cite author="musictimes.com" title="Coldplay New Album A Head Full of Dreams Release Date, Tracklist, Cover and Single Revealed" date="" location="" type="website" href="http://www.musictimes.com/articles/53680/20151106/coldplay-new-album-head-full-dreams-release-date-tracklist-cover.htm" -->. Nassim Haramein, the Director of Research at the Resonance Project Foundation<!-- cite author="resonance.is" title="Resonance Project Foundation" date="" location="" type="website" href="http://resonance.is/" -->, has moved a tremendous mass of people realizing that geometry related to the Flower of Life hexagonal grid may explain deep realms of physics of the universe itself. Worldwide influences of the FOL symbol are too numerous to mention here. Non-notability and non-significant arguments are very weak when reflected whether to the historical or to the modern influence of the symbol. The importance of the symbol has evolved from an anecdotal value to a real statistical phenomenon in the current society which is evident from Google Trends<!-- cite author="google.com" title="Flower of Life - Google Trends" date="" location="" type="website" href="https://www.google.com/trends/explore#q=%2Fm%2F06f1ff&cmpt=q&tz=Etc%2FGMT-2" -->.
+
+
+### Etymology
+
+More pragmatic and objective methods, like the study of the etymology of words, can also be a tool of self-introspection. Since we learn to speak by imitation, most of the words and phrases (if not all) we use, have a very superficial and flat meaning field in the beginning. Questioning the origin of the words by daily basis is a procedure which brings vertical deepness to the understanding the world history. A multitude of words tend to lead us to the same principal root words and syllables, so the procedure is reductive in nature. The reduction is one way to understand oneness, the connection between all things. This kind of work gives a plenty of joyful and insightful eureka moments. But the etymological study also leads to the augmentation because it forces us to learn several different language vocabularies. The increased flood of information requires great patience, filtering, sampling and organized workflow to get controlled.
+
+
+### Geometry
+
+I have taken a geometry to my toolbox for a couple of reasons. Most obvious is the fact that the FOL symbol and pattern is a geometrical shape made with a drawing tool, the compass. But the other reason is a profound philosophy behind a geometry and a geometry of the circle especially. It leads us to shift thinking from linear to rounded and parallel. By dimensional introspections geometry teaches to us to think consciously by analogies and urges us to change perspectives. In a cultic book *Flatland - A romance of many dimensions* by Edward A. Abbott, this is elaborated in great details:
+
+> "Look yonder," said my Guide, "in Flatland thou hast lived; of Lineland thou hast received a vision; thou hast soared with me to the heights of Spaceland; now, in order to complete the range of thy experience, I conduct thee downward to the lowest depth of existence, even to the realm of Pointland, the Abyss of No dimensions.<!-- cite author="Edward A. Abbott" title="Flatland - A romance of many dimensions" date="1891" location="Chapter 20" type="book" href="http://www.geom.uiuc.edu/~banchoff/Flatland/" -->
+
+Reflections of the same object may give us totally different impression when it is looked from a different point of view. For example, a special wedge cut from cylinder to a 3D model looks nothing special at first. But when the light is aimed from three sides of the object, we realize that the single object holds plane figures of a triangle, a square, and a circle.
+
+![Cylindrical wedge projections](/media/3dobject.png)
+
+And many others if you will. This will eventually lead us to the axiomatic "every thing is same and every thing is different" statement. The main task of the thinker is to develop a resolution to see differences and similarities between objects and ability to synthesize things. Next task is to find the threshold, where object still keeps its identity while connecting to the bigger picture. And the third task is to determine if the result and the conclusion can give something new to the community. This is the land where words and forms really matter.
+
+Geometry is also a tool of evaluation which allows us to understand principles behind overwhelming variations, almost infinite forms that nature produces. The geometrical figure made of intersecting circles (FOL) versus the heraldic palmette (the Fleur-de-Lis) versus the figure of a tree (the Tree of Life and the Menorah) looks very different compared to each other. By reduction and changing views, it is possible to see how they are actually from the same origin. Of course, this is more apparent when the third method is combined to the framework, study of mythology.
+
+
+### Mythology
+
+From three of the methods, the mythological one is perhaps the most subjective and the most vulnerable for interpretations. Needless to say, myth word throughout my research doesn't mean unreal, fiction, or falsehood, but quite opposite. John D. Dadosky quotes Mircea Eliade in the book *The Structure of Religious Knowing: Encountering the Sacred in Eliade and Lonergan*:
+
+> In other words, a myth is a true history of what came to pass at the beginning of Time, and one which provides the pattern for human behavior.<!-- cite author="John D. Dadosky" title="The Structure of Religious Knowing: Encountering the Sacred in Eliade and Lonergan" date="2004" location="" type="book" href="#" -->
+
+Since the Flower of Life symbol and pattern mostly occur on ceremonial vessels with beside with mythical creatures and religious context on mosaics and temple walls, it is natural to try to open the FOL symbol by mythology or by religious studies. 
+
+{% include 'footnotes.md' %}
