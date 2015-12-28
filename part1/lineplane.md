@@ -2,7 +2,7 @@
 
 ![Yin-Yang](/media/yin_yang.png){style float:left;width:70px;height:70px;margin:-2px 15px 0 0}
 
-Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol which contains the idea of opposite seeds. You can see the white seed on the black background and black seed on the white background in a relationship that enables everlasting change and mutation. Not only two is apparent on a line, two points (A & B) and the relation between them or one segment with two ends are giving three "things" at once. Is this the reason why ancient arithmeticians didn't regard one and two as numbers at all, but rather said that three is the first real number? Subject, object and the relation between them, they all are included simultaneously on the conscious act of the investigator.
+Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol which contains the idea of opposite seeds. We can see the white seed on the black background and black seed on the white background in a relationship that enables everlasting change and mutation. Not only two is apparent on a line, two points (A & B) and the relation between them or one segment with two ends are giving three "things" at once. Is this the reason why ancient arithmeticians didn't regard one and two as numbers at all, but rather said that three is the first real number? Subject, object and the relation between them, they all are included simultaneously on the conscious act of the investigator.
 
 
 ### Triangle and square
@@ -41,7 +41,7 @@ Angle is a new notable feature on the second dimension that should be carefully 
 
 ![Slope as a ratio and logos](/media/3per2slope.png){caption=1}
 
-Thus, the ratio is 3 / 2 or its reciprocal 2 / 3 depending on which is the property on you want to compare, a width to a height or a height to a width. Generalizing this idea Thales, the famous mathematician from Miletus around 600 BC found that he can deductively calculate the long forgotten and impossible to measure the height of the Great Pyramid based on the height of himself and the length of his own shadow at the certain time of a day<!-- cite author="Julia E. Diggins" title="String, Straightedge, and Shadow" date="1965" location="Chapter 8" type="book" href="http://www.anselm.edu/homepage/dbanach/thales.htm" -->. This is the very base of the logic itself because using ratios (that is defining relations) and proportions (which is using analogies), logical reasoning is possible. In fact, logic or Logos as ancient Greeks called it, is an actualized proportion.
+Thus, the ratio is 3 / 2 or its reciprocal 2 / 3 depending on which is the property on we want to compare, a width to a height or a height to a width. Generalizing this idea Thales, the famous mathematician from Miletus around 600 BC found that he can deductively calculate the long forgotten and impossible to measure the height of the Great Pyramid based on the height of himself and the length of his own shadow at the certain time of a day<!-- cite author="Julia E. Diggins" title="String, Straightedge, and Shadow" date="1965" location="Chapter 8" type="book" href="http://www.anselm.edu/homepage/dbanach/thales.htm" -->. This is the very base of the logic itself because using ratios (that is defining relations) and proportions (which is using analogies), logical reasoning is possible. In fact, logic or Logos as ancient Greeks called it, is an actualized proportion.
 
 
 ### ...deep waters
