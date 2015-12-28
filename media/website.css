@@ -37,6 +37,14 @@ figure#fig2\.3\.12 {
     width: 33%;
 }
 
+figure#fig4\.2,
+figure#fig4\.3,
+figure#fig4\.4 {
+    float:left;
+    width: 31%;
+    margin: 0 5px;
+}
+
 /* table headers */
 
 #page-book-details .details-readme section table thead,
@@ -200,6 +208,9 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     text-align: center;
     border: 0;
     margin: 0;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal img.svg {
 }
 
 /*
