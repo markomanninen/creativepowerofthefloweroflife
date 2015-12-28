@@ -32,7 +32,10 @@
 * Nadezhda Nikolenko: Ornament as a Symbol of Intercultural Communication (2013) 
 * R. P. Kulkarni: Geometry known to the people of Indus civilization (2013)
 * Gonzague Quivron: The Evolution on the Mature Indus Pottery Style in the Light of the Excavations at Nausharo, Pakistan (2000)
-
+* Edward A. Abbott: Flatland - A romance of many dimensions (1891)
+* John D. Dadosky: The Structure of Religious Knowing: Encountering the Sacred in Eliade and Lonergan (2004)
+* Karl Popper: The Logic of Scientific Discovery (1959)
+* René Gothóni: Words Matter. Hermeneutics in the Study of Religions (2011)
 
 ### Websites
 
