@@ -211,6 +211,11 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
 }
 
 .book .book-body .page-wrapper .page-inner section.normal img.svg {
+    
+}
+
+.book .book-body .page-wrapper .page-inner section.normal p img.math {
+    margin-top: -5px;
 }
 
 /*
