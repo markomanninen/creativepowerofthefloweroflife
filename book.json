@@ -5,13 +5,12 @@
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
     "plugins": ["regexplace", "ga"],
-    "_plugins": ["regexplace", "ga", "addcssjs", "-mathjax"],
     
     "pluginsConfig": {
         "_addcssjs": {
             "js": ["//cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_SVG",
                    "//code.jquery.com/jquery-2.1.4.min.js",
-                   "media/jquery-mathjax-to-png.js"],
+                   "media/jquery-mathjax-to-img.js?png=0&dlpng=0&dlsvg=0&scale=4&output=0"],
             "css": []
         },
         "ga": {

@@ -208,6 +208,30 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     margin: 0;
 }
 
+/* math image styles */
+
+.page .section p img.svg,
+.page .section p img.png {
+    margin-top: 0px;
+    margin-bottom: -2px;
+}
+
+.page .section p img.math {
+    vertical-align: middle;
+    height: auto; 
+    width: auto;
+    margin-top: -4px;
+    max-height: 15px;
+}
+.page .section p img.math.line1 {
+    margin-top: -7px;
+    max-height: 19px;
+}
+.page .section p img.math.line2 {
+    margin-top: -1px;
+    max-height: 30px;
+}
+
 /* page header and footer */
 
 .pdf-footer,

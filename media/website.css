@@ -210,12 +210,28 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     margin: 0;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal img.svg {
-    
+/* math image styles */
+
+.book .book-body .page-wrapper .page-inner section.normal img.svg,
+.book .book-body .page-wrapper .page-inner section.normal img.png {
+    margin-top: 0px;
+    margin-bottom: -2px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal p img.math {
-    margin-top: -5px;
+    vertical-align: middle;
+    height: auto; 
+    width: auto;
+    margin-top: -4px;
+    max-height: 15px;
+}
+.book .book-body .page-wrapper .page-inner section.normal p img.math.line1 {
+    margin-top: -7px;
+    max-height: 19px;
+}
+.book .book-body .page-wrapper .page-inner section.normal p img.math.line2 {
+    margin-top: -1px;
+    max-height: 30px;
 }
 
 /*

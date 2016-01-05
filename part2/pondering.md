@@ -1,6 +1,6 @@
 # Pondering the name
 
-Proof-reading process...
+In proofreading process...
 
 <!--
 ## Apsamikku extended
