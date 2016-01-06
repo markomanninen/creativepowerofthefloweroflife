@@ -28,6 +28,11 @@ figcaption {
     margin-top: 10px;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal table img.faded {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
 /* hexagon, hexagram and six-spoked wheel */
 
 figure#fig2\.3\.10,
@@ -120,7 +125,7 @@ div.note p {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal sup a {
-    font-size: 75%;
+    
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,

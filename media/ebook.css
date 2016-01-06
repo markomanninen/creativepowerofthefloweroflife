@@ -121,6 +121,10 @@ div.googlemaps {
     content: " ";
 }
 
+.page .section sup a {
+    font-size: 75%;
+}
+
 .page .section ul.citations,
 .page .section ul.references {
     margin-left: -30px;
