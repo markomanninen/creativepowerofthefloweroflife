@@ -126,6 +126,16 @@ But this doesn't mean that an ornament can't act as a symbol, even it itself mig
 
 Knowing the simplicity of the construction of the FOL, it is a little bit struggling to find out that the four-petal lattice, the Cownose pattern (or Apsamikku), outscores the FOL by being a far more common symbol in Sumerian and Indus cultures. The popularity of the Cownose over the FOL is still notable in Greco-Roman mosaics. Cownose seems to be the most analyzed geometric form from the ancient time by modern researchers as well. In books about Old Babylonian mathematics and geometry, authors tend to use most of the effort (Duncan Melville, Eleanor Robson, Tom Zara, Jöran Friberg) to the Apsamikku (we may follow the endless debate over the name) and <img src="/media/math/sqrt2.png" class="math line1" /> only casually mentioning the six-petal rosette, Vesica Piscis or <img src="/media/math/sqrt3.png" class="math line1" />. For an additional example, R. P. Kulkarni mentions Mackay (1948) demonstrating a 12 division base of the four-petal rosette on the Plate XVIII<!-- cite author="R. P. Kulkarni" title="Geometry known to the people of Indus civilization" date="2013" location="Page 452" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005af9_117.pdf" --> which dates to 3rd or 2nd millennium Indus culture. The exact dating is hard to deduce from the text. But again, the Cownose gets the full attention.
 
+Ancient Edakkal caves in India gives an impression of neolithic people trying to figure out the difference between concepts of dividing circle to six and eight parts. Picture below was kindly provided and permitted for use by Tes<!-- cite author="tesathome.com" title="Edakkal Caves | Tes at Home" date="" location="" type="website" href="http://tesathome.com/2013/05/31/edakkalcaves/" -->:
+
+![Six and eight-spoked wheels in Edakkal caves © Tes](/media/edakkal-caves.jpg){caption=1 width=600}
+
+Wiki page states the ancient history of the caves:
+
+> Edakkal Caves are two natural caves at a remote location at Edakkal, 25 km from Kalpetta in the Wayanad district of Kerala in India's Western Ghats. They lie 1,200 metres above sea level on Ambukutty Mala, beside an ancient trade route connecting the high mountains of Mysore to the ports of the Malabar coast. Inside the caves are pictorial writings believed to date to at least 6,000 BC, from the Neolithic man, indicating the presence of a prehistoric civilization or settlement in this region. The Stone Age carvings of Edakkal are rare and are the only known examples from south India.<!-- cite author="wikipedia.org" title="Edakkal Caves" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Edakkal_Caves" -->
+
+These separate but connected ideas of the binary and the trinary division of wheels are crusial to understand further development of the Cownose and the Flower of Life patterns.
+
 
 ### Oldest reference of the FOL pattern so far
 
