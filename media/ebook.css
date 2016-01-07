@@ -28,6 +28,11 @@ figcaption {
     margin-top: 10px;
 }
 
+.page .section table img.faded {
+    opacity: 0.2;
+    filter: alpha(opacity=20); /* For IE8 and earlier */
+}
+
 /* hexagon, hexagram and six-spoked wheel */
 
 figure#fig2\.3\.10,
@@ -35,6 +40,44 @@ figure#fig2\.3\.11,
 figure#fig2\.3\.12 {
     float:left;
     width: 33%;
+}
+
+figure#fig4\.2,
+figure#fig4\.3,
+figure#fig4\.4 {
+    float:left;
+    width: 31%;
+    margin: 0 5px;
+}
+
+figure#fig13\.1,
+figure#fig13\.2,
+figure#fig13\.3 {
+    float:left;
+    width: 32%;
+    margin: 0 5px;
+}
+
+figure#fig13\.1 img,
+figure#fig13\.2 img,
+figure#fig13\.3 img {
+    width: 80%;
+}
+
+figure#fig13\.1:after {
+    content: "PDF";
+}
+figure#fig13\.2:after {
+    content: "EPUB";
+}
+figure#fig13\.3:after {
+    content: "MOBI";
+}
+
+figure#fig13\.1 figcaption,
+figure#fig13\.2 figcaption,
+figure#fig13\.3 figcaption {
+    display: none;
 }
 
 /* table headers */
