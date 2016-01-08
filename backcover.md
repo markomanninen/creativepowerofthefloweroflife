@@ -1,4 +1,4 @@
-<div style="page-break-before: right"></div>
+<div style="page-break-inside: always;"></div>
 
 <!-- pagewrapper -->
 

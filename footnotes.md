@@ -5,5 +5,3 @@
 {% endfor %}
 </ul>
 {% endif %}
-
-{% include 'headerfooter.md' %}

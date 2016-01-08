@@ -299,7 +299,7 @@ div#part1\/pointline\.md blockquote {
 }
 
 /* manual headers and footers */
-
+/*
 .divHeader,
 .divFooter {
     color: #aaa;
@@ -343,6 +343,7 @@ div#part1\/pointline\.md blockquote {
     color: #aaa;
     cursor: text;
 }
+*/
 
 /*
 

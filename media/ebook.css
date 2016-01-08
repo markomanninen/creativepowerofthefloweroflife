@@ -353,16 +353,17 @@ div#part1\/pointline\.md blockquote {
 
 /* remove header and footer from back cover */
 
-.pdf-header:nth-child(1),
-.pdf-footer:nth-child(1) {
+.pdf-header-72,
+.pdf-footer-72 {
     display: none;
 }
 
+/*
 .divHeader,
 .divFooter {
     color: #aaa;
     position: fixed;
-    width: 53.5%;
+    width: 100%;
     background-color: white;
     padding: 10px 0;
 }
@@ -400,3 +401,4 @@ div#part1\/pointline\.md blockquote {
     color: #aaa;
     cursor: text;
 }
+*/
