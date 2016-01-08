@@ -102,6 +102,10 @@ div.pagebreak {
     page-break-after: always;
 }
 
+.page .section.toc  {
+    page-break-before: always;
+}
+
 /* no page break inside element on pdf/print definition */
 
 div.nopb {
