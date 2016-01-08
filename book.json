@@ -18,6 +18,7 @@
         },
         "regexplace": {
             "substitutes": [
+                {"pattern": "<!-- pagebreak -->", "flags": "g", "substitute": "<div class=\"pagebreak\"></div>"},
                 {"pattern": "<!-- pagewrapper -->", "flags": "g", "substitute": "<div id=\"_PAGE_PATH_\">"},
                 {"pattern": "<!-- endpagewrapper -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},

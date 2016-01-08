@@ -50,11 +50,13 @@ figure#fig4\.4 {
     margin: 0 5px;
 }
 
+/* bar codes */
+
 figure#fig13\.1,
 figure#fig13\.2,
 figure#fig13\.3 {
     float:left;
-    width: 32%;
+    width: 30%;
     margin: 0 5px;
 }
 
@@ -94,7 +96,13 @@ div#README\.md table thead {
     margin-bottom: 10px;
 }
 
-/* no page break pdf/print definition */
+/* page break always after element on pdf/print definition */
+
+div.pagebreak {
+    page-break-after: always;
+}
+
+/* no page break inside element on pdf/print definition */
 
 div.nopb {
     page-break-inside: avoid;
@@ -267,6 +275,11 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
 .book .book-body .page-wrapper .page-inner section.normal p img.math.line2 {
     margin-top: -1px;
     max-height: 30px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md {
+    width: 89%;
+    margin: 0 auto;
 }
 
 /*
