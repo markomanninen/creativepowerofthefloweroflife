@@ -40,11 +40,11 @@ Clearly main properties attached to objects are feminine, beauty, celebration, w
 
 ### Item 3
 
-![Wall drawing on Rožmberk castle © Mark Libal](/media/rozmberk-castle-wall.jpg){caption=1 width=400}
+![Wall drawing on Rožmberk castle © Mark Libal](/media/rozmberk-castle-wall.jpg){caption=1 width=450}
 
 Above the Flower of Life class 2 symbol without surrounding petals and other geometric symbols are visible in the castle of Rožmberk<!-- cite author="wikipedia.org" title="Rožmberk Castle" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Ro%C5%BEmberk_Castle" --> in the Czech Republic. On 14 - 16th century AD castle was owned by a Czech alchemist. Variating geometrical symbols are probably originating from that period.
 
-![Rožmberk castle © Sju](/media/rozmberk-castle.jpg){caption=1 width=400}
+![Rožmberk castle © Sju](/media/rozmberk-castle.jpg){caption=1 width=450}
 
 <!-- endnopb -->
 <!-- nopb -->

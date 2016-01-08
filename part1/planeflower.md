@@ -134,7 +134,7 @@ Wiki page states the ancient history of the caves:
 
 > Edakkal Caves are two natural caves at a remote location at Edakkal, 25 km from Kalpetta in the Wayanad district of Kerala in India's Western Ghats. They lie 1,200 metres above sea level on Ambukutty Mala, beside an ancient trade route connecting the high mountains of Mysore to the ports of the Malabar coast. Inside the caves are pictorial writings believed to date to at least 6,000 BC, from the Neolithic man, indicating the presence of a prehistoric civilization or settlement in this region. The Stone Age carvings of Edakkal are rare and are the only known examples from south India.<!-- cite author="wikipedia.org" title="Edakkal Caves" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Edakkal_Caves" -->
 
-These separate but connected ideas of the binary and the trinary division of wheels are crusial to understand further development of the Cownose and the Flower of Life patterns.
+These separate but connected ideas of the binary and the trinary division of wheels are crusial to understand further development of the Cownose and the Flower of Life pattern.
 
 
 ### Oldest reference of the FOL pattern so far
