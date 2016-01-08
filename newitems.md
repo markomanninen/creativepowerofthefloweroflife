@@ -1,3 +1,4 @@
+<!-- pagewrapper -->
 # New items
 
 Next seven new items consist of five rather modern artifacts (1400 - 1900 AD), one group of vessels and a terracotta torso from the Cypro-Archaic period (800 - 600 BC) and one special ivory item from the Late Bronze Age (1650 - 1050 BC), all with the FOL symbol attached on them. All items from the previous research 2014 and new items presented in this document are collectively listed on [Appendix 2](appendix2.md).
@@ -102,5 +103,7 @@ http://www.rodzimawiara.org.pl/forum-rodzimej-wiary/15-filozofia-rodzimowiercza/
 -->
 
 <!-- endnopb -->
+
+<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

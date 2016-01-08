@@ -164,6 +164,7 @@ div.note p {
 .book .book-body .page-wrapper .page-inner section.normal sup {
     margin-left: -1px;
     margin-right: 2px;
+    font-size: 80%;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal sup:before {
@@ -290,6 +291,10 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
 .book .book-body .page-wrapper .page-inner section.normal div#backcover\.md {
     width: 89%;
     margin: 0 auto;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div#newitems\.md h3 {
+    page-break-after: always;
 }
 
 /*
