@@ -361,6 +361,11 @@ div#part1\/pointline\.md blockquote {
     display: none;
 }
 
+body:before {
+    counter-increment: body;
+    content: counter(body);
+}
+
 /*
 .divHeader,
 .divFooter {
