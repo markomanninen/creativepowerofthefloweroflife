@@ -357,3 +357,46 @@ div#part1\/pointline\.md blockquote {
 .pdf-footer:nth-child(1) {
     display: none;
 }
+
+.divHeader,
+.divFooter {
+    color: #aaa;
+    position: fixed;
+    width: 53.5%;
+    background-color: white;
+    padding: 10px 0;
+}
+.divHeader {
+    top: 0;
+    border-bottom: 1px solid #eee;
+    padding: 15px 0 5px 0;
+}
+.divFooter {
+    bottom: 0;
+    padding: 10px 0;
+    border-top: 1px solid #eee;
+}
+.divFooter .sub,
+.divHeader .sub {
+    font-size: 70%;
+}
+.divFooter .footer-pages-count {
+    float: right;
+}
+.divFooter .footer-pages-count:before {
+    counter-increment: page;
+    content: counter(page);
+}
+.divHeader .header-pages-count {
+    float: right;
+    text-align: right;
+}
+.divHeader .header-pages-count a,
+.divHeader .header-pages-count a:visited,
+.divHeader .header-pages-count a:active,
+.divHeader .header-pages-count a:focus,
+.divHeader .header-pages-count a:link {
+    text-decoration: none;
+    color: #aaa;
+    cursor: text;
+}

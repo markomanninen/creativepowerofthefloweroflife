@@ -86,6 +86,10 @@
         }
     },
     "variables": {
+        "author": "Marko Manninen",
+        "title": "Creative power of the Flower of Life",
+        "url": "http://creative.flowerofliferesearch.com",
+        "page_count": 72,
         "pictures": [],
         "allwords": [],
         "uniquewords": [],
