@@ -353,7 +353,7 @@ div#part1\/pointline\.md blockquote {
 
 /* remove header and footer from back cover */
 
-.pdf-header:nth-child(72),
-.pdf-footer:nth-child(72) {
+.pdf-header:nth-child(71),
+.pdf-footer:nth-child(71) {
     display: none;
 }
