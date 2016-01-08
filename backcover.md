@@ -5,7 +5,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div style="float:right; width: 27%">
 
@@ -41,7 +40,7 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 <br/><br/>
 
-<hr style="width:95%"/>
+<hr style="width:96%"/>
 
 <br/><br/>
 

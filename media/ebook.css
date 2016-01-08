@@ -258,14 +258,14 @@ div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner se
 
 /* big number */
 
-div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- pre {
+div#part1\/pointline\.md pre {
     text-align: center;
     font-size: 120%;
 }
 
 /* kalevala quote */
 
-div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inner section#section- blockquote {
+div#part1\/pointline\.md blockquote {
     text-align: center;
     border: 0;
     margin: 0;
