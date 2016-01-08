@@ -361,9 +361,20 @@ div#part1\/pointline\.md blockquote {
     display: none;
 }
 
+/*
 .page:before {
     counter-increment: page;
     content: counter(page);
+}
+*/
+
+@page { counter-increment: page }
+
+.pdf-header .header-pages-count:before { content: counter(page) }
+
+@page:last .pdf-header,
+@page:last .pdf-header {
+    display: none;
 }
 
 /*
