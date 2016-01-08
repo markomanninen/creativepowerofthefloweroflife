@@ -282,6 +282,10 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     margin: 0 auto;
 }
 
+.book .book-summary ul.summary li[data-level="13"] {
+    display: none;
+}
+
 /*
 
 body#fp-README {

@@ -1,7 +1,9 @@
 <!-- pagebreak -->
-
+<!-- pagebreak -->
 <!-- pagewrapper -->
 
+<br/>
+<br/>
 <br/>
 
 <div style="float:right; width: 220px">
@@ -36,8 +38,11 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 </div>
 
+<br/>
 
 <hr style="width:95%"/>
+
+<br/>
 
 *Creative power of the Flower of Life* electronic book is published in four different formats: [Online](http://creative.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
 
