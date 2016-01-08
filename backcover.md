@@ -1,39 +1,39 @@
-<!-- pagebreak -->
-<!-- pagebreak -->
+<div style="page-break-before: left"></div>
+
 <!-- pagewrapper -->
 
 <br/>
 <br/>
 <br/>
 
-<div style="float:right; width: 220px">
+<div style="float:right; width: 27%">
 
 <img src="/media/marko.jpg" width="200" style="border:1px solid #CCC; padding: 3px;"/>
 
-<p style="font-size: 90%; width: 90%; padding-left: 2px"><b>About the Author</b><br/>Marko Manninen is an indie writer, musician, and programmer. He has spent past 25 years studying comparative religions, practical symbolism and perennial philosophy.</p>
+<p style="font-size: 90%; width: 90%; padding-left: 2px"><b>About the Author</b><br/>Marko Manninen is an indie writer, a kirtan musician, and a professional programmer. He has spent past 25 years studying practical symbolism and perennial philosophy.</p>
 
 </div>
 
 <div style="padding: 0 0 0 25px; right: 25px; position: relative;">
 
 <p>
-The debate over the controversial symbol, the <b>Flower of Life</b>, is getting new standards with the upright independent research that demystify the history of the Flower of Life, yet honors the old legacy of the ancients.
+The debate over the controversial symbol, the <b>Flower of Life</b>, is getting new standards with the upright independent research that demystify the history of the Flower of Life, yet honors the legacy of the Ancients.
 </p>
 
 <p>
-"<i>Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC.</i>"
+<i>"Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC."</i>
 </p>
 
-<p>Highlight of the essay are:</p>
+<p>Highlights of the essay are:</p>
 
 <ul>
-	<li>Development of the geometry of the Flower of Life</li>
-	<li>Introducing the Cownose, another intersecting circles pattern related with the Flower of Life</li>
-	<li>Cataloging over 40 items containing the Flower of Life symbol</li>
+	<li style="list-style: square;">Development of the geometry of the Flower of Life</li>
+	<li style="list-style: square;">Introducing the Cownose, another intersecting circles pattern related with the Flower of Life</li>
+	<li style="list-style: square;">Cataloging over 40 items containing the Flower of Life symbol</li>
 </ul>
 
 <p>
-"<i>For the first time, the historical artifacts of the Flower of Life are presented in this form or in this scale<i>."
+<i>"For the first time, the historical artifacts of the Flower of Life are presented in this form or in this scale"</i>.
 </p>
 
 </div>

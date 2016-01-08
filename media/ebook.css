@@ -161,6 +161,14 @@ div.googlemaps {
     margin-left: 100px;
 }
 
+/* remove barcode pictures */
+
+.page .section ul.pictures li:nth-child(1),
+.page .section ul.pictures li:nth-child(2),
+.page .section ul.pictures li:nth-child(3) {
+    display: none;
+}
+
 /* citations */
 
 .page .section sup {
@@ -285,6 +293,13 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
 .page .section p img.math.line2 {
     margin-top: -1px;
     max-height: 30px;
+}
+
+/* backcover adjust */
+
+.page .section div#backcover\.md {
+    width: 89%;
+    margin: 0 auto;
 }
 
 /* page header and footer */

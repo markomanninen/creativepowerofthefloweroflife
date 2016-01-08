@@ -151,6 +151,14 @@ div.note p {
     margin-left: 100px;
 }
 
+/* remove barcode pictures */
+
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(1),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(2),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(3) {
+    display: none;
+}
+
 /* citations and references */
 
 .book .book-body .page-wrapper .page-inner section.normal sup {
@@ -277,13 +285,11 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     max-height: 30px;
 }
 
+/* backcover adjust */
+
 .book .book-body .page-wrapper .page-inner section.normal div#backcover\.md {
     width: 89%;
     margin: 0 auto;
-}
-
-.book .book-summary ul.summary li[data-level="13"] {
-    display: none;
 }
 
 /*
