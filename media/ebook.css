@@ -361,9 +361,9 @@ div#part1\/pointline\.md blockquote {
     display: none;
 }
 
-body:before {
-    counter-increment: body;
-    content: counter(body);
+.page:before {
+    counter-increment: page;
+    content: counter(page);
 }
 
 /*
