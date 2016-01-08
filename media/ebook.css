@@ -368,14 +368,23 @@ div#part1\/pointline\.md blockquote {
 }
 */
 
+.page .section:before {
+    counter-increment: section;
+    content: counter(section);
+}
+
+/*
+
 @page { counter-increment: page }
 
 .pdf-header .header-pages-count:before { content: counter(page) }
 
 @page:last .pdf-header,
-@page:last .pdf-header {
+@page:last .pdf-footer {
     display: none;
 }
+
+*/
 
 /*
 .divHeader,
