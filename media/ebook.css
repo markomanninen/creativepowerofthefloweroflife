@@ -302,6 +302,10 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
     margin: 0 auto;
 }
 
+.page .section div#newitems\.md h3 {
+    page-break-before: always;
+}
+
 /* page header and footer */
 
 .pdf-footer,

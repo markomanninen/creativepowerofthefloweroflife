@@ -294,7 +294,7 @@ div[data-filepath="part1/pointline.md"].book .book-body .page-wrapper .page-inne
 }
 
 .book .book-body .page-wrapper .page-inner section.normal div#newitems\.md h3 {
-    page-break-after: always;
+    page-break-before: always;
 }
 
 /*
