@@ -28,9 +28,9 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 <p>Highlights of the essay are:</p>
 
 <ul>
-	<li style="list-style: square;">Development of the geometry of the Flower of Life</li>
-	<li style="list-style: square;">Introducing the Cownose, another intersecting circles pattern related with the Flower of Life</li>
-	<li style="list-style: square;">Cataloging over 40 items containing the Flower of Life symbol</li>
+	<li style="list-style: square;">The early development of the geometry of the Flower of Life</li>
+	<li style="list-style: square;">Introducing <b>the Cownose</b>, another intersecting circles pattern related with the Flower of Life</li>
+	<li style="list-style: square;">Cataloging over 40 items containing the Flower of Life symbol from 1600 BC to 1600 AD</li>
 </ul>
 
 <p>
