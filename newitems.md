@@ -82,15 +82,17 @@ Another remarkable detail is the pointillism used on the surface of the flat ivo
 <!-- endnopb -->
 <!-- nopb -->
 
-### Item 7
+### Item 7 (a, b, c)
 
-![Woodcarvings from Poland © Tatra Museum](/media/kwiat-zycia-zakopane-1.png){caption=1 width=600}
+![Woodcarvings from Zakopane, Poland © Tatra Museum](/media/kwiat-zycia-zakopane-1.png){caption=1 width=600}
 
-Above kind of ornament is very common in Zakopane town, Poland. The Flower of Life is called *Kwiat Życia* in Polish. You can find more similar photos from my Pinterest collection<!-- cite author="Marko Manninen" title="Flower of Life Pinterest board" date="" location="" type="website" href="http://pinterest.com/markomanninen/flower-of-life-history/" -->. The photo presented above is from the Tatra Museum in Zakopane collection and used with permission<!-- cite author="muzeumtatrzanskie.pl" title="Muzeum Tatrzanskie - Willa Oksza" date="" location="" type="website" href="http://www.muzeumtatrzanskie.pl/?strona%2Cdoc%2Cpol%2Cglowna%2C1376%2C0%2C842%2C1%2C1376%2Cant.html" -->.
+![Woodcarvings from Zakopane, Poland © Andre](/media/zakopane-kwiatu-zycia.jpg){caption=1 width=600}
+
+Above kind of ornaments are very common in Zakopane town, Poland. The Flower of Life is called *Kwiat Życia* in Polish. You can find more similar photos from my Pinterest collection<!-- cite author="Marko Manninen" title="Flower of Life Pinterest board" date="" location="" type="website" href="http://pinterest.com/markomanninen/flower-of-life-history/" -->. The left photo presented above is from the Tatra Museum in Zakopane collection and used with permission<!-- cite author="muzeumtatrzanskie.pl" title="Muzeum Tatrzanskie - Willa Oksza" date="" location="" type="website" href="http://www.muzeumtatrzanskie.pl/?strona%2Cdoc%2Cpol%2Cglowna%2C1376%2C0%2C842%2C1%2C1376%2Cant.html" -->. The right photo is from museum, but taken and permitted for use by Andre<!-- cite author="niemasciemy.wordpress.com" title="Wzory i ornamenty w domach góralskich a symbol kwiatu życia" date="" location="" type="website" href="https://niemasciemy.wordpress.com/2015/10/20/wzory-i-ornamenty-w-domach-goralskich-a-symbol-kwiatu-zycia/" -->.
 
 The FOL symbol has been used widely on woodcarvings around the Europe and the Mediterranean world in 1600 - 1900 AD. It was a common practice for carpenters to decorate ready-made buildings with circular symbols. It is possible that the FOL eventually become a sign of woodworking guilds at that era. You can see similar practice on the wood pole below:
 
-![Wooden pole from a church in Cyprus](/media/wooden-pole.png){caption=1 width=600}
+![Wooden pole from Cyprus](/media/wooden-pole.png){caption=1 width=600}
 
 Hexagonal ornament and carvings on the wooden pole was brought from the mountains to the medieval museum of Lemesos (Limassol, Cyprus) when the original 1600 AD orthodox church roof was replaced by a new one. The underside of the pole, although dim to see clearly, also has the FOL class 2 symbol.
 
