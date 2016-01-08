@@ -98,12 +98,16 @@ div#README\.md table thead {
 
 /* page break always after element on pdf/print definition */
 
-div.pagebreak {
-    page-break-after: always;
+div.page-break {
+    page-break-inside: always;
+}
+
+div.page-break:before {
+    content: ' ';
 }
 
 .page .section.toc  {
-    page-break-before: always;
+    page-break-inside: always;
 }
 
 /* no page break inside element on pdf/print definition */
@@ -306,7 +310,6 @@ div#part1\/pointline\.md blockquote {
     margin: 0 auto;
 }
 
-.page .section div#backcover\.md,
 .page .section div#newitems\.md h3 {
     page-break-before: always;
 }
@@ -353,8 +356,8 @@ div#part1\/pointline\.md blockquote {
 
 /* remove header and footer from back cover */
 
-.pdf-header-72,
-.pdf-footer-72 {
+.pdf-header.pdf-header-72,
+.pdf-header.pdf-footer-72 {
     display: none;
 }
 

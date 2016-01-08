@@ -1,4 +1,4 @@
-<div style="page-break-inside: always;">*</div>
+<!-- pagebreak -->
 
 <!-- pagewrapper -->
 
@@ -40,7 +40,7 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 <br/><br/>
 
-<hr style="width:96%"/>
+<hr style="width:97%"/>
 
 <br/><br/>
 
