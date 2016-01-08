@@ -1,7 +1,8 @@
-<div style="page-break-before: left"></div>
+<div style="page-break-before: right"></div>
 
 <!-- pagewrapper -->
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -53,3 +54,5 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 ![EPUB](/media/978-952-68480-4-4/isbn.png){caption=1}
 
 ![MOBI](/media/978-952-68480-3-7/isbn.png){caption=1}
+
+<div style="clear: both"></div>
