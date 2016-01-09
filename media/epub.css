@@ -320,6 +320,10 @@ div#part1\/pointline\.md blockquote {
     padding-bottom: 10px;
 }
 
+.page .section div#backcover\.md p:nth-child(1) br {
+    display: none;
+}
+
 /* page header and footer */
 
 .pdf-footer,

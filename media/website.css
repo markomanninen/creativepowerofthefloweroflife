@@ -302,6 +302,9 @@ div#part1\/pointline\.md blockquote {
     width: 27%;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md p:nth-child(1) br {
+    display: none;
+}
 
 /* manual headers and footers */
 /*
