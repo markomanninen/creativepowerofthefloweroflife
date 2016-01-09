@@ -293,7 +293,6 @@ div#part1\/pointline\.md blockquote {
     margin: 0 auto;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md,
 .book .book-body .page-wrapper .page-inner section.normal div#newitems\.md h3 {
     page-break-before: always;
 }

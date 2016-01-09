@@ -5,6 +5,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div style="float:right; width: 27%">
 
@@ -32,17 +33,19 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 	<li style="list-style: square;">Cataloging over 40 items containing the Flower of Life symbol from 1600 BC to 1600 AD</li>
 </ul>
 
+<br/>
+
 <p>
 <i>"For the first time, the historical artifacts of the Flower of Life are presented in this form or in this scale"</i>.
 </p>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <hr style="width:97%"/>
 
-<br/><br/>
+<br/>
 
 *Creative power of the Flower of Life* electronic book is published in four different formats: [Online](http://creative.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
 
