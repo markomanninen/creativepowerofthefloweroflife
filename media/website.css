@@ -297,6 +297,12 @@ div#part1\/pointline\.md blockquote {
     page-break-before: always;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md div.author {
+    float:right;
+    width: 27%;
+}
+
+
 /* manual headers and footers */
 /*
 .divHeader,
@@ -392,4 +398,3 @@ figure#fig2\.3\.12 figcaption span {
     margin-left: -80px;
 }
 */
-

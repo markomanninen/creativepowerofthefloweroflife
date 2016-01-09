@@ -86,10 +86,6 @@
         }
     },
     "variables": {
-        "author": "Marko Manninen",
-        "title": "Creative power of the Flower of Life",
-        "url": "http://creative.flowerofliferesearch.com",
-        "page_count": 72,
         "pictures": [],
         "allwords": [],
         "uniquewords": [],
@@ -103,7 +99,7 @@
         "website": "media/website.css",
         "ebook": "media/ebook.css",
         "pdf": "media/ebook.css",
-        "mobi": "media/ebook.css",
-        "epub": "media/ebook.css"
+        "mobi": "media/epub.css",
+        "epub": "media/epub.css"
     }
 }

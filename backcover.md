@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<div style="float:right; width: 27%">
+<div class="author">
 
 <img src="/media/marko.jpg" width="200" style="border:1px solid #CCC; padding: 3px;"/>
 
