@@ -153,9 +153,9 @@ div.note p {
 
 /* remove barcode pictures */
 
-.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(1),
-.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(2),
-.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(3) {
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-last-child(1),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-last-child(2),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-last-child(3) {
     display: none;
 }
 

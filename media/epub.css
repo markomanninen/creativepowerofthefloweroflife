@@ -171,9 +171,9 @@ div.googlemaps {
 
 /* remove barcode pictures */
 
-.page .section ul.pictures li:nth-child(1),
-.page .section ul.pictures li:nth-child(2),
-.page .section ul.pictures li:nth-child(3) {
+.page .section ul.pictures li:nth-last-child(1),
+.page .section ul.pictures li:nth-last-child(2),
+.page .section ul.pictures li:nth-last-child(3) {
     display: none;
 }
 

@@ -18,7 +18,7 @@
 <div style="padding: 0 0 0 25px; right: 25px; position: relative;">
 
 <p>
-The debate over the controversial symbol, the <b>Flower of Life</b>, is getting new standards with the upright independent research that demystify the history of the Flower of Life, yet honors the legacy of the Ancients.
+The debate over the controversial symbol, the <b>Flower of Life</b>, is getting to a new level with the upright independent research that demystify the history of the Flower of Life, yet honors the legacy of the Ancients.
 </p>
 
 <p>
@@ -29,8 +29,8 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 <ul>
 	<li style="list-style: square;">The early development of the geometry of the Flower of Life</li>
-	<li style="list-style: square;">Introduction of the <b>Cownose</b>, another intersecting circles pattern related with the Flower of Life</li>
-	<li style="list-style: square;">Cataloging over 40 items containing the Flower of Life symbol from 1600 BC to 1600 AD</li>
+	<li style="list-style: square;">Introduction of the <b>Cownose</b>, another intersecting circles pattern that is related with the Flower of Life</li>
+	<li style="list-style: square;">Cataloging over 40 items that contain the Flower of Life symbol from 1600 BC to 1600 AD</li>
 </ul>
 
 <br/>
