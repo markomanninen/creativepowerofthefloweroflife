@@ -89,6 +89,19 @@ div#README\.md table thead {
     display: none;
 }
 
+.page .section  div#appendix2\.md table thead th:nth-child(5) {
+    width: 22%;
+}
+
+.page .section  div#appendix2\.md table tbody td:nth-child(5) {
+    text-align: center;
+}
+
+.page .section  div#appendix2\.md table img {
+    max-height: 33%;
+    height: 90px;
+}
+
 /* ul, ol list margin fix */
 
 .page .section ol,

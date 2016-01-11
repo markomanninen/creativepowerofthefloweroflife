@@ -11,14 +11,14 @@
 
 <img src="/media/marko.jpg" width="200" style="border:1px solid #CCC; padding: 3px;"/>
 
-<p style="font-size: 90%; width: 90%; padding-left: 2px"><b style="display: inline-block; padding: 10px 0 5px 0">About the Author</b><br/>Marko Manninen is an indie writer, a kirtan musician, and a professional programmer. He has spent the last 25 years studying practical symbolism and perennial philosophy.</p>
+<p style="font-size: 91%; width: 90%; padding-left: 2px; text-align: center;"><b style="display: inline-block; padding: 10px 0 5px 0">About the Author</b><br/>Marko Manninen is an indie writer, a kirtan musician, and a professional programmer. He has spent the last 25 years studying practical symbolism and perennial philosophy.</p>
 
 </div>
 
 <div style="padding: 0 0 0 25px; right: 25px; position: relative;">
 
 <p>
-The debate over the controversial symbol, the <b>Flower of Life</b>, is getting to a new level with the upright independent research that demystify the history of the Flower of Life, yet honors the legacy of the Ancients.
+The debate over the controversial symbol, the <b>Flower of Life</b>, is getting to a new level with the uncompromised independent research that demystifies the history of the Flower of Life, yet honors the legacy of the Ancients.
 </p>
 
 <p>
@@ -30,7 +30,7 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 <ul>
 	<li style="list-style: square;">The early development of the geometry of the Flower of Life</li>
 	<li style="list-style: square;">Introduction of the <b>Cownose</b>, another intersecting circles pattern that is related with the Flower of Life</li>
-	<li style="list-style: square;">Cataloging over 40 items that contain the Flower of Life symbol from 1600 BC to 1600 AD</li>
+	<li style="list-style: square;">Cataloging over 40 items that contain the Flower of Life symbol ranging from 1600 BC to 1600 AD</li>
 </ul>
 
 <br/>

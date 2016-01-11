@@ -89,6 +89,21 @@ div#README\.md table thead {
     display: none;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table thead th:nth-child(5) {
+    width: 22%;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table tbody td:nth-child(5) {
+    text-align: center;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table img {
+    max-height: 33%;
+    height: 90px;
+}
+
+
+
 /* ul, ol list margin fix */
 
 .book .book-body .page-wrapper .page-inner section.normal ol,
