@@ -315,6 +315,7 @@ div#part1\/pointline\.md blockquote {
 .book .book-body .page-wrapper .page-inner section.normal div#backcover\.md div.author {
     float:right;
     width: 27%;
+    text-align: center;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal div#backcover\.md p:nth-child(1) br {
