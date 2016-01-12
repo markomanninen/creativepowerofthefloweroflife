@@ -363,3 +363,8 @@ td:first-child span.calibre_1 {
 td:nth-child(2) span.calibre_1 {
   display: inline-block;
 }
+
+small {
+  padding: 3px;  
+}
+
