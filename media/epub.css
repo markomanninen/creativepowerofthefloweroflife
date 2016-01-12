@@ -24,11 +24,11 @@ figcaption {
     display: block;
 }
 
-.page .section p img {
+.page .section1 p img {
     margin-top: 10px;
 }
 
-.page .section table img.faded {
+.page .section1 table img.faded {
     opacity: 0.2;
     filter: alpha(opacity=20); /* For IE8 and earlier */
 }
@@ -89,23 +89,23 @@ div#README\.md table thead {
     display: none;
 }
 
-.page .section  div#appendix2\.md table thead th:nth-child(5) {
+.page .section1 div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
 
-.page .section  div#appendix2\.md table tbody td:nth-child(5) {
+.page .section1 div#appendix2\.md table tbody td:nth-child(5) {
     text-align: center;
 }
 
-.page .section  div#appendix2\.md table img {
+.page .section1 div#appendix2\.md table img {
     max-height: 33%;
     height: 90px;
 }
 
 /* ul, ol list margin fix */
 
-.page .section ol,
-.page .section ul {
+.page .section1 ol,
+.page .section1 ul {
     margin-bottom: 10px;
 }
 
@@ -119,7 +119,7 @@ div.page-break:before {
     content: ' ';
 }
 
-.page .section.toc  {
+.page .section1.toc  {
     page-break-inside: always;
 }
 
@@ -148,7 +148,7 @@ div.note p {
 
 /* quotes */
 
-.page .section blockquote {
+.page .section1 blockquote {
     margin: 0 0 0 5%;
     font-style: italic;
 }
@@ -165,91 +165,91 @@ div.googlemaps {
 
 /* credits page */
 
-.page .section ul.pictures {
+.page .section1 ul.pictures {
     margin-left: -30px;
 }
 
-.page .section ul.pictures li {
+.page .section1 ul.pictures li {
     list-style: outside none none;
 }
 
-.page .section ul.pictures li a {
+.page .section1 ul.pictures li a {
     float: left;
 }
 
-.page .section ul.pictures li span {
+.page .section1 ul.pictures li span {
     display: block;
     margin-left: 100px;
 }
 
 /* remove barcode pictures */
 
-.page .section ul.pictures li:nth-last-child(1),
-.page .section ul.pictures li:nth-last-child(2),
-.page .section ul.pictures li:nth-last-child(3) {
+.page .section1 ul.pictures li:nth-last-child(1),
+.page .section1 ul.pictures li:nth-last-child(2),
+.page .section1 ul.pictures li:nth-last-child(3) {
     display: none;
 }
 
 /* citations */
 
-.page .section sup {
+.page .section1 sup {
     margin-left: -1px;
     margin-right: 2px;
 }
 
-.page .section sup:before {
+.page .section1 sup:before {
     content: " ";
 }
 
-.page .section sup a {
+.page .section1 sup a {
     font-size: 75%;
 }
 
-.page .section ul.citations,
-.page .section ul.references {
+.page .section1 ul.citations,
+.page .section1 ul.references {
     margin-left: -30px;
 }
 
-.page .section ul.citations li:nth-child(1) {
+.page .section1 ul.citations li:nth-child(1) {
     margin-top: 20px;
     padding-top: 20px;
     border-top: 1px solid #BBB;
 }
 
-.page .section ul.citations li,
-.page .section ul.references li {
+.page .section1 ul.citations li,
+.page .section1 ul.references li {
     list-style: outside none none;
 }
 
-.page .section ul.citations li {
+.page .section1 ul.citations li {
     font-size: 80%;
 }
 
-.page .section ul.citations li > span:nth-child(1),
-.page .section ul.references li > span:nth-child(1) {
+.page .section1 ul.citations li > span:nth-child(1),
+.page .section1 ul.references li > span:nth-child(1) {
     display: block;
     float: left;
     text-align: left;
     width: 70px
 }
 
-.page .section ul.citations li > span:nth-child(1) {
+.page .section1 ul.citations li > span:nth-child(1) {
     width: 50px
 }
 
-.page .section ul.references li div {
+.page .section1 ul.references li div {
     margin-left: 70px;
 }
 
-.page .section ul.citations li div {
+.page .section1 ul.citations li div {
     margin-left: 50px;
 }
 
-.page .section a[href="#"],
-.page .section a[href="#"]:link,
-.page .section a[href="#"]:visited,
-.page .section a[href="#"]:hover,
-.page .section a[href="#"]:focus {
+.page .section1 a[href="#"],
+.page .section1 a[href="#"]:link,
+.page .section1 a[href="#"]:visited,
+.page .section1 a[href="#"]:hover,
+.page .section1 a[href="#"]:focus {
     text-decoration: none;
     color: inherit;
     cursor: text;
@@ -258,15 +258,15 @@ div.googlemaps {
 
 /* self referential footnotes */
 
-.page .section div[type="selfref"] a[href="#"],
-.page .section div[type="selfref"] a[href="#"]:link,
-.page .section div[type="selfref"] a[href="#"]:visited,
-.page .section div[type="selfref"] a[href="#"]:hover,
-.page .section div[type="selfref"] a[href="#"]:focus {
+.page .section1 div[type="selfref"] a[href="#"],
+.page .section1 div[type="selfref"] a[href="#"]:link,
+.page .section1 div[type="selfref"] a[href="#"]:visited,
+.page .section1 div[type="selfref"] a[href="#"]:hover,
+.page .section1 div[type="selfref"] a[href="#"]:focus {
     font-style: normal;
 }
 
-.page .section div[type="selfref"] span:nth-child(1) {
+.page .section1 div[type="selfref"] span:nth-child(1) {
     display: none;
 }
 
@@ -294,87 +294,72 @@ div#part1\/pointline\.md blockquote {
 
 /* math image styles */
 
-.page .section p img.svg,
-.page .section p img.png {
+.page .section1 p img.svg,
+.page .section1 p img.png {
     margin-top: 0px;
     margin-bottom: -2px;
 }
 
-.page .section p img.math {
+.page .section1 p img.math {
     vertical-align: middle;
     height: auto; 
     width: auto;
     margin-top: -4px;
     max-height: 15px;
 }
-.page .section p img.math.line1 {
+.page .section1 p img.math.line1 {
     margin-top: -7px;
     max-height: 19px;
 }
-.page .section p img.math.line2 {
+.page .section1 p img.math.line2 {
     margin-top: -1px;
     max-height: 30px;
 }
 
 /* backcover adjust */
 
-.page .section div#backcover\.md {
+.page .section1 div#backcover\.md {
     width: 89%;
     margin: 0 auto;
 }
 
-.page .section div#newitems\.md h3 {
+.page .section1 div#newitems\.md h3 {
     page-break-before: always;
 }
 
-.page .section div#backcover\.md div.author {
+.page .section1 div#backcover\.md div.author {
 	float: inherit;
     width: auto;
     padding-bottom: 10px;
     text-align: center;
 }
 
-.page .section div#backcover\.md p:nth-child(1) br {
+.page .section1 div#backcover\.md p:nth-child(1) br {
     display: none;
 }
 
-/* page header and footer */
-
-.pdf-footer,
-.pdf-header {
-    margin-top: 20px;
-    color: #aaa;
-}
-.pdf-footer .sub {
-    padding-top: 8px;
-    font-size: 70%;
-}
-.pdf-header .sub {
-    padding-top: 2px;
-    font-size: 70%;
-}
-.pdf-footer {
-    padding-top: 10px;
-    border-top: 1px solid #eee;
-}
-.pdf-footer .footer-pages-count {
-    float: right;
-}
-.pdf-header {
-    padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
-}
-.pdf-header .header-pages-count {
-    float: right;
-    text-align: right;
-}
-.pdf-header .header-pages-count a,
-.pdf-header .header-pages-count a:visited,
-.pdf-header .header-pages-count a:active,
-.pdf-header .header-pages-count a:focus,
-.pdf-header .header-pages-count a:link {
-    text-decoration: none;
-    color: #aaa;
-    cursor: text;
+ul.calibre_25 blockquote blockquote blockquote blockquote {
+    margin: -21px 0 0 21px;
 }
 
+ul.calibre_25 blockquote blockquote blockquote {
+    margin: -21px 0 0 -30px;
+}
+
+img.calibre_81 {
+    width: auto;
+    max-height: 200px;
+}
+
+p.calibre_ img {
+    width: 90%;
+    height: auto;
+}
+
+td:first-child span.calibre_1 {
+  white-space: nowrap;
+}
+
+td:nth-child(2) span.calibre_1 {
+  display: inline-block;
+}

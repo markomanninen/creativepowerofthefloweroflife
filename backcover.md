@@ -11,7 +11,7 @@
 
 <img src="/media/marko.jpg" width="200" style="border:1px solid #CCC; padding: 3px;"/>
 
-<p style="font-size: 91%; width: 90%; padding-left: 2px;"><b style="display: inline-block; padding: 10px 0 5px 0">About the Author</b><br/>Marko Manninen is an indie writer, a kirtan musician, and a professional programmer. He has spent the last 25 years studying practical symbolism and perennial philosophy.</p>
+<p style="font-size: 92%;"><b style="display: inline-block; padding: 10px 0 5px 0">About the Author</b><br/>Marko Manninen is an indie writer, a kirtan musician, and a professional programmer. He has spent the last 25 years studying practical symbolism and perennial philosophy.</p>
 
 </div>
 
