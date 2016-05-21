@@ -13,6 +13,8 @@ I have distinguished seven main classifications where the first two of them are 
 6. Class n (n > 3)
 7. Class p (p = pattern)
 
+The FOL formation could also have been categorized to two other groups: hexagonal and concave forms. Many of the occurrences of the symbol instead of using curved lines, uses straight lines which creates a hexagonal grid. But I have left this categorization for the future work.
+
 ## Vesica Piscis
 
 ![Vesica Piscis](/media/vesica-piscis.png){caption=1 width=200}
@@ -23,13 +25,13 @@ Piscis or a fish <img src="./media/smallfish.png" width="30" /> is known to refe
 
 ## Six-petal rosette
 
-![Six-petal rosette helper](/media/fol-class-0-helper.png){caption=1}
-![Six-petal rosette](/media/fol-class-0.png){caption=1}
+![Six-petal rosette a](/media/fol-class-0.png){caption=1}
+![Six-petal rosette b](/media/fol-class-0-helper.png){caption=1}
 <!-- clear -->
 
 With or without the circle around, this is one of the most used geometric symbols on ancient art as well. Rosette is a general name for a symmetrical appearance of the flower-like petals. Petals can be three, four, five, six or any multiple of these. But in speaking of the FOL, the six-petal rosette is the right one. The most important aspect of this symbol is the relation between 6 and 7, six leaves and 7 intersecting points. Occurrences of it are too common to be presented on the scope of this research document.
 
-### Class 1, 2 and 3 properties and options
+#### Class 1, 2 and 3 properties and options
 
 Class 1, 2 and 3 are central forms of the FOL variations on which I want to spend more time for analysis. Each of them has mathematical properties and options calculated in the following manner.
 
@@ -43,8 +45,10 @@ Mathematical properties:
 
 Each of them can be calculated from inner and outer part of the construction giving two options:
 
-1. Inside the formation
-2. Inside + outside the formation combined
+<ol style="list-style-type: lower-alpha;">
+<li>Inside the formation</li>
+<li>Inside + outside the formation combined</li>
+</ol>
 
 Circles needed in total inside the formation is a bit arbitrary because the FOL needs to have partial circles / arcs to be fully formed as a symbol. In this case, one should pay attention to the option B, combined value of the inside and outside objects.
 
@@ -60,8 +64,8 @@ Sometimes additional notes about numbers are given.
 
 ## Class 1
 
-![FOL class 1 helper](/media/fol-class-1-helper.png){caption=1}
-![FOL class 1](/media/fol-class-1.png){caption=1}
+![FOL class 1 a](/media/fol-class-1.png){caption=1}
+![FOL class 1 b](/media/fol-class-1-helper.png){caption=1}
 <!-- clear -->
 
 This is the simplest of the FOL symbols in categories and actually not as actively collected on my artifacts as classes 2 and 3. Criteria for including this symbol on the FOL classifications is because symbol requires additional helper circles and arcs being drawn outside the final motif, which arcs are erased from the final picture. This is a common factor for all classes 1, 2, and 3.
@@ -74,23 +78,30 @@ In this complementary document item 1, item 2 a, b, c and item 5 as a continuous
 
 ## Class 2
 
-![FOL class 2 helper](/media/fol-class-2-helper.png){caption=1}
-![FOL class 2](/media/fol-class-2.png){caption=1}
+![FOL class 2 a](/media/fol-class-2.png){caption=1}
+![FOL class 2 b](/media/fol-class-2-helper.png){caption=1}
 <!-- clear -->
 
 The next stage of the FOL symbol is the class 2. The earliest occurrence of this version can be found from the Egyptian cosmetic box in 1500 BC. Other cosmetic boxes from Egypt at the same date contains also 24 petalled rosettes made with a compass and were all most probably used to store lotus fragrances. Ivory whorls from Cyprus, which contains the FOL class 2, are dated roughly to the same period, middle of the second millennium. Silver goblet from Marlik in 1000 BC contains it as well as the bowl from Levant, 800 BC. Many roman period mosaics uses this formation and numerous woodwork at the common era. Items 2 b and c, 3, 4, 6 and 7 in this complementary document have this symbol attached on them. 
 
 From the samples we have, it is clear that this form is already more difficult to draw than the class 1. A slight miss-position with the compass will accrue and soon the miss-orientation becomes visible for the eye. D. Melchizedek calls this form a “seed of life”<!-- cite author="Drunvalo Melchizedek" title="The ancient Secret of the Flower of Life, vol 1" date="1999" location="Figure 2-21" type="book" href="" -->, but doesn’t give any special name for the FOL class 1.
 
+There are totally 45 circles in the figure 7.7. Number 45 is the 9th pyramidal  number: 1+2+3+4+5+6+7+8+9 = 45.
+
 ## Class 3
 
-![FOL class 3 helper](/media/fol-class-3-helper.png){caption=1}
-![FOL class 3](/media/fol-class-3.png){caption=1}
+![FOL class 3 a](/media/fol-class-3.png){caption=1}
+![FOL class 3 b](/media/fol-class-3-helper.png){caption=1}
 <!-- clear -->
 
-Class 3 is the “real” FOL according to D. Melchizedek. It is not as common as other classes and one could argue, if there is any special meaning attached to this particular symbol, or if it just the same motif than classes 1 and 2. Formation brings no new elements compared to classes 1 and 2. But bigger the formation goes, the level of difficulty increases. Early occurrences of this symbol are debatable. The FOL in Abydos still needs examination. FOL class 3 as a background model of the Pre-Hittite sun symbol presented in this complementary document is speculative in nature. The first occurrence of the FOL class 3 comes from Marlik silver goblet, 1400 - 1100 BC. Then it appears on the Near East silver beaker in 600 BC. Again Roman mosaics uses class 3 and wall drawings in Syria are particularly intriguing. Numerous woodworkers in the Common Era used this form and have maintained the tradition until our days. Items 1 and 2 a in this complementary document contains class 3 FOL. Mathematical properties of the symbol elements are interesting, especially number of circles needed to construct the symbol, which is 55.
+Class 3 is the “real” FOL according to D. Melchizedek. It is not as common as other classes and one could argue, if there is any special meaning attached to this particular symbol, or if it just the same motif than classes 1 and 2. Formation brings no new elements compared to classes 1 and 2. But bigger the formation goes, the level of difficulty increases. Early occurrences of this symbol are debatable. The FOL in Abydos still needs examination. FOL class 3 as a background model of the Pre-Hittite sun symbol presented in this complementary document is speculative in nature. The first occurrence of the FOL class 3 comes from Marlik silver goblet, 1400 - 1100 BC. Then it appears on the Near East silver beaker in 600 BC. Again Roman mosaics uses class 3 and wall drawings in Syria are particularly intriguing. Numerous woodworkers in the Common Era used this form and have maintained the tradition until our days. Items 1 and 2 a in this complementary document contains class 3 FOL.
 
-### Table of class 1, 2, and 3 properties
+Mathematical properties of the symbol elements are interesting, especially number of circles needed to construct the symbol, which is 19 for the figure 7.8 and 55 for the Figure 7.9. Number 55 is the tenth number (greater than 0) on the triangular number sequence called pyramidal number: 1+2+3+4+5+6+7+8+9+10 = 55. Number 55 is also the tenth fibonacci number greater than 0: 1<sub>1</sub>, 1<sub>2</sub>, 2<sub>3</sub>, 3<sub>4</sub>, 5<sub>5</sub>, 8<sub>6</sub>, 13<sub>7</sub>, 21<sub>8</sub>, 34<sub>9</sub>, 55<sub>10</sub>,... It is the largest Fibonacci number to be a triangular number.
+
+Intersections points are 37 for the Figure 7.8 and 73 for the Figure 7.9. 37 and 73 are apparently mirror numbers. 73 is the 21st prime number. 37 is the 12th prime number. 21 (3\*7 or 7\*3) and 12 are again mirror numbers.
+
+
+#### Mathematical properties
 
 
 |class|option|circles|intersections|leaves|width_min|width_max|triangles|
@@ -105,7 +116,7 @@ Class 3 is the “real” FOL according to D. Melchizedek. It is not as common a
 
 ## Class n
 
-There is practically no limit how many layers of circles you can draw on the FOL motif. Just a minority of artifacts shows greater than class 3 formation of the FOL however. Idalion cup has class 5 FOL and actually the “fruit of life” symbol of D. Melchizedek would fit inside the Idalion cup formation. Bronze vessel from Nimrud has extraordinary big formation, class 8 FOL. 
+There is practically no limit how many layers of circles you can draw on the FOL motif. Just a minority of artifacts shows greater than class 3 formation of the FOL however. Idalion cup has class 5 FOL and actually the “fruit of life” symbol presented by D. Melchizedek would fit inside the Idalion cup formation. Bronze vessel from Nimrud has extraordinary big formation, class 8 FOL. 
 
 ## Class p
 

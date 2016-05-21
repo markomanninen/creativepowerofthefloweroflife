@@ -55,14 +55,15 @@ figure#fig4\.4 {
 }
 
 /* classification images */
+
 figure#fig7\.2,
 figure#fig7\.3 {
     float:left;
     width: 48%;
     margin: 0 5px;
 }
-figure#fig7\.2 img {width: 200px;}
-figure#fig7\.3 img {width: 330px;}
+figure#fig7\.3 img {width: 200px;}
+figure#fig7\.2 img {width: 330px;}
 
 figure#fig7\.4,
 figure#fig7\.5 {
@@ -70,8 +71,8 @@ figure#fig7\.5 {
     width: 48%;
     margin: 0 5px;
 }
-figure#fig7\.4 img {width: 200px;}
-figure#fig7\.5 img {width: 360px;}
+figure#fig7\.5 img {width: 200px;}
+figure#fig7\.4 img {width: 360px;}
 
 figure#fig7\.6,
 figure#fig7\.7 {
@@ -79,8 +80,8 @@ figure#fig7\.7 {
     width: 48%;
     margin: 0 5px;
 }
-figure#fig7\.6 img {width: 200px;}
-figure#fig7\.7 img {width: 330px;}
+figure#fig7\.7 img {width: 200px;}
+figure#fig7\.6 img {width: 330px;}
 
 figure#fig7\.8,
 figure#fig7\.9 {
@@ -88,9 +89,11 @@ figure#fig7\.9 {
     width: 48%;
     margin: 0 5px;
 }
-figure#fig7\.8 img {width: 200px;}
-figure#fig7\.9 img {width: 335px;}
+figure#fig7\.9 img {width: 200px;}
+figure#fig7\.8 img {width: 335px;}
 
+div#appendix1\.md ol:nth-child(1),
+div#appendix1\.md ol:nth-child(2),
 div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
 }
