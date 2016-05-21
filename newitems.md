@@ -1,7 +1,9 @@
 <!-- pagewrapper -->
 # New items
 
-Next seven new items consist of five rather modern artifacts (1400 - 1900 AD), one group of vessels and a terracotta torso from the Cypro-Archaic period (800 - 600 BC) and one special ivory item from the Late Bronze Age (1650 - 1050 BC), all with the FOL symbol attached on them. All items from the previous research 2014 and new items presented in this document are collectively listed on [Appendix 2](appendix2.md).
+Next eight new items / item groups consist of six rather modern artifacts (1400 - 1900 AD), one group of vessels and terracotta torso from the Cypro-Archaic period (800 - 600 BC) and one special ivory item from the Late Bronze Age (1650 - 1050 BC) all with occurrences of the FOL in them.
+
+All items from the previous research 2014 and new items presented in this document are collectively listed on [Appendix 2](appendix2.md).
 
 <!-- nopb -->
 
@@ -90,11 +92,11 @@ Another remarkable detail is the pointillism used on the surface of the flat ivo
 
 Above kind of ornaments are very common in Zakopane town, Poland. The Flower of Life is called *Kwiat Życia* in Polish. The left photo presented above is from the Tatra Museum in Zakopane collection and used with permission<!-- cite author="muzeumtatrzanskie.pl" title="Muzeum Tatrzanskie - Willa Oksza" date="" location="" type="website" href="http://www.muzeumtatrzanskie.pl/?strona%2Cdoc%2Cpol%2Cglowna%2C1376%2C0%2C842%2C1%2C1376%2Cant.html" -->. The right photo is from museum, but taken and permitted for use by Andre<!-- cite author="niemasciemy.wordpress.com" title="Wzory i ornamenty w domach góralskich a symbol kwiatu życia" date="" location="" type="website" href="https://niemasciemy.wordpress.com/2015/10/20/wzory-i-ornamenty-w-domach-goralskich-a-symbol-kwiatu-zycia/" -->. You can find more similar photos from my Pinterest collection<!-- cite author="Marko Manninen" title="Flower of Life Pinterest board" date="" location="" type="website" href="http://pinterest.com/markomanninen/flower-of-life-history/" -->.
 
-The FOL symbol has been used widely on woodcarvings around the Europe and the Mediterranean world in 1600 - 1900 AD. It was a common practice for carpenters to decorate ready-made buildings with circular symbols. It is possible that the FOL eventually become a sign of woodworking guilds at that era. You can see similar practice on the wood pole below:
+The FOL symbol has been used widely on woodcarvings around the Europe and the Mediterranean world in 1600 - 1900 AD. It was a common practice for carpenters to signature ready-made buildings with circular symbols. It is possible that the FOL eventually become a sign of woodworking guilds at that era. You can see similar practice on the wood pole below:
 
 ![Wooden pole from Cyprus](/media/wooden-pole.png){caption=1 width=600}
 
-Hexagonal ornament and carvings on the wooden pole was brought from the mountains to the medieval museum of Lemesos (Limassol, Cyprus) when the original 1600 AD orthodox church roof was replaced by a new one. The underside of the pole, although dim to see clearly, also has the FOL class 2 symbol.
+The hexagonal ornament and carvings on the wooden pole was brought from the mountains to the medieval museum of Lemesos (Limassol, Cyprus) when the original 1600 AD orthodox church roof was replaced by a new one. The underside of the pole, although dim to see clearly, also has the FOL class 2 symbol. I have found many similar samples from From Romania too.
 
 <!--
 
@@ -103,6 +105,15 @@ http://nowewici.pl/wzory-i-ornamenty-w-domach-goralskich-a-symbol-kwiatu-zycia/
 http://www.rodzimawiara.org.pl/forum-rodzimej-wiary/15-filozofia-rodzimowiercza/1001-symbol-rodzimowiercow.html?start=18
 
 -->
+
+<!-- endnopb -->
+<!-- nopb -->
+
+### Item 8
+
+![Mosque window background](/media/mosque-window-background.jpg){caption=1 width=600}
+
+The Flower of Life pattern visible on the window background ornament faced to Mecca on the Blue Mosque in Istanbul, Turkey. The mosque was built in 1616. The organization of the work was described in meticulous detail in eight volumes, now found in the library of the Topkapı Palace. Volumes might enlighten why ornament was selected to the Blue Mosque. Outside the Mosque there were both six-petal rosettes and Cownose patterns on mosaic floors. Four to five million tourists visit the place per a year but I have never seen this detail in the context of the Flower of Life mentioned before.
 
 <!-- endnopb -->
 
