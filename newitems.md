@@ -96,15 +96,7 @@ The FOL symbol has been used widely on woodcarvings around the Europe and the Me
 
 ![Wooden pole from Cyprus](/media/wooden-pole.png){caption=1 width=600}
 
-The hexagonal ornament and carvings on the wooden pole was brought from the mountains to the medieval museum of Lemesos (Limassol, Cyprus) when the original 1600 AD orthodox church roof was replaced by a new one. The underside of the pole, although dim to see clearly, also has the FOL class 2 symbol. I have found many similar samples from From Romania too.
-
-<!--
-
-http://nowewici.pl/wzory-i-ornamenty-w-domach-goralskich-a-symbol-kwiatu-zycia/
-
-http://www.rodzimawiara.org.pl/forum-rodzimej-wiary/15-filozofia-rodzimowiercza/1001-symbol-rodzimowiercow.html?start=18
-
--->
+The hexagonal ornament and carvings on the wooden pole was brought from the mountains to the medieval museum of Lemesos (Limassol, Cyprus) when the original 1600 AD orthodox church roof was replaced by a new one. The underside of the pole, although dim to see clearly, also has the FOL class 2 symbol. I have found many similar samples from Romania too.
 
 <!-- endnopb -->
 <!-- nopb -->
