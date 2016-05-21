@@ -1,7 +1,7 @@
 Introduction
 =======
 
-...
+This is my second book intended to discover the history of the Flower of Life symbol. Now my main focus is on the interpretation of the symbol and meanings attached to it through the history, starting from the bronze age until our days.
 
 The reader is expected to be familiar with basics of the Flower of Life geometry<!-- cite author="wikipedia.org" title="Flower of Life geometry" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Flower_of_Life_(geometry)" -->. Elementary knowledge of the ancient Near East history and history of mathematics is helpful. Knowledge of visual arts, geometry, and comparative religion studies are also useful.
 
@@ -19,7 +19,7 @@ I hope my independent research provides valuable resources for people to do furt
 | **Author** | Marko Manninen |
 | **Pages** | xx (PDF) |
 | **Description** | Complementary material to the research document [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) |
-| **Keywords** | Flower of Life, six-petal rosette, Apsamikku, concave square, square root of 3, square root of 2, intersecting circles, hexagon, equilateral triangle, Vesica Piscis, Fleur-de-lis, tree of life, menorah, sacred geometry |
+| **Keywords** | flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun |
 | **Language** | English |
 | **Publish status** | Will be published 2016-xx-xx as an electronic book |
 | **Last updated** | {{ file.mtime }} |
