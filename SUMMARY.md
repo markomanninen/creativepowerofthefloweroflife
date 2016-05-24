@@ -7,7 +7,7 @@
 	* [From a line to a plane](./part1/lineplane.md)
 	* [From a plane to the Flower of Life](./part1/planeflower.md)
 * [Part 2: Meaning of the symbol](./part2/index.md)
-	* [Previous work](./part2/previous.md)
+	* [Previous work](./part2/pondering.md)
 * [New items](newitems.md)
 * [Epilogue](epilogue.md)
 * [Conclusions](conclusions.md)
