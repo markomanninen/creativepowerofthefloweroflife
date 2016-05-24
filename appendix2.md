@@ -8,7 +8,7 @@ Faded pictures represents links to copyright protected images, which needs to be
 | ***Item*** | ***Class*** | ***Location*** | ***Date*** | ***Thumbnail*** |
 | -- | -- | -- | -- | -- |
 |[Pre-Indus ornament](part1/planeflower.md#oldest-reference-of-the-fol-pattern-so-far)|class p|India|2500 BC+|<a href="part1/planeflower.md#oldest-reference-of-the-fol-pattern-so-far"><img src="./media/flowermotives0.png" height="33%" /></a>|
-|[Pre-Hittite Sun](part2/xxx.md#hittite-sun-discs)|class 3|Alacahöyük, Turkey|2500|<a href="part2/pondering.md#hittite-sun-discs"><img src="./media/prehittitesun2.png" height="33%" /></a>|
+|[Pre-Hittite Sun](part2/pondering.md#hittite-sun-discs)|class 3|Alacahöyük, Turkey|2500|<a href="part2/pondering.md#hittite-sun-discs"><img src="./media/prehittitesun2.png" height="33%" /></a>|
 |[Gold foils](http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.1)|class 1|Mycenae, Greece|1600 BC|<a href="http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.1"><img src="http://artifacts.flowerofliferesearch.com/media/gold-foils.jpg" height="33%" /></a>|
 |[Wooden cosmetic boxes](http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.2)|class 2|Thebes, Egypt|1492 - 1473 BC|<a href="http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.2"><img src="http://artifacts.flowerofliferesearch.com/media/cosmetic-box.jpg" height="33%" /></a>|
 |[Silver goblet](http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.3)|class 1|Iran|1400 - 1100 BC|<a href="http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.3"><img src="http://artifacts.flowerofliferesearch.com/media/silver-goblet.png" height="33%" /></a>|
