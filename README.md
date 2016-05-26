@@ -18,7 +18,7 @@ I hope my independent research provides valuable resources for people to do furt
 | **Title** | Creative Power of the Flower of Life |
 | **Author** | Marko Manninen |
 | **Pages** | 90 (PDF) |
-| **Description** | Complementary material to the research document [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) |
+| **Description** | Complementary material to the [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) research document |
 | **Keywords** | flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun |
 | **Language** | English |
 | **Publish status** | Will be published 2016-xx-xx as an electronic book |
