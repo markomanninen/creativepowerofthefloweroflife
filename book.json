@@ -1,6 +1,6 @@
 {
     "title": "Creative power of the Flower of Life",
-    "description": "Complementary material to the research document Artifacts of the Flower of Life",
+    "description": "Complementary material to the Artifacts of the Flower of Life research document",
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     
@@ -17,6 +17,7 @@
             "token": "UA-70930023-2"
         },
         "regexplace": {
+            "removeFirstPartsInSectionNumber": true,
             "substitutes": [
                 {"pattern": "<!-- pagebreak -->", "flags": "g", "substitute": "<div class=\"page-break\"></div>"},
                 {"pattern": "<!-- clear -->", "flags": "g", "substitute": "<div class=\"clear\"></div>"},
@@ -26,6 +27,12 @@
                 {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
                 {"pattern": "<!-- endnote -->", "flags": "g", "substitute": "</div>"},
+                {   
+                    "pattern": "!\\[(.*?)\\]\\((.*?)(?:\\s+\"(.*)\")?\\){0,}{caption=1([^\\}]*)}",
+                    "flags": "gmi", 
+                    "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\"><img $3 alt=\"$1\" title=\"$1\" href=\"$2\"><figcaption></figcaption></figure>", 
+                    "decode": true
+                },
                 {
                     "pattern": "<img ([^>]*) {0,}\/{0,}> {0,}{caption=1([^\\}]*)}", 
                     "flags": "g", 
@@ -93,8 +100,8 @@
         "citations": []
     },
     "pdf": {
-        "headerTemplate": "<html><body><div id=\"pdf-header\" class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count sub\"><a href=\"http://creative.flowerofliferesearch.com\">http://creative.flowerofliferesearch.com</a></span></div><script>if (_PAGENUM_ == 72) document.getElementById('pdf-header').style.display = 'none'</script></body></html>",
-        "footerTemplate": "<html><body><div id=\"pdf-footer\" class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: xx/yy/2016 | Updated: xx/yy/2016 | _AUTHOR_ © 2016</span> <span class=\"footer-pages-count\"> _PAGENUM_ / 72</span></div><script>if (_PAGENUM_ == 72) document.getElementById('pdf-footer').style.display = 'none'</script></body></html>"
+        "headerTemplate": "<html><body><div id=\"pdf-header\" class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count sub\"><a href=\"http://creative.flowerofliferesearch.com\">http://creative.flowerofliferesearch.com</a></span></div></body></html>",
+        "footerTemplate": "<html><body><div id=\"pdf-footer\" class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: xx/yy/2016 | Updated: xx/yy/2016 | _AUTHOR_ © 2016</span> <span class=\"footer-pages-count\"> _PAGENUM_ / 72</span></div></body></html>"
     },
     "styles": {
         "website": "media/website.css",
