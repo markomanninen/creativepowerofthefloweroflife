@@ -46,11 +46,10 @@
 * [http://wiki.tcl.tk/28557](http://wiki.tcl.tk/28557) Anonymous source (goldin) for geometrical figures and vocabulary of Old Babylonian mathematics
 
 
-
 {% if book.citations %}
 
 ### Citations
 <ul class="references">
-{% for cite in book.citations %}<li>{{ cite }}</li>{% endfor %}
+{% for cite in book.citations %}<li>{{ cite.replace('.md', '.html') }}</li>{% endfor %}
 </ul>
 {% endif %}

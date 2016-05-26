@@ -1,8 +1,41 @@
-/* images, figures and captions */
+/* SPECIAL ELEMENTS */
+
+/* clear both */
 
 .clear {
     clear: both;
 }
+
+/* page break always after element on pdf/print definition */
+
+div.pagebreak {
+    page-break-after: always;
+}
+
+/* no page break inside element on pdf/print definition */
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+/* note blocks */
+
+div.note {
+    background: #FCF8E3 none repeat scroll 0% 0%;
+    color: #8A6D3B;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-bottom: 5px solid #DDD;
+    border-color: #FAEBCC;
+    page-break-inside: avoid;
+}
+
+div.note p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* images, figures and captions */
 
 figure {
     margin: 1.0em 0px;
@@ -37,168 +70,19 @@ figcaption {
     filter: alpha(opacity=20); /* For IE8 and earlier */
 }
 
-/* hexagon, hexagram and six-spoked wheel */
+/* blockquotes */
 
-figure#fig2\.3\.10,
-figure#fig2\.3\.11,
-figure#fig2\.3\.12 {
-    float: left;
-    width: 33%;
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+    margin: 0 0 0 5%;
+    font-style: italic;
 }
 
-figure#fig4\.2,
-figure#fig4\.3,
-figure#fig4\.4 {
-    float: left;
-    width: 31%;
-    margin: 0 5px;
-}
-
-/* hittite suns */
-
-figure#fig3\.1\.1,
-figure#fig3\.1\.2 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* hittite sun 1 models */
-
-figure#fig3\.1\.3 {
-    float: left;
-    width: 64%;
-    margin: 0 5px;
-}
-
-figure#fig3\.1\.4,
-figure#fig3\.1\.5 {
-    float: left;
-    width: 33%;
-    margin: 0 5px;
-}
-
-figure#fig3\.1\.4 img,
-figure#fig3\.1\.5 img {
-    width: 185px
-}
-
-/* hittite sun 2 models */
-
-figure#fig3\.1\.6 {
-    float: left;
-    width: 64%;
-    margin: 0 5px;
-}
-
-figure#fig3\.1\.7,
-figure#fig3\.1\.8 {
-    float: left;
-    width: 33%;
-    margin: 0 5px;
-}
-
-figure#fig3\.1\.7 img,
-figure#fig3\.1\.8 img {
-    width: 185px
-}
-
-/* Pomegranates */
-
-figure#fig3\.1\.9,
-figure#fig3\.1\.10 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* Lilies */
-
-figure#fig3\.1\.12,
-figure#fig3\.1\.13 {
-    float: left;
-    width: 48%;
-    margin: 0 5px;
-}
-
-/* classification images */
-
-/* class 0 */
-figure#fig7\.2,
-figure#fig7\.3 {
-    float:left;
-    width: 48%;
-    margin: 0 5px;
-}
-figure#fig7\.3 img {width: 200px;}
-figure#fig7\.2 img {width: 330px;}
-
-/* class 1 */
-figure#fig7\.4,
-figure#fig7\.5 {
-    float:left;
-    width: 48%;
-    margin: 0 5px;
-}
-figure#fig7\.5 img {width: 200px;}
-figure#fig7\.4 img {width: 360px;}
-
-/* class 2 */
-figure#fig7\.6,
-figure#fig7\.7 {
-    float:left;
-    width: 48%;
-    margin: 0 5px;
-}
-figure#fig7\.7 img {width: 200px;}
-figure#fig7\.6 img {width: 330px;}
-
-/* class 3 */
-figure#fig7\.8,
-figure#fig7\.9 {
-    float:left;
-    width: 48%;
-    margin: 0 5px;
-}
-figure#fig7\.9 img {width: 200px;}
-figure#fig7\.8 img {width: 335px;}
+/* PAGE SPECIFIC */
 
 div#appendix1\.md ol:nth-child(1),
 div#appendix1\.md ol:nth-child(2),
 div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
-}
-
-/* bar codes */
-
-figure#fig13\.1,
-figure#fig13\.2,
-figure#fig13\.3 {
-    float:left;
-    width: 30%;
-    margin: 0 5px;
-}
-
-figure#fig13\.1 img,
-figure#fig13\.2 img,
-figure#fig13\.3 img {
-    width: 75%;
-}
-
-figure#fig13\.1:after {
-    content: "PDF";
-}
-figure#fig13\.2:after {
-    content: "EPUB";
-}
-figure#fig13\.3:after {
-    content: "MOBI";
-}
-
-figure#fig13\.1 figcaption,
-figure#fig13\.2 figcaption,
-figure#fig13\.3 figcaption {
-    display: none;
 }
 
 /* table headers */
@@ -208,65 +92,43 @@ div#README\.md table thead {
     display: none;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table thead th:nth-child(5) {
+/* part 1 and 2 image align */
+/*
+div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
+div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+    text-align: center;
+}
+*/
+
+/* big number */
+
+div#part1\/pointline\.md pre {
+    text-align: center;
+    font-size: 120%;
+}
+
+/* kalevala quote */
+
+div#part1\/pointline\.md blockquote {
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
+div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table tbody td:nth-child(5) {
+div#appendix2\.md table tbody td:nth-child(5) {
     text-align: center;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal div#appendix2\.md table img {
+div#appendix2\.md table img {
     max-height: 33%;
     height: 90px;
 }
 
-
-
-/* ul, ol list margin fix */
-
-.book .book-body .page-wrapper .page-inner section.normal ol,
-.book .book-body .page-wrapper .page-inner section.normal ul {
-    margin-bottom: 10px;
-}
-
-/* page break always after element on pdf/print definition */
-
-div.pagebreak {
-    page-break-after: always;
-}
-
-/* no page break inside element on pdf/print definition */
-
-div.nopb {
-    page-break-inside: avoid;
-}
-
-/* note blocks */
-
-div.note {
-    background: #FCF8E3 none repeat scroll 0% 0%;
-    color: #8A6D3B;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-bottom: 5px solid #DDD;
-    border-color: #FAEBCC;
-    page-break-inside: avoid;
-}
-
-div.note p {
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
-
-/* quotes */
-
-.book .book-body .page-wrapper .page-inner section.normal blockquote {
-    margin: 0 0 0 5%;
-    font-style: italic;
-}
-
-/* credits page */
+/* credits page pictures list */
 
 .book .book-body .page-wrapper .page-inner section.normal ul.pictures {
     margin-left: -30px;
@@ -274,6 +136,7 @@ div.note p {
 
 .book .book-body .page-wrapper .page-inner section.normal ul.pictures li {
     list-style: outside none none;
+    padding-left: 2px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.pictures li a {
@@ -285,7 +148,7 @@ div.note p {
     margin-left: 100px;
 }
 
-/* remove barcode pictures */
+/* remove barcode pictures from the list */
 
 .book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-last-child(1),
 .book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-last-child(2),
@@ -334,11 +197,13 @@ div.note p {
     display: block;
     float: left;
     text-align: left;
-    width: 70px
+    width: 70px;
+    padding-left: 2px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations li > span:nth-child(1) {
-    width: 50px
+    width: 50px;
+    padding-left: 2px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.references li div {
@@ -372,28 +237,6 @@ div.note p {
 
 .book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] span:nth-child(1) {
     display: none;
-}
-
-/* part 1 and 2 image align */
-
-div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
-div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
-    text-align: center;
-}
-
-/* big number */
-
-div#part1\/pointline\.md pre {
-    text-align: center;
-    font-size: 120%;
-}
-
-/* kalevala quote */
-
-div#part1\/pointline\.md blockquote {
-    text-align: center;
-    border: 0;
-    margin: 0;
 }
 
 /* math image styles */
@@ -441,98 +284,164 @@ div#part1\/pointline\.md blockquote {
     display: none;
 }
 
-/* manual headers and footers */
-/*
-.divHeader,
-.divFooter {
-    color: #aaa;
-    position: fixed;
-    width: 53.5%;
-    background-color: white;
-    padding: 10px 0;
+/* IMAGE STYLES */
+
+/* hexagon, hexagram and six-spoked wheel */
+
+figure#fig3\.3\.10,
+figure#fig3\.3\.11,
+figure#fig3\.3\.12 {
+    float: left;
+    width: 33%;
+}
+
+/* hittite suns */
+
+figure#fig4\.1\.1,
+figure#fig4\.1\.2 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+/* hittite sun 1 models */
+
+figure#fig4\.1\.3 {
+    float: left;
+    width: 64%;
+    margin: 0 5px;
+}
+
+figure#fig4\.1\.4,
+figure#fig4\.1\.5 {
+    float: left;
+    width: 33%;
+    margin: 0 5px;
+}
+
+figure#fig4\.1\.4 img,
+figure#fig4\.1\.5 img {
+    width: 185px
+}
+
+/* hittite sun 2 models */
+
+figure#fig4\.1\.6 {
+    float: left;
+    width: 64%;
+    margin: 0 5px;
+}
+
+figure#fig4\.1\.7,
+figure#fig4\.1\.8 {
+    float: left;
+    width: 33%;
+    margin: 0 5px;
+}
+
+figure#fig4\.1\.7 img,
+figure#fig4\.1\.8 img {
+    width: 185px
+}
+
+/* Pomegranates */
+
+figure#fig4\.1\.9,
+figure#fig4\.1\.10 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+/* Lilies */
+
+figure#fig4\.1\.12,
+figure#fig4\.1\.13 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+/* distaff blades */
+
+figure#fig5\.2,
+figure#fig5\.3,
+figure#fig5\.4 {
+    float: left;
+    width: 31%;
+    margin: 0 5px;
+}
+
+/* classification images */
+
+/* class 0 */
+figure#fig8\.2,
+figure#fig8\.3 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.3 img {width: 200px;}
+figure#fig8\.2 img {width: 330px;}
+
+/* class 1 */
+figure#fig8\.4,
+figure#fig8\.5 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.5 img {width: 200px;}
+figure#fig8\.4 img {width: 360px;}
+
+/* class 2 */
+figure#fig8\.6,
+figure#fig8\.7 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.7 img {width: 200px;}
+figure#fig8\.6 img {width: 330px;}
+
+/* class 3 */
+figure#fig8\.8,
+figure#fig8\.9 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.9 img {width: 200px;}
+figure#fig8\.8 img {width: 335px;}
+
+/* bar codes */
+
+figure#fig14\.1,
+figure#fig14\.2,
+figure#fig14\.3 {
+    float:left;
+    width: 30%;
+    margin: 0 5px;
+}
+
+figure#fig14\.1 img,
+figure#fig14\.2 img,
+figure#fig14\.3 img {
+    width: 75%;
+}
+
+figure#fig14\.1:after {
+    content: "PDF";
+}
+figure#fig14\.2:after {
+    content: "EPUB";
+}
+figure#fig14\.3:after {
+    content: "MOBI";
+}
+
+figure#fig14\.1 figcaption,
+figure#fig14\.2 figcaption,
+figure#fig14\.3 figcaption {
     display: none;
 }
-.divHeader {
-    top: 0;
-    border-bottom: 1px solid #eee;
-    padding: 15px 0 5px 0;
-}
-.divFooter {
-    bottom: 0;
-    padding: 10px 0;
-    border-top: 1px solid #eee;
-}
-.divFooter .sub,
-.divHeader .sub {
-    font-size: 70%;
-}
-.divFooter .footer-pages-count {
-    float: right;
-}
-.divFooter .footer-pages-count:before {
-    counter-increment: page;
-    content: counter(page);
-}
-.divHeader .header-pages-count {
-    float: right;
-    text-align: right;
-}
-.divHeader .header-pages-count a,
-.divHeader .header-pages-count a:visited,
-.divHeader .header-pages-count a:active,
-.divHeader .header-pages-count a:focus,
-.divHeader .header-pages-count a:link {
-    text-decoration: none;
-    color: #aaa;
-    cursor: text;
-}
-*/
-
-/*
-
-body#fp-README {
-    border: 1px solid red;
-}
-
-body#fp-1500ad {
-    border: 1px solid red;
-}
-
-figure#fig2\.2\.1 img,
-figure#fig2\.2\.3 img {
-    -webkit-filter: blur(3px);
-    filter: blur(3px);
-}
-
-figure#fig6\.3\.7 img,
-figure#fig6\.3\.8 img {
-    -webkit-filter: blur(5px);
-    filter: blur(5px);
-}
-
-*/
-
-/* google map page */
-/*
-div#map\.md {
-    text-align: center;
-}
-
-div#map\.md img,
-div#map\.md figure {
-    display: none;
-}
-*/
-
-/*
-figure#fig2\.3\.10 figcaption span,
-figure#fig2\.3\.11 figcaption span,
-figure#fig2\.3\.12 figcaption span {
-    margin-right: -4px;
-    color: white;
-    background-color: white;
-    z-index: 0;
-    position: relative;
-    margin-left: -80px;
-}
-*/
