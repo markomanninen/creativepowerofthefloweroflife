@@ -1,4 +1,41 @@
-/* image captions */
+/* SPECIAL ELEMENTS */
+
+/* clear both */
+
+.clear {
+    clear: both;
+}
+
+/* page break always after element on pdf/print definition */
+
+div.pagebreak {
+    page-break-after: always;
+}
+
+/* no page break inside element on pdf/print definition */
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+/* note blocks */
+
+div.note {
+    background: #FCF8E3 none repeat scroll 0% 0%;
+    color: #8A6D3B;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-bottom: 5px solid #DDD;
+    border-color: #FAEBCC;
+    page-break-inside: avoid;
+}
+
+div.note p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* images, figures and captions */
 
 figure {
     margin: 1.0em 0px;
@@ -33,53 +70,26 @@ figcaption {
     filter: alpha(opacity=20); /* For IE8 and earlier */
 }
 
-/* hexagon, hexagram and six-spoked wheel */
+/* ul, ol list margin fix */
 
-figure#fig2\.3\.10,
-figure#fig2\.3\.11,
-figure#fig2\.3\.12 {
-    float:left;
-    width: 33%;
+.page .section ol,
+.page .section ul {
+    margin-bottom: 10px;
 }
 
-figure#fig4\.2,
-figure#fig4\.3,
-figure#fig4\.4 {
-    float:left;
-    width: 31%;
-    margin: 0 5px;
+/* blockquotes */
+
+.page .section blockquote {
+    margin: 0 0 0 5%;
+    font-style: italic;
 }
 
-/* bar codes */
+/* PAGE SPECIFIC */
 
-figure#fig13\.1,
-figure#fig13\.2,
-figure#fig13\.3 {
-    float:left;
-    width: 31%;
-    margin: 0 5px;
-}
-
-figure#fig13\.1 img,
-figure#fig13\.2 img,
-figure#fig13\.3 img {
-    width: 75%;
-}
-
-figure#fig13\.1:after {
-    content: "PDF";
-}
-figure#fig13\.2:after {
-    content: "EPUB";
-}
-figure#fig13\.3:after {
-    content: "MOBI";
-}
-
-figure#fig13\.1 figcaption,
-figure#fig13\.2 figcaption,
-figure#fig13\.3 figcaption {
-    display: none;
+div#appendix1\.md ol:nth-child(1),
+div#appendix1\.md ol:nth-child(2),
+div#appendix1\.md ol:nth-child(3) {
+    list-style-type: lower-alpha;
 }
 
 /* table headers */
@@ -89,78 +99,87 @@ div#README\.md table thead {
     display: none;
 }
 
-.page .section  div#appendix2\.md table thead th:nth-child(5) {
+/* part 1 and 2 image align */
+/*
+div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
+div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+    text-align: center;
+}
+*/
+
+/* big number */
+
+div#part1\/pointline\.md pre {
+    text-align: center;
+    font-size: 120%;
+}
+
+/* kalevala quote */
+
+div#part1\/pointline\.md blockquote {
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
+.page .section div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
 
-.page .section  div#appendix2\.md table tbody td:nth-child(5) {
+.page .section div#appendix2\.md table tbody td:nth-child(5) {
     text-align: center;
 }
 
-.page .section  div#appendix2\.md table img {
+.page .section div#appendix2\.md table img {
     max-height: 33%;
     height: 90px;
 }
 
-/* ul, ol list margin fix */
+/* backcover adjust */
 
-.page .section ol,
-.page .section ul {
-    margin-bottom: 10px;
+.page .section div#backcover\.md {
+    width: 89%;
+    margin: 0 auto;
 }
 
-/* page break always after element on pdf/print definition */
-
-div.page-break {
-    page-break-inside: always;
+.page .section div#newitems\.md h3 {
+    page-break-before: always;
 }
 
-div.page-break:before {
-    content: ' ';
-}
-
-.page .section.toc  {
-    page-break-inside: always;
-}
-
-/* no page break inside element on pdf/print definition */
-
-div.nopb {
-    page-break-inside: avoid;
-}
-
-/* note blocks */
-
-div.note {
-    background: #FCF8E3 none repeat scroll 0% 0%;
-    color: #8A6D3B;
-    padding: 15px 15px 0 15px;
-    margin-bottom: 10px;
-    border-bottom: 5px solid #DDD;
-    border-color: #FAEBCC;
-    page-break-inside: avoid;
-}
-
-div.note p {
-    padding-bottom: 0;
-    margin-bottom: 0;
-}
-
-/* quotes */
-
-.page .section blockquote {
-    margin: 0 0 0 5%;
-    font-style: italic;
-}
-
-/* google map page */
-
-div#map\.md p {
+.page .section div#backcover\.md div.author {
+    float:right;
+    width: 27%;
     text-align: center;
 }
 
-div.googlemaps {
+.page .section div#backcover\.md p:nth-child(1) br {
     display: none;
+}
+
+/* CITATION AND IMAGES */
+
+/* math image styles */
+
+.page .section p img.svg,
+.page .section p img.png {
+    margin-top: 0px;
+    margin-bottom: -2px;
+}
+
+.page .section p img.math {
+    vertical-align: middle;
+    height: auto; 
+    width: auto;
+    margin-top: -4px;
+    max-height: 15px;
+}
+.page .section p img.math.line1 {
+    margin-top: -7px;
+    max-height: 19px;
+}
+.page .section p img.math.line2 {
+    margin-top: -1px;
+    max-height: 30px;
 }
 
 /* credits page */
@@ -270,67 +289,186 @@ div.googlemaps {
     display: none;
 }
 
-/* part 1 and 2 image align */
+/* IMAGE STYLES */
 
-div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
-div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
-    text-align: center;
+/* hexagon, hexagram and six-spoked wheel */
+
+figure#fig3\.3\.10,
+figure#fig3\.3\.11,
+figure#fig3\.3\.12 {
+    float: left;
+    width: 33%;
 }
 
-/* big number */
+/* hittite suns */
 
-div#part1\/pointline\.md pre {
-    text-align: center;
-    font-size: 120%;
+figure#fig4\.1\.1,
+figure#fig4\.1\.2 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
 }
 
-/* kalevala quote */
+/* hittite sun 1 models */
 
-div#part1\/pointline\.md blockquote {
-    text-align: center;
-    border: 0;
-    margin: 0;
+figure#fig4\.1\.3 {
+    float: left;
+    width: 64%;
+    margin: 0 5px;
 }
 
-/* math image styles */
-
-.page .section p img.svg,
-.page .section p img.png {
-    margin-top: 0px;
-    margin-bottom: -2px;
+figure#fig4\.1\.4,
+figure#fig4\.1\.5 {
+    float: left;
+    width: 33%;
+    margin: 0 5px;
 }
 
-.page .section p img.math {
-    vertical-align: middle;
-    height: auto; 
-    width: auto;
-    margin-top: -4px;
-    max-height: 15px;
-}
-.page .section p img.math.line1 {
-    margin-top: -7px;
-    max-height: 19px;
-}
-.page .section p img.math.line2 {
-    margin-top: -1px;
-    max-height: 30px;
+figure#fig4\.1\.4 img,
+figure#fig4\.1\.5 img {
+    width: 185px
 }
 
-/* backcover adjust */
+/* hittite sun 2 models */
 
-.page .section div#backcover\.md {
-    width: 89%;
-    margin: 0 auto;
+figure#fig4\.1\.6 {
+    float: left;
+    width: 64%;
+    margin: 0 5px;
 }
 
-.page .section div#newitems\.md h3 {
-    page-break-before: always;
+figure#fig4\.1\.7,
+figure#fig4\.1\.8 {
+    float: left;
+    width: 33%;
+    margin: 0 5px;
 }
 
-.page .section div#backcover\.md div.author {
-    float:right;
-    width: 27%;
-    text-align: center;
+figure#fig4\.1\.7 img,
+figure#fig4\.1\.8 img {
+    width: 185px
+}
+
+/* Pomegranates */
+
+figure#fig4\.1\.9,
+figure#fig4\.1\.10 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+/* Lilies */
+
+figure#fig4\.1\.12,
+figure#fig4\.1\.13 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+/* distaff blades */
+
+figure#fig5\.2,
+figure#fig5\.3,
+figure#fig5\.4 {
+    float: left;
+    width: 31%;
+    margin: 0 5px;
+}
+
+/* classification images */
+
+/* class 0 */
+figure#fig8\.2,
+figure#fig8\.3 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.3 img {width: 200px;}
+figure#fig8\.2 img {width: 330px;}
+
+/* class 1 */
+figure#fig8\.4,
+figure#fig8\.5 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.5 img {width: 200px;}
+figure#fig8\.4 img {width: 360px;}
+
+/* class 2 */
+figure#fig8\.6,
+figure#fig8\.7 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.7 img {width: 200px;}
+figure#fig8\.6 img {width: 330px;}
+
+/* class 3 */
+figure#fig8\.8,
+figure#fig8\.9 {
+    float:left;
+    width: 48%;
+    margin: 0 5px;
+}
+figure#fig8\.9 img {width: 200px;}
+figure#fig8\.8 img {width: 335px;}
+
+/* bar codes */
+
+figure#fig14\.1,
+figure#fig14\.2,
+figure#fig14\.3 {
+    float:left;
+    width: 30%;
+    margin: 0 5px;
+}
+
+figure#fig14\.1 img,
+figure#fig14\.2 img,
+figure#fig14\.3 img {
+    width: 75%;
+}
+
+figure#fig14\.1:after {
+    content: "PDF";
+}
+figure#fig14\.2:after {
+    content: "EPUB";
+}
+figure#fig14\.3:after {
+    content: "MOBI";
+}
+
+figure#fig14\.1 figcaption,
+figure#fig14\.2 figcaption,
+figure#fig14\.3 figcaption {
+    display: none;
+}
+
+/* page break always after element on pdf/print definition */
+
+div.page-break {
+    page-break-inside: always;
+}
+
+div.page-break:before {
+    content: ' ';
+}
+
+.page .section.toc  {
+    page-break-inside: always;
+}
+
+/* no page break inside element on pdf/print definition */
+
+div.nopb {
+    page-break-inside: avoid;
 }
 
 /* page header and footer */
