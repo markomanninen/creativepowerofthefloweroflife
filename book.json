@@ -99,10 +99,6 @@
         "uniquewords": [],
         "citations": []
     },
-    "pdf": {
-        "headerTemplate": "<html><body><div id=\"pdf-header\" class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count sub\"><a href=\"http://creative.flowerofliferesearch.com\">http://creative.flowerofliferesearch.com</a></span></div></body></html>",
-        "footerTemplate": "<html><body><div id=\"pdf-footer\" class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: xx/yy/2016 | Updated: xx/yy/2016 | _AUTHOR_ © 2016</span> <span class=\"footer-pages-count\"> _PAGENUM_ / 72</span></div></body></html>"
-    },
     "styles": {
         "website": "media/website.css",
         "ebook": "media/ebook.css",
