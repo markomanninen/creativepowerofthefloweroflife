@@ -300,6 +300,16 @@ figure#fig3\.3\.12 {
     width: 33%;
 }
 
+figure#fig3\.3\.10 img {
+    width: 243px;
+}
+figure#fig3\.3\.11 img {
+    width: 252px;
+}
+figure#fig3\.3\.12 img {
+    width: 240px;
+}
+
 /* hittite suns */
 
 figure#fig4\.1\.1,
@@ -349,7 +359,7 @@ figure#fig4\.1\.8 img {
     width: 185px
 }
 
-/* Pomegranates */
+/* pomegranates */
 
 figure#fig4\.1\.9,
 figure#fig4\.1\.10 {
@@ -358,7 +368,7 @@ figure#fig4\.1\.10 {
     margin: 0 5px;
 }
 
-/* Lilies */
+/* lilies */
 
 figure#fig4\.1\.12,
 figure#fig4\.1\.13 {

@@ -6,9 +6,10 @@
 
 In the beginning, everything is simple. In a zero-dimensional space, there is only one point (A) which doesn't need any coordinates<!-- cite author="wikipedia.org" title="Cartesian coordinate system" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Cartesian_coordinate_system" --> to be specified as a point. The point doesn't even need to exist at this stage. It could only be an idea like an invisible center of a seed which will later produce a tree with myriad variations of branches and leaves. In the example below, the point is made visible by the dot, though we should remember that the dot and the point are different things. The latter is an abstraction, the former is a concretization of the point.
 
-![A point](/media/adot.png){caption=1}
+![A point](/media/adot.png){caption=1 width="7%"}
 
 All there was, is and will be are on a single point because everything is an extension of a point. Dual state of things, simplicity and complexity, reveal its twofold nature when shifting a point of view by an observer. Dive into the point just like the Earth is seen from the outer edge of the solar system 14 billion kilometers away<!-- cite author="earthsky.org" title="How Earth looks from outer space" date="" location="" type="website" href="http://earthsky.org/space/in-space-how-far-away-can-you-see-earth" --> and we will see the art of nature in its finest details. We can follow sequences of a fabric in space-time to microcosmic levels until we reach basically emptiness. Zoom out and eventually we will see blinking sources of light, points on a vast darkness. Expand further and we see nothing. This is the other side of the emptiness.
+
 
 ### Mesocosm
 
@@ -18,21 +19,24 @@ We humans on the Earth are living on the mesocosm<!-- cite author="" title="The 
 
 Indeed, between Euphrates and Tigris rivers (Mesopotamia means "between the rivers") inventions and ideas emerged that enabled people to handle, contemplate, and comprehend huge numbers like this. On the side of Ganges, another legendary river further to the East, astronomical numbers were part of the epic around Sita and Rama. The biggest number mentioned in Ramayana<!-- cite author="wikipedia.org" title="Valmiki" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Valmiki" --> was exactly the same number calculated above, 10<sup>62</sup>. Valmiki, the writer of the Ramayana epic, even gave a definitive name the number: *mahaugha*<!-- cite author="wikipedia.org" title="Indian numbering system" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Indian_numbering_system" -->, which means "very mighty".
 
+
 ### Sharp point
 
 A sharp point, tip of a needle, can be further opened with a certain sub-study of historical linguistics called etymology, which examines the history and origin of particular words. Proto-Indo-European (PIE) syllables *ak-*, *ok-*<!-- cite author="utexas.edu" title="Indo-European Lexicon" date="" location="2. ak-, ok-" type="website" href="http://www.utexas.edu/cola/centers/lrc/ielex/X/P0048.html" --> have many language cognates related to the point and sharpness, which are spread to numerous Indo-European languages. Of them an ax, acute, and a peak are obvious in English, but also okra, the pointy plant nicknamed "ladies' finger" fits well to the scene. In the Finnish language (the native language of the writer) numeral <i>y<u>k</u>si</i> means *one* followed by <i><u>k</u>a<u>k</u>si</i>, number *two* with two sharp k-points. 
 
 Finnish *oka* (spike), Latin *acus* (needle), or Greek *acis*, point and *akesis*, curing with sticking with needles as well as acoustic, or sharp ticking sound on the ear which all are related. Nowadays we are all acknowledged how hammer behind the auditory canal and the eardrum hits the anvil and makes world audible for us. In Sanskrit, *eka* means number one as well.
 
+
 ### Line and canon
 
 From "nothing to nothing" is a distance that we call the first mathematical dimension or a line. It takes two 0-dimensional points to create the first dimension, a line. Two nothingnesses come into an oscillating relation where the last one, B becomes the first one, A<!--, mouth and voice of the creation eventually hiding the first cause-->.
 
-![A line](/media/abline.png){caption=1}
+![A-B line](/media/abline.png){caption=1 width="33%"}
 
 Being deliberately paradoxical is not the only fishy thing in this 1-dimensional world what we want to ponder now. Punctures on a line or knots on a rope give a placeholder for different types of canons. The line as a standard measuring rod, a ruler, or a carpenter's tool is called *kanon*<!-- cite author="wiktionary.org" title="Canon etymology" date="" location="" type="website" href="https://en.wiktionary.org/wiki/canon#Etymology" --> in Greek. According to Victor Hehn<!-- cite author="Victor Hehn" title="Cultivated Plants and Domesticated Animals in Their Migration from Asia to Europe" date="1891" location="Page 228" type="book" href="http://www.survivorlibrary.com/library/cultivated_plants_and_domestic_animals-1891.pdf" -->, word *kanon* is derived from a certain cultivated Asiatic bamboo like giant grass called the cane (*Arundo donax*<!-- cite author="wikipedia.org" title="Cane" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Cane" -->) which was used for many practical objects like walking sticks, measuring rods and fishing rods. This plant is a root word for a variety of carrying vessels like canisters or even canoes because of the cane's light and tenacious property. The cane was used to make baskets, mats, fishing nets, arrows, flutes, and covers.
 
 In a line, the concept of law can be expressed. Similarly, the rule of truth, set of policies in politics or religion as well as arithmetical number sequences, ratios, or human proportions like Polykleitos describes them in his book *The Canon*<!-- cite author="Richard Tobin" title="The Canon of Polykleitos" date="1975" location="" type="book" href="http://www.jstor.org/stable/503064" -->. Pythagorean monochord, one string instrument with a movable bridge, was called Canon<!-- cite author="Thomas Stanley" title="Pythagoras: His Life and Teaching, a Compendium of Classical Sources" date="1687" location="Chapter 6" type="book" href="#" -->. From the Ishango bone, we find that already some 20,000 years ago men used to notch and mark counters to a tally stick in the central Africa<!-- cite author="storyofmathematics.com" title="Prehistoric Mathematics" date="" location="" type="website" href="http://www.storyofmathematics.com/prehistoric.html" -->. In a line fishing hooks hang ready to catch monster equations from the eternal dimensionless sea.
+
 
 ### Cane
 
@@ -56,6 +60,7 @@ Parallel to this concept of canon is a Karelian folklore that tells about the cr
 
 So plucked Väinämöinen the five-stringed instrument with his pointy fingers binding<!-- cite author="" title="Other sensible root meaning for the cane is "bendable" and "to bind" because reed is very durable under tough bend (etymonline.com). Nevertheless several meanings of the morphed root word or syllable evolved by the use of the object in different contexts." date="" location="" type="selfref" href="#" --> five major vowels of the alphabet (a, e, i, o, u), the most dynamic, durable, and sweetest of the sounds to his singing. With three additional Finnish vowels (y, ä, ö) this gave supreme verbal power for utterances of the lineage of sages and heroes on the epical swamps of Kalevala. By deeper exploration one can find worldwide myths in these tales, e.g. how sea-monsters rose up from the primordial waters to teach mankind, in good and in bad. Väinö or Väinä, root name of Väinämöinen<!-- cite author="nordicnames.de" title="Väinämöinen - Nordic Names" date="" location="" type="website" href="http://www.nordicnames.de/wiki/V%C3%A4in%C3%A4m%C3%B6inen" --> means "wide, slow flowing river or strait of the sea". Meaning of Kaleva giant is derivable to Norse sea-god Hler, Aegir which means "sea" according to Mikko Heikkilä on his article *Kaleva and his Sons from Kalanti*<!-- cite author="Mikko Heikkilä" title="Kaleva and his Sons from Kalanti" date="2012" location="" type="article" href="http://www.linguistics.fi/julkaisut/SKY2012/Heikkila.pdf" -->. So strong is the imagery of this epic that J.R.R. Tolkien was inspired to create one of his first novels *The story of Kullervo*<!-- cite author="J.R.R. Tolkien" title="The story of Kullervo" date="1915" location="" type="book" href="https://en.wikipedia.org/wiki/The_Story_of_Kullervo" --> directly borrowing Kalevala.
 
+
 ### Triple word clusters
 
 We all either know or have heard how much mathematics and music have to do with each other. A sequence of notes can be expressed on a line, melodies and whole orchestral composition can be expressed on a staff made of horizontal lines. But also carrying is a fundamental concept of the elemental arithmetics<!-- cite author="wikipedia.org" title="Carry (arithmetic)" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Carry_(arithmetic)" --> . The positional number system that was already used in the southern Mesopotamia, Old Akkadian period 2300 - 2000 BC<!-- cite author="Robert M. Whiting" title="More Evidence for Sexagesimal Calculations in the Third Millennium B. C." date="1984" location="" type="book" href="http://www.helsinki.fi/~whiting/za74.pdf" -->, needs to carry numbers to next magnitude depending on the number base which is used (in their case the sexagesimal or a mixture of base 10 and 6 be more exact). Carrying is needed in all basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -77,6 +82,5 @@ In a womb of all written and engraved things, the FOL bears fundamental ideas of
 Although a plethora of concepts has now been opened for introspection, one point and one line are still too limited to express more advanced forms of the FOL explicitly and unambiguously.
 
 <!-- endpagewrapper -->
-
 
 {% include 'footnotes.md' %}

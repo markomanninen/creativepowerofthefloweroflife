@@ -2,7 +2,7 @@
 
 The formation of the FOL is easy. First we have one circle (A) on a plane. Then we interlock another circle (B) with the first one by intersecting both circles through their centers:
 
-![Two center intersecting circles](/media/abvesica.png){caption=1}
+![Two center intersecting circles](/media/abvesica.png){caption=1 width="33%"}
 
 This figure is known from Old Babylonian times as an *Ox-eye* (igi.gu<sub>4</sub><!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics 2100 - 1600 BC" date="1999" location="Page 46, Figure 3.7 b" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" -->) and can be seen as a primary generator of well-defined geometric forms. The lens-like part in the middle is called by various names like Vesica Piscis (bladder of a fish), womb / female vulva, and mandorla (almond) which latter name again brings a botanical connection to the symbology of the formation of the FOL. Symmetrical figures outside of the oval central shape are called lunes<!-- cite author="Weisstein, Eric W." title="MathWorld" date="" location="Lune" type="website" href="http://mathworld.wolfram.com/Lune.html" --> in geometry and they resemble waning and waxing phases of the Moon.
 
@@ -11,7 +11,7 @@ This figure is known from Old Babylonian times as an *Ox-eye* (igi.gu<sub>4</sub
 
 Another geometrical figure constructed to the intersection points in the middle is a quadrilateral rhombus, which is shown below:
 
-![Quadrilateral rhombus](/media/abrhombus.png){caption=1}
+![Quadrilateral rhombus](/media/abrhombus.png){caption=1 width="33%"}
 
 This shape (or thinner lozenge version) has been used on temple mosaics in the ancient Sumerian city of Uruk IV (3400 – 3100 BC) as already mentioned in my previous research<!-- cite author="Marko Manninen" title="Artifacts of the Flower of Life" date="2015" location="Picture 2.2.2" type="website" href="http://artifacts.flowerofliferesearch.com/floweroflife.html#fig2.2.2" -->. Rhombus (*gan illar*<!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics 2100 - 1600 BC" date="1999" location="Page 46, Figure 3.7 a" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" -->, a bow as denoted by Old Babylonians) can be seen as two equilateral triangles face to face. We can find this symbol often on mosaics and paintings too. Below is a part of the geometrical work on the walls of the ancient synagogue in Sardis<!-- cite author="wikipedia.org" title="Sardis Synagogue" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Sardis_Synagogue" -->:
 
@@ -19,7 +19,7 @@ This shape (or thinner lozenge version) has been used on temple mosaics in the a
 
 By adding one circle to the intersection point C, a triangular wedge shape becomes even more clear:
 
-![Equilateral triangle](/media/abctrianglesmall.png){caption=1}
+![Equilateral triangle](/media/abctrianglesmall.png){caption=1 width="33%"}
 
 2300 years ago this figure was studied by Euclid in his book *Elements Book 1*, Proposition 1<!-- cite author="Euclid" title="Elements, Book I" date="300 BC" location="Proposition 1" type="book" href="http://aleph0.clarku.edu/~djoyce/elements/bookI/propI1.html" -->. From previous etymological notes we remember, how cuneiform language is written with a reed stylus sharpened to a triangular shape in one end. This is what I meant that the whole cuneiform writing system is in the center of the early formation of the FOL. The curved triangular shape in the middle is called Reuleaux triangle<!-- cite author="wikipedia.org" title="Reuleaux triangle" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Reuleaux_triangle" --> which has also been studied by Leonardo da Vinci. What did he not study?!
 
@@ -32,7 +32,7 @@ Another shape popping up from the construction, that is continuously used in rel
 
 The further procedure to create the FOL is simply repeating: 1) finding a center for a new circle from the previous circles intersecting points and 2) adding a new circle on it. Let's add a circle (D) to the figure:
 
-![Lens in a lens](/media/abcd.png){caption=1}
+![Lens in a lens](/media/abcd.png){caption=1 width="33%"}
 
 We can see two other features appear at this point. A smaller lens or leaf occurs at the center of the Vesica Piscis between points A & B. When multiplied these leaves becomes six petals on the rosette. Another feature is a mathematical relationship between CD / AB which is known to be the square root of 3 ( <img src="/media/math/sqrt3.png" class="math line1" /> ) or "a measure of a fish". Origin of the latter term or its possible relation to the allegorical story of 153 fishes<!-- cite author="wikipedia.org" title="153 (number)" date="" location="" type="website" href="https://en.wikipedia.org/wiki/153_(number)" --> in the New Testament<!-- cite author="biblehub.com" title="New Testament" date="" location="John 21" type="website" href="http://biblehub.com/interlinear/john/21.htm" --> is faded to the history. But we know that Archimedes used the ratio <img src="/media/math/265153.png" class="math line2" /> as a lower limit estimation for the square root of 3. He used this ratio further to estimate the relationship between a circle's diameter and circumference - the so famous pi (<img src="/media/math/pi.png" class="math" />) - giving it a practical value of <img src="/media/math/227.png" class="math line2" /> (or <img src="/media/math/317.png" class="math line2" />).
 
@@ -40,11 +40,12 @@ Already from Old Babylonian times, it is known that people tended to give descri
 
 ![Arbelos - Shoemaker's knife © Mosmas](/media/arbelos_shoemakers_knife.jpg){caption=1 width=300}
 
+
 ### Six-petal rosette
 
 The naming of the FOL is speculated later on in the document Part 2, so let us finalize the figure by adding circles E, F, and G:
 
-![Six-petal rosette](/media/abcdefg.png){caption=1}
+![Six-petal rosette](/media/abcdefg.png){caption=1 width="33%"}
 
 What is the most apparent new feature in this stage, is a six-pointed figure in the middle of the geometrical construction. In art and archeology, the figure is called the six-petal rosette. We can now see how easy it is to create it, and this explains why it has been so widely used over the millenniums all the way until our days.
 
@@ -60,9 +61,11 @@ Three more figures worth noting are found when connecting six intersecting point
 
 ![Six-spoked wheel](/media/sixspokedwheel.png){caption=1}
 
-<p style="clear: both;"></p>
+<!--<p style="clear: both;"></p>-->
+<!-- clearboth -->
 
 The figure in the middle, the hexagram is also known as the Star of David. It is still debated if the hexagram is a later pagan association stigmatized to the Judaism, for example into the flag of Israel. It is argued that more ancient and genuine symbol was a seven-branched candle holder, the Menorah of the Temple. However, it is quite evident that numbers <img src="/media/math/6and7.png" class="math" /> and symbols like the Star of David and the Menorah were unbreakably tied together. Mixed feelings towards the number six apparently came from early Christian apologists and their apocalyptically oriented facile interpretations of the number <img src="/media/math/666.png" class="math" />. By geometric relations presented in this document, PIE and Semitic numerals phonetic intimation<!-- cite author="" title="Compare coupling 6 and 7 with other numbers from a site listing numerals 1 to 10 with 5000 different languages: http://www.zompist.com/numbers.htm. One would expect 1-2, 3-4, 5-6, 7-8, 9-10 making assimilated rhyming pairs, but for some reason this formula is broken by bringing 6 & 7 together in PIE-Semitic-African languages. My early hypothesis is that this is a result of the increased awareness of the geometric-mathematical relationship between those numbers in Sumerian-Indus cultures around 4000 - 2000 BC." date="" location="" type="selfref" href="#" -->, astro-mythic association with the Pleiades, and symbolic attachment presented later in the Part 2, it can be shown that there are other more natural explanations over too religious anticipation, which give significance to numbers <img src="/media/math/6.png" class="math" /> and <img src="/media/math/7.png" class="math" />, <img src="/media/math/67.png" class="math line2" /> or its reciprocal <img src="/media/math/76.png" class="math line2" /> ratio.
+
 
 ### Six or seven?
 
@@ -86,7 +89,7 @@ These whole number values are quite practical and can explain why <img src="/med
 
 So there are six circles around the First One which is in the middle and is connected to all other circles. This First circle is a reminder of the Primum Movens which is to move to the background very soon leaving people to debate if there ever was such a thing called the First Cause and the Prime Mover. Or maybe there was, but it is not taking any action anymore, maybe it is just passively observing the thrive and the cease of the universe that was once set forth. 
 
-![Six circles](/media/sixcircles.png){caption=1}
+![Six circles](/media/sixcircles.png){caption=1 width="33%"}
 
 From the illustration above, we can notice how the first circle can be taken away from the center of the construction while still keeping the figure complete and full. Although they are often cited, it is good to meditate these words from Genesis 2: 1-3:
 
@@ -109,7 +112,7 @@ When more circles and rounds are added, different levels of the FOL with certain
 
 Below we can see the third round of drawing process of the formation of the FOL:
 
-![Flower of Life, round 3](/media/fulfol.png){caption=1 width=300}
+![Flower of Life, round 3](/media/fulfol.png){caption=1 width="33%"}
 
 Very subtle but still important aspect must be noticed here. If the FOL pattern is continued further like this without the finishing step described below, we can rather speak of the ornamentation than the symbol itself. If we close the picture by filling 18 outer leaves of the hexagonal shape of the figure and remove the leftover circular arcs, we will end up getting a well defined, clearly elaborated, consciously bordered symbol. This way we can make a distinction between an ornament and a symbol.
 

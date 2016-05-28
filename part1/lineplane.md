@@ -1,6 +1,6 @@
 # From a line to a plane
 
-![Yin-Yang](/media/yin_yang.png){style float:left;width:80px;height:72px;margin:-2px 15px 0 0}
+![Yin-Yang](/media/yin_yang.png){style float:left;width:80px;height:72px;margin:-10px 15px 0 0}
 
 Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol which contains the idea of opposite seeds. We can see a white seed on the black background and a black seed on the white background in a relationship that enables everlasting change and mutation. Not only two is apparent on a line, two points (A & B) and the relation between them or one segment with two ends are giving three "things" at once. Is this the reason why ancient arithmeticians didn't regard one and two as numbers at all, but rather said that three is the first real number? Subject, object and the relation between them, they all are included simultaneously on the conscious act of the investigator.
 
@@ -9,11 +9,11 @@ Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol w
 
 When the space between two points, A & B is maximized, Prime Mover<!-- cite author="wikipedia.org" title="Unmoved mover" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Unmoved_mover" --> needs to find new ways to introspect. Instead of increasing what already is a maximum distance from A by moving forward, or decreasing the distance by moving backward on the line, Prime Mover causes a movement to any other direction C with an angle X. And like a magic, the first and the simplest of two-dimensional shapes between all points (A, B & C) is created, a triangle:
 
-![Triangle - the simplest two-dimensional shape](/media/abctriangle.png){caption=1}
+![Triangle - the simplest two-dimensional shape](/media/abctriangle.png){caption=1 width="33%"}
 
 The shape of the triangle<!-- cite author="mathsisfun.com" title="Equilateral, Isosceles and Scalene Triangle or Acute, Right and Obtuse Triangle" date="" location="" type="website" href="https://www.mathsisfun.com/triangle.html" --> can be any of the types related to the side lengths and angles of the triangle, but for simplicity and suitability for our theme, we have presented an equilateral triangle as above. Another common way to describe this dimension is by projecting the line CD parallel to the line AB so that it creates a square:
 
-![Projected square](/media/abcdsquare.png){caption=1}
+![Projected square](/media/abcdsquare.png){caption=1 width="33%"}
 
 There are several different shapes that four lines can make<!-- cite author="mathsisfun.com" title="Quadrilaterals" date="" location="" type="website" href="https://www.mathsisfun.com/quadrilaterals.html" -->, but we will focus mostly on a square and a rhombus. 
 
@@ -22,7 +22,7 @@ There are several different shapes that four lines can make<!-- cite author="mat
 
 Triangular, quadrilateral or any polygonal shapes exist in this two-dimensional world. And so does the shape that is the source of all mysteries, a circle. Consider a line constructed from points A and B. Again, if we take a single direction other than backward or forward, we keep the distance to the stationary point A the same, and we keep moving then a circle will appear:
 
-![Simple circle](/media/abcircle.png){caption=1}
+![Simple circle](/media/abcircle.png){caption=1 width="33%"}
 
 By changing a few factors like adding center points or changing the length of the radius, we can draw different types of circles and ellipses.
 
