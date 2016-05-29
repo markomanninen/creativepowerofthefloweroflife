@@ -86,6 +86,12 @@ figcaption {
 
 /* PAGE SPECIFIC */
 
+/* set summary page to right side of the paper */
+
+.page .section .toc {
+    page-break-before : right
+}
+
 div#appendix1\.md ol:nth-child(1),
 div#appendix1\.md ol:nth-child(2),
 div#appendix1\.md ol:nth-child(3) {
