@@ -1,5 +1,5 @@
 Introduction
-=======
+============
 
 This is my second book intended to discover the history of the Flower of Life symbol. Now my main focus is on the interpretation of the symbol and meanings attached to it through the history, starting from the bronze age until our days.
 
