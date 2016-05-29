@@ -1,3 +1,9 @@
+/* GENERAL ELEMENTS */
+
+html, body {
+    height: auto;
+}
+
 /* SPECIAL ELEMENTS */
 
 /* clear both */
@@ -88,8 +94,8 @@ figcaption {
 
 /* set summary page to right side of the paper */
 
-.page .section .toc {
-    page-break-before : right
+.page .section.toc {
+    page-break-before: right;
 }
 
 div#appendix1\.md ol:nth-child(1),
@@ -106,12 +112,11 @@ div#README\.md table thead {
 }
 
 /* part 1 and 2 image align */
-/*
-div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
-div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
+
+div#part1\/index\.md,
+div#part2\/index\.md {
     text-align: center;
 }
-*/
 
 /* big number */
 
