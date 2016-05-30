@@ -7,7 +7,7 @@ The reader is expected to be familiar with basics of the Flower of Life geometry
 
 I hope my independent research provides valuable resources for people to do further investigation with the topic.
 
-*Creative power of the Flower of Life* electronic book is published in four different formats: [Online](http://creative.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
+*Creative power of the Flower of Life* electronic book is published in four different formats: [Online]({{ config.website }}/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
 
 <!-- pagewrapper -->
 ---
@@ -21,8 +21,8 @@ I hope my independent research provides valuable resources for people to do furt
 | **Keywords** | flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun |
 | **Language** | English |
 | **Publish status** | Will be published 2016-xx-xx as an electronic book |
-| **Last updated** | {{ file.mtime }}  |
+| **Last updated** | {{ file.mtime }} |
 | **ISBN** | 978-952-68480-3-7 (PDF)<br/>978-952-68480-4-4 (EPUB)<br/>978-952-68480-5-1 (MOBI) |
 | **Collection** | Open-source |
-| **Website** | [http://creative.flowerofliferesearch.com](http://creative.flowerofliferesearch.com) |
+| **Website** | [{{ config.website }}]({{ config.website }}) |
 <!-- endpagewrapper -->

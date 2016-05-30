@@ -4,7 +4,10 @@
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
     "totalpages": 97,
-    "plugins": ["regexplace", "ga", "theme-creative"],
+    "published": "01/12/2016",
+    "copyright": "Marko Manninen &copy; 2016",
+    "website": "http://creative.flowerofliferesearch.com",
+    "plugins": ["regexplace", "ga"],
 
     "pluginsConfig": {
         "_addcssjs": {

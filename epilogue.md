@@ -23,7 +23,7 @@ I have taken a geometry to my toolbox for a couple of reasons. Most obvious is t
 
 Reflections of the same object may give us totally different impression when it is looked from a different point of view. For example, a special wedge cut from cylinder to a 3D model looks nothing special at first. But when the light is aimed from three sides of the object, we realize that the single object holds plane figures of a triangle, a square, and a circle.
 
-![Cylindrical wedge projections](/media/3dobject.png)
+![Cylindrical wedge projections](/media/3dobject.png){caption=1}
 
 And many others if you will. This will eventually lead us to the axiomatic "every thing is same and every thing is different" statement. The main task of the thinker is to develop a resolution to see differences and similarities between objects and ability to synthesize things. Next task is to find the threshold, where object still keeps its identity while connecting to the bigger picture. And the third task is to determine if the result and the conclusion can give something new to the community. This is the land where words and forms really matter.
 

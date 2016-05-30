@@ -1,5 +1,6 @@
 # From a line to a plane
 
+
 ![Yin-Yang](/media/yin_yang.png){style float:left;width:80px;height:72px;margin:-10px 15px 0 0}
 
 Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol which contains the idea of opposite seeds. We can see a white seed on the black background and a black seed on the white background in a relationship that enables everlasting change and mutation. Not only two is apparent on a line, two points (A & B) and the relation between them or one segment with two ends are giving three "things" at once. Is this the reason why ancient arithmeticians didn't regard one and two as numbers at all, but rather said that three is the first real number? Subject, object and the relation between them, they all are included simultaneously on the conscious act of the investigator.
@@ -35,7 +36,7 @@ Anyway, from the formation of a triangle, square and circle we can see how many 
 
 The point actually has this second planar dimension in its very etymological nature. Sharp edges of the triangle, corners of the square and degrees of the circle are turning points on a plane which create angles. As we remember sharp sounding *ak-* and *ok-* PIE syllables from the point etymology, softer *ank-* and *ang-* syllables<!-- cite author="utexas.edu" title="Indo-European Lexicon" date="" location="2. ank-, ang-" type="website" href="http://www.utexas.edu/cola/centers/lrc/ielex/X/P0089.html" --> are often related to corners and angles. Conifer<!-- cite author="etymonline.com" title="Conifer" date="" location="" type="website" href="http://www.etymonline.com/index.php?term=conifer" --> cones<!-- cite author="wiktionary.org" title="Cone" date="" location="" type="website" href="https://en.wiktionary.org/wiki/cone" -->, very ancient and widely used symbol in the Assyrian art, are organs directly pointing to or carrying these angles and sharp edges by botanical etymology.
 
-![A four-winged genie in the Bucket and cone motif. Relief from the north wall of the Palace of king Sargon II at Dur Sharrukin, 713 - 716 BC / Public Domain](/media/genie_dur_sharrukin.jpg){caption=1 width=666}
+![A four-winged genie in the Bucket and cone motif. Relief from the north wall of the Palace of king Sargon II at Dur Sharrukin, 713 - 716 BC / Public Domain](/media/genie_dur_sharrukin.jpg){caption=1 width=450}
 
 Angle is the new notable feature in the second dimension that should be carefully contemplated. When two lines intersect with each other they form a certain relationship. Say the line a is a straight line going through points A and B. The line a will act as a reference from now on. The straight line b will go via points A and C. Now both lines will meet in the point A, thus forming an intersection point. The special relationship that the lines make at that point is called a slope or a ratio by the fact that against every three horizontal steps (a run) line a takes, the line b will increase its vertical value by two (a rise).
 
