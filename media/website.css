@@ -92,6 +92,11 @@ div#README\.md table thead {
     display: none;
 }
 
+div#README\.md {
+    margin-top: 30px;
+    page-break-inside: avoid;
+}
+
 /* part 1 and 2 image align */
 
 div#part1\/index\.md,
