@@ -121,6 +121,7 @@ div#README\.md {
 div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
+    clear: both;
 }
 
 /* big number */
