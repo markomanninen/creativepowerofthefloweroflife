@@ -2,10 +2,10 @@
 
 <!-- pagewrapper -->
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
 
 <div class="author">
 
@@ -22,15 +22,15 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 </p>
 
 <p>
-<i>"Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC."</i>
+<i>"The Fleur-de-lis can be seen basicly the same symbol with the Flower of Life (and Death), but the former is presented from the side view when the latter, the FOL, is presented from the top bird view."</i>
 </p>
 
-<p>Highlights of the essay are:</p>
+<p>Highlights of the book are:</p>
 
 <ul>
-	<li style="list-style: square;">The early development of the geometry of the Flower of Life</li>
-	<li style="list-style: square;">Introduction of the <b>Cownose</b>, another intersecting circles pattern that is related with the Flower of Life</li>
-	<li style="list-style: square;">Cataloging over 40 items that contain the Flower of Life symbol ranging from 1600 BC to 1600 AD</li>
+	<li style="list-style: square;">The meaning of the symbol transferred from the early iron age to the common era</li>
+	<li style="list-style: square;">Unveiling the name based on the early Mesopotamian texts</li>
+	<li style="list-style: square;">New artifacts, new insights</li>
 </ul>
 
 <br/>

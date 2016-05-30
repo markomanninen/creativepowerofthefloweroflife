@@ -329,10 +329,10 @@ figure#fig3\.3\.12 {
 }
 
 figure#fig3\.3\.10 img {
-    width: 243px;
+    width: 240px;
 }
 figure#fig3\.3\.11 img {
-    width: 252px;
+    width: 240px;
 }
 figure#fig3\.3\.12 img {
     width: 240px;
@@ -340,52 +340,58 @@ figure#fig3\.3\.12 img {
 
 /* hittite suns */
 
-figure#fig4\.1\.1,
-figure#fig4\.1\.2 {
+figure#fig4\.3\.1,
+figure#fig4\.3\.2 {
     float: left;
-    width: 45%;
+    width: 48%;
     margin: 0 5px;
 }
 
 /* hittite sun 1 and 2 models */
 
-figure#fig4\.1\.3,
-figure#fig4\.1\.6 {
-    width: 75%;
-    margin: 0 auto;
-}
-
-figure#fig4\.1\.4,
-figure#fig4\.1\.5,
-figure#fig4\.1\.7,
-figure#fig4\.1\.8 {
-    float: left;
-    width: 45%;
+figure#fig4\.3\.3,
+figure#fig4\.3\.6 {
     margin: 0 5px;
 }
 
-figure#fig4\.1\.4 img,
-figure#fig4\.1\.5 img,
-figure#fig4\.1\.7 img,
-figure#fig4\.1\.8 img {
+figure#fig4\.3\.4,
+figure#fig4\.3\.5,
+figure#fig4\.3\.7,
+figure#fig4\.3\.8 {
+    float: left;
+    width: 48%;
+    margin: 0 5px;
+}
+
+figure#fig4\.3\.4 img,
+figure#fig4\.3\.5 img,
+figure#fig4\.3\.7 img,
+figure#fig4\.3\.8 img {
     width: 185px
 }
 
 /* pomegranates */
 
-figure#fig4\.1\.9,
-figure#fig4\.1\.10 {
+figure#fig4\.5\.1,
+figure#fig4\.5\.2 {
     float: left;
-    width: 45%;
+    width: 48%;
     margin: 0 5px;
+}
+
+/* coin */
+
+figure#fig4\.5\.2 img {
+    width: 250px;
+    margin: 60px;
 }
 
 /* lilies */
 
-figure#fig4\.1\.12,
-figure#fig4\.1\.13 {
+figure#fig4\.5\.4,
+figure#fig4\.5\.5 {
     float: left;
-    width: 45%;
+    width: 48%;
     margin: 0 5px;
 }
 
