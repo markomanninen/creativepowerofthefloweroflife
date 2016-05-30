@@ -3,11 +3,14 @@
     "description": "Complementary material to the Artifacts of the Flower of Life research document",
     "author": "Marko Manninen",
     "isbn": "978-952-68480-3-7 (PDF), 978-952-68480-4-4 (EPUB), 978-952-68480-5-1 (MOBI)",
-    "totalpages": 97,
     "published": "01/12/2016",
     "copyright": "Marko Manninen &copy; 2016",
     "website": "http://creative.flowerofliferesearch.com",
     "keywords": "flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun",
+
+    "totalpages": 104,
+    "hidepageheaders": [2, 8, 39, 103, 104],
+    "hidepagefooters": [2, 8, 39, 103, 104],
 
     "plugins": ["regexplace", "ga"],
 

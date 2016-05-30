@@ -1,5 +1,5 @@
 {% extends "./page.html" %}
 
 {% block body %}
-<div id="pdf-header" class="pdf-header"><span>{{ page.title }}&nbsp;</span> <span class="header-pages-count sub"><a href="{{ config.website }}">{{ config.website }}</a></span></div><script>if ({{ page.num }} == {{ config.totalpages }}) document.getElementById('pdf-header').style.display = 'none'</script>
+<div id="pdf-header" class="pdf-header"><span>{{ page.title }}&nbsp;</span> <span class="header-pages-count sub"><a href="{{ config.website }}">{{ config.website }}</a></span></div><script>if ({{ page.num }} in {{ config.hidepageheaders }}) document.getElementById('pdf-header').style.display = 'none'</script>
 {% endblock %}
