@@ -10,15 +10,13 @@ I hope my independent research provides valuable resources for people to do furt
 *Creative power of the Flower of Life* electronic book is published in four different formats: [Online]({{ config.website }}/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
 
 <!-- pagewrapper -->
----
-
-| ***Meta*** | *Data* |
+| *Meta* | *Data* |
 | -- | -- |
-| **Title** | Creative Power of the Flower of Life |
-| **Author** | Marko Manninen |
+| **Title** | {{ config.title }} |
+| **Author** | {{ config.author }} |
 | **Pages** | {{ config.totalpages }} (PDF) |
 | **Description** | Complementary material to the [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) research document |
-| **Keywords** | flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun |
+| **Keywords** | {{ config.keywords }} |
 | **Language** | English |
 | **Publish status** | Will be published 2016-xx-xx as an electronic book |
 | **Last updated** | {{ file.mtime }} |
