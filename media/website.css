@@ -100,12 +100,6 @@ div#README\.md table thead {
 div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
-    height: auto;
-}
-
-div#part1\/index\.md img,
-div#part2\/index\.md img {
-    width: 500px;
 }
 
 /* big number */
