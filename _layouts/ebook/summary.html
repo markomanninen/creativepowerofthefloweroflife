@@ -16,7 +16,7 @@
                     <span>{{ article.title }}</span>
                 {% endif %}
                 {% if 1 %}
-                <span class="page">{{ article.level }}</span>
+                <span class="page">{{ article.level.split('.').splice(1).join('.') }}</span>
                 {% endif %}
             </span>
             {% if article.articles.length > 0 %}
