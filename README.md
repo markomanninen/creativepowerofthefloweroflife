@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 Introduction
 ============
 
@@ -9,6 +8,8 @@ The reader is expected to be familiar with basics of the Flower of Life geometry
 I hope my independent research provides valuable resources for people to do further investigation with the topic.
 
 *Creative power of the Flower of Life* electronic book is published in four different formats: [Online]({{ config.website }}/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
+
+<!-- pagewrapper -->
 
 | *Meta* | *Data* |
 | -- | -- |

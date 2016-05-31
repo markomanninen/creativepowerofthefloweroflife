@@ -87,17 +87,12 @@ div#appendix1\.md ol:nth-child(3) {
 
 /* table headers */
 
-#page-book-details .details-readme section table thead,
+div#README\.md {
+    margin-top: 30px;
+}
+
 div#README\.md table thead {
     display: none;
-}
-
-div#README\.md table {
-    page-break-inside: avoid;
-}
-
-div#README\.md table {
-    margin-top: 30px;
 }
 
 /* part 1 and 2 image align */
@@ -105,6 +100,7 @@ div#README\.md table {
 div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
+    height: auto;
 }
 
 div#part1\/index\.md img,
