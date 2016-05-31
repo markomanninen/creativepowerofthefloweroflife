@@ -9,8 +9,6 @@
     "keywords": "flower of life, six-petal rosette, six-spoked wheel, rosette, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, vesica piscis, fleur-de-lis, lily, tree of life, menorah, sacred geometry, ancient mathematics, hittite sun",
 
     "totalpages": 104,
-    "hidepageheaders": [2, 8, 39, 103, 104],
-    "hidepagefooters": [2, 8, 39, 103, 104],
 
     "plugins": ["regexplace", "ga"],
 
