@@ -92,6 +92,7 @@ figcaption {
 
 /* PAGE SPECIFIC */
 
+
 /* set summary page to right side of the paper */
 
 .page .toc h1 {
@@ -174,7 +175,7 @@ div#part1\/pointline\.md blockquote {
 }
 
 .page .section div#backcover\.md {
-    page-break-before: left;
+    page-break-before: right;
 }
 
 /* new items page break after every item */
