@@ -104,8 +104,8 @@ Intersections points are 37 for the Figure 7.8 and 73 for the Figure 7.9. 37 and
 #### Mathematical properties
 
 
-|class|option|circles|intersections|leaves|width_min|width_max|triangles|
-| --- | ---- | ----- | ----------- | ---- | ------- | ------- | ------- |
+|class|option|circles|points|leaves|width_min|width_max|triangles|
+| --- | ---- | ----- | ---- | ---- | ------- | ------- | ------- |
 |1|a|1 |7 |12 |1    |1    |6 |
 |1|b|13|19|18 |2    |2.732|24|
 |2|a|7 |19|42 |1.732|2    |24|
