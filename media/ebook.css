@@ -1,16 +1,12 @@
 /* GENERAL ELEMENTS */
 
-html, body {
-    height: auto;
-}
-
-/* SPECIAL ELEMENTS */
-
 /* clear both */
 
 .clear {
     clear: both;
 }
+
+/* SPECIAL ELEMENTS */
 
 /* page break always after element on pdf/print definition */
 
@@ -142,6 +138,8 @@ div#part1\/pointline\.md blockquote {
     margin: 0;
 }
 
+/* appendixes */
+
 .page .section div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
@@ -172,12 +170,14 @@ div#part1\/pointline\.md blockquote {
     display: none;
 }
 
-.page .section div#keywords\.md {
-    page-break-after: right;
-}
-
 .page .section div#backcover\.md {
     page-break-before: left;
+}
+
+/* keywords */
+
+.page .section div#keywords\.md {
+    page-break-after: right;
 }
 
 /* new items page break after every item */
@@ -185,7 +185,6 @@ div#part1\/pointline\.md blockquote {
 .page .section div#newitems\.md h3 {
     page-break-before: always;
 }
-
 
 
 /* CITATION AND IMAGES */

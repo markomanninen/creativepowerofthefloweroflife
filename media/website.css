@@ -117,6 +117,8 @@ div#part1\/pointline\.md blockquote {
     margin: 0;
 }
 
+/* appendixes */
+
 div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
@@ -128,6 +130,29 @@ div#appendix2\.md table tbody td:nth-child(5) {
 div#appendix2\.md table img {
     max-height: 33%;
     height: 90px;
+}
+
+/* backcover adjust */
+
+div#backcover\.md {
+    width: 89%;
+    margin: 0 auto;
+}
+
+div#backcover\.md div.author {
+    float:right;
+    width: 27%;
+    text-align: center;
+}
+
+div#backcover\.md p:nth-child(1) br {
+    display: none;
+}
+
+/* new items page break */
+
+div#newitems\.md h3 {
+    page-break-before: always;
 }
 
 /* CITATION AND IMAGES */
@@ -265,27 +290,6 @@ div#appendix2\.md table img {
 .book .book-body .page-wrapper .page-inner section.normal p img.math.line2 {
     margin-top: -1px;
     max-height: 30px;
-}
-
-/* backcover adjust */
-
-.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md {
-    width: 89%;
-    margin: 0 auto;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal div#newitems\.md h3 {
-    page-break-before: always;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md div.author {
-    float:right;
-    width: 27%;
-    text-align: center;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md p:nth-child(1) br {
-    display: none;
 }
 
 /* IMAGE STYLES */
