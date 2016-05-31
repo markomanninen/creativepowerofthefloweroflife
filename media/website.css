@@ -92,9 +92,12 @@ div#README\.md table thead {
     display: none;
 }
 
-div#README\.md {
-    margin-top: 30px;
+div#README\.md table {
     page-break-inside: avoid;
+}
+
+div#README\.md table {
+    margin-top: 30px;
 }
 
 /* part 1 and 2 image align */

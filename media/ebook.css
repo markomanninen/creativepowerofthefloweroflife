@@ -123,6 +123,7 @@ div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
     clear: both;
+    page-break-inside: avoid;
 }
 
 /* big number */
@@ -175,7 +176,7 @@ div#part1\/pointline\.md blockquote {
 }
 
 .page .section div#backcover\.md {
-    page-break-before: right;
+    page-break-before: left;
 }
 
 /* new items page break after every item */
