@@ -1,5 +1,13 @@
 /* GENERAL ELEMENTS */
 
+h1 {
+    margin:.60em 0 .67em 0;
+}
+
+.page .section.toc h1 {
+    margin: .67em 0;
+}
+
 /* clear both */
 
 .clear {
