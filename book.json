@@ -30,8 +30,6 @@
             "substitutes": [
                 {"pattern": "<!-- pagebreak -->", "flags": "g", "substitute": "<div class=\"page-break\"></div>"},
                 {"pattern": "<!-- clear -->", "flags": "g", "substitute": "<div class=\"clear\"></div>"},
-                {"pattern": "<!-- pagewrapper -->", "flags": "g", "substitute": "<div id=\"_PAGE_PATH_\">"},
-                {"pattern": "<!-- endpagewrapper -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
                 {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
@@ -75,6 +73,8 @@
             ]
         },
         "": [
+            {"pattern": "<!-- pagewrapper -->", "flags": "g", "substitute": "<div id=\"_PAGE_PATH_\">"},
+            {"pattern": "<!-- endpagewrapper -->", "flags": "g", "substitute": "</div>"},
             {
                 "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
                 "flags": "g",

@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 ## Life and death drama
 
 These all are examples that witness the widespread mixing of these two plants. They both have something to do with life and death that is: with seasonal change of light and darkness, the Sun (source) and the Moon (reflection). Lily has kept its twofold meaning until our days because it is still the flower of death and the most common fragrance in funerals, after possible aromatic incenses of course. But at the same time a Lily, especially the Madonna lily is a symbol of purity, radiance and innocence, possibly in the way Leonardo wanted to use it on his Annunciation -painting<!-- cite author="wikipedia.org" title="Annunciation (Leonardo)" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Annunciation_(Leonardo)" --> passing by the old tradition of the scenery.
@@ -20,7 +19,5 @@ Symbology is pretty consistent with this big drama scene over the ages and cultu
 Once the temple is ready and arosen from the river, the snake was praised and ending of the story incorporates the familiar scene of the Hawk and the Sun, or winged sun disk<!-- cite author="wikipedia.org" title="Winged sun" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Winged_sun" --> as it is better known:
 
 > At this instant the Hawk with the mirror soared aloft above the dome; caught the light of the Sun, and reflected it upon the group, which was standing on the Altar. The King, the Queen, and their attendants, in the dusky concave of the Temple, seemed illuminated by a heavenly splendour, and the people fell upon their faces.
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

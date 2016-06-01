@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 # Part 1: Introspections
 
 
@@ -80,7 +79,5 @@ In a womb of all written and engraved things, the FOL bears fundamental ideas of
 <!-- endnote -->
 
 Although a plethora of concepts has now been opened for introspection, one point and one line are still too limited to express more advanced forms of the FOL explicitly and unambiguously.
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

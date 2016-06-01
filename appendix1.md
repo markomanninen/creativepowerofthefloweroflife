@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 # Appendix 1 - Classifications
 
 There are several reasons why we need classifications in general. Categories helps to group and determine group specialties needed to find similarities and differences between objects. Classification will increase resolution of the problem field and explains relationships between objects. Among quantitative and qualitative research methods types of descriptive and categorization are very useful methods which all supplements each other. By classification we may further reason the local and the temporal development of motives. Mathematical properties belonging to each group and progressing between groups may give extra insights to the historical development of the motif. Classification helps to discuss about the topic with more detailed and unambiguous terms.
@@ -125,7 +124,5 @@ There is practically no limit how many layers of circles you can draw on the FOL
 Class p means a pattern-like or ornament-like formation of the FOL. This is quite typical among the other classes. Items 5 and 8 in this book goes to this category. Pre-Indus ceramic ornament from 2500 BC is the earliest reference of the FOL and goes to the class p. From 800 - 600 BC many items like the Ivory tusk, the plaque, and the cosmetic pyxis from Nimrud, Terracotta torsos from Cyprus and stone floor sills from Iraq, all belong to the class p. Church pavement from London 1600 AD uses this formation. One undated Assyrian wall decoration is going also under the class p.
 
 One notable feature between the Cownose and the Flower of Life is that the Cownose pattern is almost without exceptions found in an ornament / pattern form. It is clearly not used similar way than the FOL is in classes 1, 2, and 3, where the symbol is enclosed by a circular form.
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 # New items
 
 Next eight new items / item groups consist of six rather modern artifacts (1400 - 1900 AD), one group of vessels and terracotta torso from the Cypro-Archaic period (800 - 600 BC) and one special ivory item from the Late Bronze Age (1650 - 1050 BC) all with occurrences of the FOL in them.
@@ -108,7 +107,5 @@ The hexagonal ornament and carvings on the wooden pole was brought from the moun
 The Flower of Life pattern visible on the window background ornament faced to Mecca on the Blue Mosque in Istanbul, Turkey. The mosque was built in 1616. The organization of the work was described in meticulous detail in eight volumes, now found in the library of the Topkapı Palace. Volumes might enlighten why ornament was selected to the Blue Mosque. Outside the Mosque there were both six-petal rosettes and Cownose patterns on mosaic floors. Four to five million tourists visit the place per a year but I have never seen this detail in the context of the Flower of Life mentioned before.
 
 <!-- endnopb -->
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

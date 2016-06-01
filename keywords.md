@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 # Keywords
 
 This list of keywords and phrases can be used to search more information about the FOL from libraries and search engines:
@@ -16,5 +15,3 @@ Unique words in the document: {{ book.uniquewords.length }}
 
 {{ book.uniquewords.sort().join(', ') }}
 {% endif %}
-
-<!-- endpagewrapper -->

@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 ## Pondering the name
 
 In part 1 I have specified geometrical base components with some etymological ideas around the FOL, and I have repeatedly made notes about a similar geometrical shape from Old Babylonian times called Cownose or Apsamikkum. Now it is time to move forward and give more descriptive ideas of the FOL symbol.
@@ -20,7 +19,5 @@ At first the task seems overwhelming and impossible. The FOL decoration has been
 To make a comparison, a very famous motif of the ancients, the Tree of Life<!-- cite author="wikipedia.org" title="Tree of life" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Tree_of_life" --> is in a similar position. Although so extensively used by various cultures, there are no ancient texts that really explain what was meant with the motif. Tree of Life symbolism can be seen as an example of symbolic tradition where we can mainly use analogies and comparative methods to find out possible meanings of the motif.
 
 After a second look at the task, we however have a bit more to say about the FOL. We have contexts where and when items having the FOL symbol existed. Previous knowledge of the cultures greatly helps to get at least a general idea of the ongoing development of the collective mathematical and geometrical intelligence of ancient people. We also have the old mathematical documents describing specifically the geometry and coefficients of the square root 2 and 3 ratio or the square and the equilateral triangle respectively. What we have are leads good enough to be able to make sophisticated conjectures, if not definite answers.
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}

@@ -1,4 +1,3 @@
-<!-- pagewrapper -->
 ## Hittite sun discs
 
 To get convinced of the bronze age origin of the geometrical ideas of squares and equilateral triangles, we can take a look to the Pre-Hittite religious standards. Excavations started at 1910s by a german archaeology team in Alacahöyük<!-- cite author="turkishculture.org" title="Turkish Culture Portal - Alacahöyük" date="" location="" type="website" href="http://www.turkishculture.org/archaeology/alacahoyuk-1085.htm" -->, central Turkey, and later continued by a turkish team whose work was personally funded by Mustafa Kemal Atatürk, revealed objects known as the Hittite Sun. 
@@ -32,7 +31,5 @@ Perfect round shape of the first disc indicates that appreciation of the circula
 Of the several dozens of sun disc standards, I have found only the above one following hexagonal pattern. If model used on the formation of the latter disc was based on the overlapping circles, then it would the earliest perfect FOL (class 3) available. Yet the exact date of the FOL in Abydos still remains unconfirmed and can change the fact. It would also mean that the FOL was known both in Indus valley and Hattusa in the middle of the third millennium BC.
 
 To get more textual data for investigation we need to move from the bronze age to the second and the first millennium BC. My particular interest here is to examine some semitic and greek tales and mytho-religious accounts, which may relate to the FOL symbolism.
-
-<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}
