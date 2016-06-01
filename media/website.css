@@ -6,6 +6,14 @@
     clear: both;
 }
 
+.markdown-section > div > :last-child {
+    margin-bottom: 0 !important;
+}
+
+.markdown-section > div > :first-child {
+    margin-top: 0 !important;
+}
+
 /* page break always after element on pdf/print definition */
 
 div.pagebreak {
@@ -66,8 +74,12 @@ figcaption {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal table img.faded {
-    opacity: 0.2;
-    filter: alpha(opacity=20); /* For IE8 and earlier */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)"; /* IE 8 */
+    filter: alpha(opacity=20);  /* For IE7 and earlier */
+    -moz-opacity: 0.2;          /* Netscape */
+    -khtml-opacity: 0.2;        /* Safari 1.x */
+    opacity: 0.2;               /* Rest */
+    position: relative;
 }
 
 /* blockquotes */
@@ -87,8 +99,9 @@ div#appendix1\.md ol:nth-child(3) {
 
 /* table headers */
 
-div#README\.md {
+div#README\.md table {
     margin-top: 30px;
+    margin-bottom: 0;
 }
 
 div#README\.md table thead {

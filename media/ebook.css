@@ -6,6 +6,14 @@
     clear: both;
 }
 
+.section > :last-child {
+    margin-bottom: 0 !important;
+}
+
+.section > :first-child {
+    margin-top: 0 !important;
+}
+
 /* SPECIAL ELEMENTS */
 
 /* page break always after element on pdf/print definition */
@@ -67,11 +75,6 @@ figcaption {
     margin-top: 10px;
 }
 
-.page .section table img.faded {
-    opacity: 0.2;
-    filter: alpha(opacity=20); /* For IE8 and earlier */
-}
-
 /* ul, ol list margin fix */
 
 .page .section ol,
@@ -95,16 +98,11 @@ figcaption {
     page-break-before: right;
 }
 
-div#appendix1\.md ol:nth-child(1),
-div#appendix1\.md ol:nth-child(2),
-div#appendix1\.md ol:nth-child(3) {
-    list-style-type: lower-alpha;
-}
-
 /* table headers */
 
-div#README\.md {
+div#README\.md table {
     margin-top: 30px;
+    margin-bottom: 0;
 }
 
 div#README\.md table thead {
@@ -140,49 +138,68 @@ div#part1\/pointline\.md blockquote {
 
 /* appendixes */
 
-.page .section div#appendix2\.md table thead th:nth-child(5) {
+div#appendix1\.md ol:nth-child(1),
+div#appendix1\.md ol:nth-child(2),
+div#appendix1\.md ol:nth-child(3) {
+    list-style-type: lower-alpha;
+}
+
+div#appendix2\.md table tr {
+    page-break-inside: avoid;
+}
+
+div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
 
-.page .section div#appendix2\.md table tbody td:nth-child(5) {
+div#appendix2\.md table tbody td:nth-child(5) {
     text-align: center;
 }
 
-.page .section div#appendix2\.md table img {
+div#appendix2\.md table img {
     max-height: 33%;
     height: 90px;
 }
 
+div#appendix2\.md table img.faded {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)"; /* IE 8 */
+    filter: alpha(opacity=20);  /* For IE7 and earlier */
+    -moz-opacity: 0.2;          /* Netscape */
+    -khtml-opacity: 0.2;        /* Safari 1.x */
+    opacity: 0.2;               /* Rest */
+    position: relative;
+}
+
 /* backcover adjust */
 
-.page .section div#backcover\.md {
+div#backcover\.md {
     width: 89%;
     margin: 0 auto;
 }
 
-.page .section div#backcover\.md div.author {
+div#backcover\.md div.author {
     float:right;
     width: 27%;
     text-align: center;
 }
 
-.page .section div#backcover\.md p:nth-child(1) br {
+div#backcover\.md p:nth-child(1) br {
     display: none;
 }
 
-.page .section div#backcover\.md {
+div#backcover\.md {
     page-break-before: left;
 }
 
 /* keywords */
 
-.page .section div#keywords\.md {
+div#keywords\.md {
     page-break-after: right;
 }
 
 /* new items page break after every item */
 
-.page .section div#newitems\.md h3 {
+div#newitems\.md h3 {
     page-break-before: always;
 }
 
