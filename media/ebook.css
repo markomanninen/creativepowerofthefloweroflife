@@ -114,13 +114,12 @@ div#README\.md table thead {
 div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
-    border: 1px solid red;
 }
 
 div#part1\/index\.md img,
 div#part2\/index\.md img {
     margin-top: 50px;
-    border: 1px solid blue;
+    max-width: 99%;
 }
 
 /* big number */
@@ -188,7 +187,6 @@ div#appendix2\.md table img.faded {
 div#backcover\.md {
     width: 89%;
     margin: 0 auto;
-    border: 1px solid yellow;
 }
 
 div#backcover\.md div.author {
@@ -205,10 +203,6 @@ div#backcover\.md > :first-child {
 
 div#keywords\.md > :last-child {
     page-break-after: left;
-}
-
-div#keywords\.md {
-    border: 1px solid yellow;
 }
 
 /* new items page break after every item */
