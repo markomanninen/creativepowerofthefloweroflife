@@ -50,7 +50,9 @@
                             {% block search_results %}
                                 <section class="normal markdown-section">
                                 {% block page %}
-                                {{ page.content|safe }}
+                                    <div id="{{ file.path }}">
+                                    {{ page.content|safe }}
+                                    </div>
                                 {% endblock %}
                                 </section>
                             {% endblock %}

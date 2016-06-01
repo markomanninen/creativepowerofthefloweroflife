@@ -28,7 +28,7 @@
 <div class="page">
     {% block page %}
         <h1 class="book-chapter book-chapter-{{ page.depth }}">{{ page.title }}</h1>
-        <div class="section">
+        <div class="section" id="{{ file.path }}">
             {{ page.content|safe }}
         </div>
     {% endblock %}
