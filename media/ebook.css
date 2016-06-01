@@ -100,6 +100,10 @@ figcaption {
 
 /* table headers */
 
+div#README\.md {
+    max-height: 99%;
+}
+
 div#README\.md table {
     margin-top: 30px;
     max-width: 99%
