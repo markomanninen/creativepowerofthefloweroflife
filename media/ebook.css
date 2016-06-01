@@ -1,13 +1,5 @@
 /* GENERAL ELEMENTS */
 
-h1 {
-    margin:.60em 0 .67em 0;
-}
-
-.page .section.toc h1 {
-    margin: .67em 0;
-}
-
 /* clear both */
 
 .clear {
@@ -110,12 +102,16 @@ figcaption {
 /* table headers */
 
 div#README\.md table {
-    margin-top: 20px;
+    margin-top: 30px;
     max-width: 99%
 }
 
 div#README\.md table thead {
     display: none;
+}
+
+div#README\.md > :last-child {
+    page-break-after: avoid !important;
 }
 
 /* part 1 and 2 image align */
@@ -153,27 +149,6 @@ div#appendix1\.md ol:nth-child(2),
 div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
 }
-
-/*
-div#appendix2\.md table,
-div#appendix2\.md table thead,
-div#appendix2\.md table tbody,
-div#appendix2\.md table thead tr,
-div#appendix2\.md table tbody tr,
-div#appendix2\.md table thead tr th,
-div#appendix2\.md table tbody tr td {
-    page-break-inside: avoid !important;
-}
-*/
-
-/*
-.page div#appendix2\.md table tr td:after,
-.page div#appendix2\.md table tr td:before {
-    content: "";
-    height: 4px;
-    display: block;
-}
-*/
 
 div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
