@@ -114,11 +114,13 @@ div#README\.md table thead {
 div#part1\/index\.md,
 div#part2\/index\.md {
     text-align: center;
+    border: 1px solid red;
 }
 
 div#part1\/index\.md img,
 div#part2\/index\.md img {
     margin-top: 50px;
+    border: 1px solid blue;
 }
 
 /* big number */
@@ -144,8 +146,19 @@ div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
 }
 
-div#appendix2\.md table tr {
-    page-break-inside: avoid;
+.page div#appendix2\.md table tr,
+.page div#appendix2\.md table thead,
+.page div#appendix2\.md table tbody,
+.page div#appendix2\.md table thead tr th,
+.page div#appendix2\.md table tbody tr td {
+    page-break-inside: avoid !important;
+}
+
+.page div#appendix2\.md table tr td:after,
+.page div#appendix2\.md table tr td:before {
+    content: "";
+    height: 4px;
+    display: block;
 }
 
 div#appendix2\.md table thead th:nth-child(5) {
@@ -175,6 +188,7 @@ div#appendix2\.md table img.faded {
 div#backcover\.md {
     width: 89%;
     margin: 0 auto;
+    border: 1px solid yellow;
 }
 
 div#backcover\.md div.author {
@@ -183,18 +197,18 @@ div#backcover\.md div.author {
     text-align: center;
 }
 
-div#backcover\.md p:nth-child(1) br {
-    display: none;
-}
-
-div#backcover\.md {
-    page-break-before: left;
+div#backcover\.md > :first-child {
+    page-break-before: right;
 }
 
 /* keywords */
 
+div#keywords\.md > :last-child {
+    page-break-after: left;
+}
+
 div#keywords\.md {
-    page-break-after: right;
+    border: 1px solid yellow;
 }
 
 /* new items page break after every item */
@@ -525,6 +539,7 @@ div.nopb {
 .pdf-header {
     margin-top: 20px;
     color: #aaa;
+    border: 1px solid green;
 }
 .pdf-footer .sub {
     padding-top: 8px;

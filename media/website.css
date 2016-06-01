@@ -1,4 +1,4 @@
-/* SPECIAL ELEMENTS */
+/* GENERAL ELEMENTS */
 
 /* clear both */
 
@@ -13,6 +13,8 @@
 .markdown-section > div > :first-child {
     margin-top: 0 !important;
 }
+
+/* SPECIAL ELEMENTS */
 
 /* page break always after element on pdf/print definition */
 
@@ -132,6 +134,12 @@ div#part1\/pointline\.md blockquote {
 
 /* appendixes */
 
+div#appendix2\.md table tr,
+div#appendix2\.md table tr th,
+div#appendix2\.md table tr td {
+    page-break-inside: avoid !important;
+}
+
 div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
 }
@@ -158,7 +166,7 @@ div#backcover\.md div.author {
     text-align: center;
 }
 
-div#backcover\.md p:nth-child(1) br {
+div#backcover\.md p br {
     display: none;
 }
 

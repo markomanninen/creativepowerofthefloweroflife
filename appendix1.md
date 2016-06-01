@@ -30,36 +30,6 @@ Piscis or a fish <img src="./media/smallfish.png" width="30" /> is known to refe
 
 With or without the circle around, this is one of the most used geometric symbols on ancient art as well. Rosette is a general name for a symmetrical appearance of the flower-like petals. Petals can be three, four, five, six or any multiple of these. But in speaking of the FOL, the six-petal rosette is the right one. The most important aspect of this symbol is the relation between 6 and 7, six leaves and 7 intersecting points. Occurrences of it are too common to be presented on the scope of this research document.
 
-#### Class 1, 2 and 3 properties and options
-
-Class 1, 2 and 3 are central forms of the FOL variations on which I want to spend more time for analysis. Each of them has mathematical properties and options calculated in the following manner.
-
-Mathematical properties:
-
-1. Number of circles that are needed to construct the symbol
-2. Number of intersection points that are present in the construction
-3. Number of leaves that are present in the construction
-4. Minimum and maximum width of the symbol
-5. Number of concave triangles that are countable on the construction
-
-Each of them can be calculated from inner and outer part of the construction giving two options:
-
-<ol style="list-style-type: lower-alpha;">
-<li>Inside the formation</li>
-<li>Inside + outside the formation combined</li>
-</ol>
-
-Circles needed in total inside the formation is a bit arbitrary because the FOL needs to have partial circles / arcs to be fully formed as a symbol. In this case, one should pay attention to the option B, combined value of the inside and outside objects.
-
-Leaves is a bit arbitrary on option B because there are half-formatted leaves on the outer part of the motif. As a result, only fully formed leaves are counted in the case of the option B.
-
-Width has two values because of the hexagonal shape of the FOL which has two different diagonals. Longer (max.) diagonal value is the vertex of the hexagon. Shorter (min.) diagonal value related to the square root 3 is the apothem of the hexagon.
-
-Concave triangles inside the FOL are exactly countable, but on the outer formation, we can see partly formed concave triangles so I have counted only fully symmetrical triangles on the option B.
-
-Arbitrary options are denoted with *a gray cursive font*.
-
-Sometimes additional notes about numbers are given.
 
 ## Class 1
 
@@ -100,11 +70,35 @@ Mathematical properties of the symbol elements are interesting, especially numbe
 Intersections points are 37 for the Figure 7.8 and 73 for the Figure 7.9. 37 and 73 are apparently mirror numbers. 73 is the 21st prime number. 37 is the 12th prime number. 21 (3\*7 or 7\*3) and 12 are again mirror numbers.
 
 
-#### Mathematical properties
+#### Class 1, 2 and 3 mathematical properties and options
 
+Class 1, 2 and 3 are central forms of the FOL variations on which I want to spend more time for analysis. Each of them has mathematical properties and options calculated in the following manner.
 
-|class|option|circles|points|leaves|width_min|width_max|triangles|
-| --- | ---- | ----- | ---- | ---- | ------- | ------- | ------- |
+Mathematical properties:
+
+1. Number of *circles* that are needed to construct the symbol
+2. Number of intersection *points* that are present in the construction
+3. Number of *leaves* that are present in the construction
+4. Minimum (*w_min*) and maximum (*w_max*) width of the symbol 
+5. Number of concave *triangles* that are countable on the construction
+
+Each of them can be calculated from inner and outer part of the construction giving two options:
+
+<ol style="list-style-type: lower-alpha;">
+<li>Inside the formation</li>
+<li>Inside + outside the formation combined</li>
+</ol>
+
+Circles needed in total inside the formation is a bit arbitrary because the FOL needs to have partial circles / arcs to be fully formed as a symbol. In this case, one should pay attention to the option B, combined value of the inside and outside objects.
+
+Leaves is a bit arbitrary on option B because there are half-formatted leaves on the outer part of the motif. As a result, only fully formed leaves are counted in the case of the option B.
+
+Width has two values because of the hexagonal shape of the FOL which has two different diagonals. Longer (max.) diagonal value is the vertex of the hexagon. Shorter (min.) diagonal value related to the square root 3 is the apothem of the hexagon.
+
+Concave triangles inside the FOL are exactly countable, but on the outer formation, we can see partly formed concave triangles so I have counted only fully symmetrical triangles on the option B.
+
+|class|option|circles|points|leaves|w_min|w_max|triangles|
+| --- | ---- | ----- | ---- | ---- | --- | --- | ------- |
 |1|a|1 |7 |12 |1    |1    |6 |
 |1|b|13|19|18 |2    |2.732|24|
 |2|a|7 |19|42 |1.732|2    |24|
