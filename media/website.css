@@ -103,7 +103,7 @@ div#appendix1\.md ol:nth-child(3) {
 
 div#README\.md table {
     margin-top: 30px;
-    margin-bottom: 0;
+    margin-bottom: inherit;
 }
 
 div#README\.md table thead {
