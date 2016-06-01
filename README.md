@@ -21,5 +21,3 @@ I hope my independent research provides valuable resources for people to do furt
 | **Last updated** | {{ gitbook.time }} |
 | **ISBN** | 978-952-68480-3-7 (PDF)<br/>978-952-68480-4-4 (EPUB)<br/>978-952-68480-5-1 (MOBI) |
 | **Website** | [{{ config.website }}]({{ config.website }}) |
-
-<!-- clear -->
