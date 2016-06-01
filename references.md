@@ -1,5 +1,6 @@
 # References
 
+
 ### Bibliography
 
 * Drunvalo Melchizedek: The ancient secret of the Flower of Life, Vol. 1 & 2 (1999 & 2000)
@@ -37,6 +38,7 @@
 * Karl Popper: The Logic of Scientific Discovery (1959)
 * René Gothóni: Words Matter. Hermeneutics in the Study of Religions (2011)
 
+
 ### Websites
 
 * [wikipedia.org](http://wikipedia.org)
@@ -48,7 +50,9 @@
 
 {% if book.citations %}
 
+
 ### Citations
+
 <ul class="references">
 {% for cite in book.citations %}<li>{{ cite.replace('.md', '.html') }}</li>{% endfor %}
 </ul>
