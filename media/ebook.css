@@ -92,7 +92,6 @@ figcaption {
 
 /* PAGE SPECIFIC */
 
-
 /* set summary page to right side of the paper */
 
 .page .toc h1 {
@@ -112,6 +111,10 @@ div#README\.md table thead {
 
 div#README\.md > :last-child {
     page-break-after: avoid !important;
+}
+
+div#foreword\.md > :first-child {
+    page-break-before: avoid !important;
 }
 
 /* part 1 and 2 image align */
