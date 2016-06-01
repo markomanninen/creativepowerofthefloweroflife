@@ -145,20 +145,24 @@ div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
 }
 
-.page div#appendix2\.md table tr,
-.page div#appendix2\.md table thead,
-.page div#appendix2\.md table tbody,
-.page div#appendix2\.md table thead tr th,
-.page div#appendix2\.md table tbody tr td {
+div#appendix2\.md table,
+div#appendix2\.md table thead,
+div#appendix2\.md table tbody,
+div#appendix2\.md table thead tr,
+div#appendix2\.md table tbody tr,
+div#appendix2\.md table thead tr th,
+div#appendix2\.md table tbody tr td {
     page-break-inside: avoid !important;
 }
 
+/*
 .page div#appendix2\.md table tr td:after,
 .page div#appendix2\.md table tr td:before {
     content: "";
     height: 4px;
     display: block;
 }
+*/
 
 div#appendix2\.md table thead th:nth-child(5) {
     width: 22%;
@@ -533,7 +537,6 @@ div.nopb {
 .pdf-header {
     margin-top: 20px;
     color: #aaa;
-    border: 1px solid green;
 }
 .pdf-footer .sub {
     padding-top: 8px;
