@@ -8,11 +8,9 @@ All items from the previous research 2014 and new items presented in this docume
 
 ### Item 1
 
-![Rullstol from Finland © ](/media/rullstol.jpg){caption=1 width=600}
+![Rullstol from Finland © Meinander, K. K.](/media/rullstol.jpg){caption=1 width=600}
 
 Above rullstol with the complete class 3 FOL symbol resides in the National Museum of Finland. The artifact is from Björkö island in Korsholm (fin. Mustasaari) municipality, the Gulf of Bothnia, 1850 AD.  This Rullstol is one of the many similar with the FOL symbols. Veera Vallinheimo notes the FOL symbol in her book *Rukinlapa: käyttöesine ja kihlalahja*<!-- cite author="Veera Vallinheimo" title="Rukinlapa: käyttöesine ja kihlalahja" date="1967" location="" type="book" href="#" --> and calls it rosette net (fin. ruusukeverkko) and rosette band (fin. ruusukevyö). Rosette naming convention is a little bit confusing because the most obvious flower described with the symbol is a six-petalled one, which is somewhat far from the rose flower. A petal count of roses vary from 0 to more than 100<!-- cite author="marinrose.org" title="Dozens of wonderful single roses" date="" location="" type="website" href="http://www.marinrose.org/singleroses.html" --> plus the shape of  petals in the rose differ from a regular oval shape in the FOL. In the archeological terminology, a rosette is understood as a general symmetrical flower-like shape, which may have 2 to n concentric petals.
-
-<!--In hebrew the rose and the lily were called with a same name *shoshana* which also might have-->
 
 This one plus next bridal gift items (2a, 2b, 2c) were both for decoratively made and functional at the same time. The FOL symbol in forms of class 1, 2 and 3 was very popular handicraft decoration motif from 1700 to 1900 AD in coastal Finland.
 
@@ -102,7 +100,7 @@ The hexagonal ornament and carvings on the wooden pole was brought from the moun
 
 ### Item 8
 
-![Mosque window background](/media/mosque-window-background.jpg){caption=1 width=600}
+![Blue Mosque window background](/media/mosque-window-background.jpg){caption=1 width=600}
 
 The Flower of Life pattern visible on the window background ornament faced to Mecca on the Blue Mosque in Istanbul, Turkey. The mosque was built in 1616. The organization of the work was described in meticulous detail in eight volumes, now found in the library of the Topkapı Palace. Volumes might enlighten why ornament was selected to the Blue Mosque. Outside the Mosque there were both six-petal rosettes and Cownose patterns on mosaic floors. Four to five million tourists visit the place per a year but I have never seen this detail in the context of the Flower of Life mentioned before.
 

@@ -10,8 +10,8 @@
     "language": "en",
     
     "totalpages": 104,
-    "hidepageheaders": [2, 8, 39, 103, 104],
-    "hidepagefooters": [2, 8, 39, 103, 104],
+    "hidepageheaders": [2, 8, 39, 102, 103, 104],
+    "hidepagefooters": [2, 8, 39, 102, 103, 104],
 
     "plugins": ["regexplace", "ga"],
 
@@ -20,6 +20,10 @@
             "js": ["//cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_SVG",
                    "//code.jquery.com/jquery-2.1.4.min.js",
                    "media/jquery-mathjax-to-img.js?png=0&dlpng=0&dlsvg=0&scale=4&output=0"],
+            "css": []
+        },
+        "__addcssjs": {
+            "js": ["//code.jquery.com/jquery-2.1.4.min.js"],
             "css": []
         },
         "ga": {

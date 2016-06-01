@@ -25,7 +25,8 @@ div.pagebreak {
 /* no page break inside element on pdf/print definition */
 
 div.nopb {
-    page-break-inside: avoid;
+    page-break-inside: avoid !important;
+    margin: 4px 0 4px 0;
 }
 
 /* note blocks */
@@ -101,8 +102,8 @@ figcaption {
 /* table headers */
 
 div#README\.md table {
-    margin-top: 30px;
-    margin-bottom: 0;
+    margin-top: 20px;
+    max-width: 99%
 }
 
 div#README\.md table thead {
@@ -145,6 +146,7 @@ div#appendix1\.md ol:nth-child(3) {
     list-style-type: lower-alpha;
 }
 
+/*
 div#appendix2\.md table,
 div#appendix2\.md table thead,
 div#appendix2\.md table tbody,
@@ -154,6 +156,7 @@ div#appendix2\.md table thead tr th,
 div#appendix2\.md table tbody tr td {
     page-break-inside: avoid !important;
 }
+*/
 
 /*
 .page div#appendix2\.md table tr td:after,

@@ -12,7 +12,7 @@ Dating of the objects goes actually back to the Pre-Hittite civilization called 
 
 But what interests us the most, is the geometrical formation inside the disc. The most famous Hittite sun disc standard seems to get a form from the square lattice model, which in turn can be found from the Cownose model as described below.
 
-![Hittite sun disc standard with geometric design](/media/hittitesun1.png){caption=1}
+![Hittite sun disc standard with a rectangular geometric design](/media/hittitesun1.png){caption=1}
 
 ![Apsamikkum (Cownose)](/media/hittitesun1circlemodel.png){caption=1}
 ![Equilateral rectangle lattice](/media/hittitesun1squaremodel.png){caption=1}
@@ -20,7 +20,7 @@ But what interests us the most, is the geometrical formation inside the disc. Th
 
 Other, although not so famous, Hittite sun disc contains a hexagonal grid, which can be found from the overlapping circles model, the Flower of Life, as presented below.
 
-![Hittite sun disc standard with geometric design](/media/hittitesun2.png){caption=1}
+![Hittite sun disc standard with a hexagonal geometric design](/media/hittitesun2.png){caption=1}
 
 ![Flower of Life](/media/hittitesun2circlemodel.png){caption=1}
 ![Equilateral triangle lattice](/media/hittitesun2trianglemodel.png){caption=1}
