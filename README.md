@@ -20,7 +20,6 @@ I hope my independent research provides valuable resources for people to do furt
 | **Publish status** | Will be published 2016-xx-xx as an electronic book |
 | **Last updated** | {{ gitbook.time }} |
 | **ISBN** | 978-952-68480-3-7 (PDF)<br/>978-952-68480-4-4 (EPUB)<br/>978-952-68480-5-1 (MOBI) |
-| **Collection** | Open-source |
 | **Website** | [{{ config.website }}]({{ config.website }}) |
 
 <!-- clear -->
