@@ -102,13 +102,13 @@ figcaption {
 
 div#README\.md table {
     margin-top: 30px;
-    margin-bottom: inherit;
 }
 
 div#README\.md table thead {
     display: none;
 }
 
+/*
 div#README\.md > :last-child {
     page-break-after: avoid !important;
 }
@@ -116,6 +116,7 @@ div#README\.md > :last-child {
 div#foreword\.md > :first-child {
     page-break-before: avoid !important;
 }
+*/
 
 /* part 1 and 2 image align */
 
@@ -173,6 +174,12 @@ div#appendix2\.md table img.faded {
     -khtml-opacity: 0.2;        /* Safari 1.x */
     opacity: 0.2;               /* Rest */
     position: relative;
+}
+
+div#appendix2\.md table,
+div#appendix2\.md table thead,
+div#appendix2\.md table tbody {
+    page-break-inside: auto;
 }
 
 /* backcover adjust */
