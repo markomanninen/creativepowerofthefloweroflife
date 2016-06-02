@@ -49,6 +49,4 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 ![EPUB](/media/978-952-68480-4-4/isbn.png){caption=1}
 
-![MOBI](/media/978-952-68480-3-7/isbn.png){caption=1}
-
-<!-- clearboth -->
+![MOBI](/media/978-952-68480-5-1/isbn.png){caption=1}

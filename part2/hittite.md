@@ -6,7 +6,7 @@ To get convinced of the bronze age origin of the geometrical ideas of squares an
 ![Rarely presented Hittite sun disc standard](/media/prehittitesun2.jpg){caption=1}
 <!-- clear -->
 
-Object are visible in the Anatolian Civilization Museum, Ankara, Turkey. Eventually Hittite Sun symbol became the emblem of Ankara city itself.
+Object are visible in the Anatolian Civilization Museum, Ankara, Turkey. Eventually Hittite Sun symbol became the emblem of Ankara University itself.
 
 Dating of the objects goes actually back to the Pre-Hittite civilization called Hattusa around 2500 BC, the early bronze age. Again there are no written texts telling their meaning. Earliest mentions of Hattis and their history comes from Hittite sources in the second millennium BC. The most apparent motif in the Hittite Sun disc no doubt is the bull symbol with symmetrical horns, which is imitated on many other related objects<!-- cite author="pinterest.com" title="Hittite Sun Standards" date="2016" location="" type="website" href="https://fi.pinterest.com/markomanninen/hittite-sun-standards/" --> found from the archaeological site. Also the disc as a symbol of the Sun looks like the most suitable one. Sometimes a half crescent disc above the head of the bull was also the Moon.
 

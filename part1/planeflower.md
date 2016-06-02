@@ -61,9 +61,6 @@ Three more figures worth noting are found when connecting six intersecting point
 
 ![Six-spoked wheel](/media/sixspokedwheel.png){caption=1}
 
-<!--<p style="clear: both;"></p>-->
-<!-- clearboth -->
-
 The figure in the middle, the hexagram is also known as the Star of David. It is still debated if the hexagram is a later pagan association stigmatized to the Judaism, for example into the flag of Israel. It is argued that more ancient and genuine symbol was a seven-branched candle holder, the Menorah of the Temple. However, it is quite evident that numbers <img src="/media/math/6and7.png" class="math" /> and symbols like the Star of David and the Menorah were unbreakably tied together. Mixed feelings towards the number six apparently came from early Christian apologists and their apocalyptically oriented facile interpretations of the number <img src="/media/math/666.png" class="math" />. By geometric relations presented in this document, PIE and Semitic numerals phonetic intimation<!-- cite author="" title="Compare coupling 6 and 7 with other numbers from a site listing numerals 1 to 10 with 5000 different languages: http://www.zompist.com/numbers.htm. One would expect 1-2, 3-4, 5-6, 7-8, 9-10 making assimilated rhyming pairs, but for some reason this formula is broken by bringing 6 & 7 together in PIE-Semitic-African languages. My early hypothesis is that this is a result of the increased awareness of the geometric-mathematical relationship between those numbers in Sumerian-Indus cultures around 4000 - 2000 BC." date="" location="" type="selfref" href="#" -->, astro-mythic association with the Pleiades, and symbolic attachment presented later in the Part 2, it can be shown that there are other more natural explanations over too religious anticipation, which give significance to numbers <img src="/media/math/6.png" class="math" /> and <img src="/media/math/7.png" class="math" />, <img src="/media/math/67.png" class="math line2" /> or its reciprocal <img src="/media/math/76.png" class="math line2" /> ratio.
 
 
@@ -103,7 +100,7 @@ When the center circle is included on the motif, FOL class 1 is formed because s
 
 ![Flower of Life, class 2](/media/secondround.jpg){caption=1 width=300}
 
-On the above, figure we have finished the second round and encircled the motif with 12 leaves. This is the FOL class 2. Both class 1 and class 2 are common on ancient mosaic art, ivory items, and wooden carvings.
+On the above figure we have finished the second round and encircled the motif with 12 leaves. This is the FOL class 2. Both class 1 and class 2 are common on ancient mosaic art, ivory items, and wooden carvings.
 
 
 ### FOL - symbol and pattern
@@ -128,6 +125,8 @@ But this doesn't mean that an ornament can't act as a symbol, even it itself mig
 ### Cow who ate a flower
 
 Knowing the simplicity of the construction of the FOL, it is a little bit struggling to find out that the four-petal lattice, the Cownose pattern (or Apsamikku), outscores the FOL by being a far more common symbol in Sumerian and Indus cultures. The popularity of the Cownose over the FOL is still notable in Greco-Roman mosaics. Cownose seems to be the most analyzed geometric form from the ancient time by modern researchers as well. In books about Old Babylonian mathematics and geometry, authors tend to use most of the effort (Duncan Melville, Eleanor Robson, Tom Zara, Jöran Friberg) to the Apsamikku (we may follow the endless debate over the name) and <img src="/media/math/sqrt2.png" class="math line1" /> only casually mentioning the six-petal rosette, Vesica Piscis or <img src="/media/math/sqrt3.png" class="math line1" />. For an additional example, R. P. Kulkarni mentions Mackay (1948) demonstrating a 12 division base of the four-petal rosette on the Plate XVIII<!-- cite author="R. P. Kulkarni" title="Geometry known to the people of Indus civilization" date="2013" location="Page 452" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005af9_117.pdf" --> which dates to 3rd or 2nd millennium Indus culture. The exact dating is hard to deduce from the text. But again, the Cownose gets the full attention.
+
+However, E. Robson in Mesopotamian Mathematics, 2100-1600 BC<!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics, 2100-1600 BC" date="1999" location="Page 53" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" --> mentions Kilmer (1990), who clearly states that Apsamikkum concept may apply to the three sided geometrical figure as well. Coefficient list on page 50 further shows that *a-pu-sa-mi-ik-ki sa 3* refers to the concave triangle figure. Thus, this is probably the closest we can get with a name which ancient Babylonians have used for the FOL-like pattern: **Apsamiikkum**. And this is the standpoint I'm further developing the theory of the meaning of the FOL on the Part 2 of this essay.
 
 Ancient Edakkal caves in India gives an impression of neolithic people trying to figure out the difference between concepts of dividing circle to six and eight parts. Picture below was kindly provided and permitted for use by Tes<!-- cite author="tesathome.com" title="Edakkal Caves | Tes at Home" date="" location="" type="website" href="http://tesathome.com/2013/05/31/edakkalcaves/" -->:
 
