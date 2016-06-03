@@ -265,20 +265,26 @@ div#newitems\.md h3 {
     display: none;
 }
 
-/* citations */
+/* sub and super script */
+
+.page .section sub {
+    font-size: 80%;
+    margin-left: 1px;
+}
+
+/* citations and references */
 
 .page .section sup {
     margin-left: -1px;
     margin-right: 2px;
+    font-size: 80%;
 }
 
 .page .section sup:before {
     content: " ";
 }
 
-.page .section sup a {
-    font-size: 75%;
-}
+.page .section sup a {}
 
 .page .section ul.citations,
 .page .section ul.references {
@@ -356,12 +362,8 @@ figure#fig3\.3\.12 {
     width: 33%;
 }
 
-figure#fig3\.3\.10 img {
-    width: 240px;
-}
-figure#fig3\.3\.11 img {
-    width: 240px;
-}
+figure#fig3\.3\.10 img,
+figure#fig3\.3\.11 img,
 figure#fig3\.3\.12 img {
     width: 240px;
 }

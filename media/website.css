@@ -206,6 +206,13 @@ div#newitems\.md h3 {
     display: none;
 }
 
+/* sub and super script */
+
+.book .book-body .page-wrapper .page-inner section.normal sub {
+    font-size: 80%;
+    margin-left: 1px;
+}
+
 /* citations and references */
 
 .book .book-body .page-wrapper .page-inner section.normal sup {
@@ -218,9 +225,7 @@ div#newitems\.md h3 {
     content: " ";
 }
 
-.book .book-body .page-wrapper .page-inner section.normal sup a {
-    
-}
+.book .book-body .page-wrapper .page-inner section.normal sup a {}
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,
 .book .book-body .page-wrapper .page-inner section.normal ul.references {
@@ -324,12 +329,8 @@ figure#fig3\.3\.12 {
     width: 33%;
 }
 
-figure#fig3\.3\.10 img {
-    width: 243px;
-}
-figure#fig3\.3\.11 img {
-    width: 252px;
-}
+figure#fig3\.3\.10 img,
+figure#fig3\.3\.11 img,
 figure#fig3\.3\.12 img {
     width: 240px;
 }
