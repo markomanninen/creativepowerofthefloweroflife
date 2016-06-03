@@ -6,15 +6,15 @@ Lilies (as different types of palmettes) and pomegranates are both almost exclus
 
 There is an evidence that the six-spoked pomegranate was used as a religious symbol in Israel already in the 14-13th century BC. The picture 4.5.1 is a thumb size object made of ivory representing the pomegranate<!-- cite author="wikipedia.org" title="Ivory pomegranate" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Ivory_pomegranate" -->. The picture 4.5.2 is a reverse side of the coin issued by the Jewish rebels in 68 AD<!-- cite author="wikipedia.org" title="First Jewish Revolt coinage" date="" location="" type="website" href="https://en.wikipedia.org/wiki/First_Jewish_Revolt_coinage" --> which has three pomegranates in the middle of it.
 
-![The pomegranate with six pegs](/media/pomegranatethumb1.png){caption=1}
-![Three pomegranates in a coin](/media/israelcoin1.png){caption=1}
+![Ivory pomegranate sculpture with six pegs / Public Domain](/media/pomegranatethumb1.png){caption=1}
+![Three pomegranates in a coin / Classical Numismatic Group, Inc. http://www.cngcoins.com](/media/israelcoin1.png){caption=1}
 <!-- clear -->
 
 This is a good example, how only half of the pegs are shown on each pomegranate, when they are depicted from the side view. But, if you would look them from the top view, in a row the pegs would make 6+6+6. The same applies to the lily symbol according to Dr. Ze'ev Goldmann<!-- cite author="Dr. Ze'ev Goldmann" title="Star of David" date="2008" location="" type="website" href="http://zeevgoldmann.blogspot.fi/2008/08/ii-star-of-david-on-mosaic-floor-at-ein.html" -->:
 
 > The Shoshanim had to be full-size as seen from above, that is six-petalled, as the pillars stood free in front of the Temple, while the capitals of the two engaged pillars in the vestibule had to be tri-petalled, as seen from the side. In its six-petalled form, as well as in the tri-petalled side-view, the Lily came to be the paramount ornament of Jewish art and especially of Jerusalem’s ossuary decoration.
 
-![Fleur-de-lys](/media/fleur-de-lys.png){caption=1 width=100}
+![Fleur-de-lis / Public Domain](/media/fleur-de-lys.png){caption=1 width=100}
 
 Harum-scarum or just provocative, Pope Paul VI (1968-1978) was entitled "Flos Florum" or Flower of Flowers and his coat of arms contained three lilies (see Fleur-de-lis on the top picture 4.5.3 and at the top of the head of the winged genie on the picture 3.2.4), again resulting 6+6+6. A small clarification here might be in place. My intention is not to agitate hexakosioihexekontahexaphobia. Through careful analysis religious-mystic history seems to show, that 6, with its multiples, was not considered exclusively evil, bad or unlucky. More or less it should be recognized as a dancing seed in the Yin-Yang symbol, where opposites relatively oscillate and alter their positions constantly.
 

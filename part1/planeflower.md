@@ -23,7 +23,7 @@ By adding one circle to the intersection point C, a triangular wedge shape becom
 
 2300 years ago this figure was studied by Euclid in his book *Elements Book 1*, Proposition 1<!-- cite author="Euclid" title="Elements, Book I" date="300 BC" location="Proposition 1" type="book" href="http://aleph0.clarku.edu/~djoyce/elements/bookI/propI1.html" -->. From previous etymological notes we remember, how cuneiform language is written with a reed stylus sharpened to a triangular shape in one end. This is what I meant that the whole cuneiform writing system is in the center of the early formation of the FOL. The curved triangular shape in the middle is called Reuleaux triangle<!-- cite author="wikipedia.org" title="Reuleaux triangle" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Reuleaux_triangle" --> which has also been studied by Leonardo da Vinci. What did he not study?!
 
-![A simple triquetra symbol](/media/triquetravesica.png){caption=1}
+![A simple triquetra symbol / Public Domain](/media/triquetravesica.png){caption=1}
 
 Another shape popping up from the construction, that is continuously used in religious context in various cultures to symbolize trinity, is an interlaced triquetra<!-- cite author="wikipedia.org" title="Triquetra" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Triquetra" --> or a trefoil knot which is shown above.
 
