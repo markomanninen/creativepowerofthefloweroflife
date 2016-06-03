@@ -1,7 +1,7 @@
 # From a line to a plane
 
 
-![Yin-Yang](/media/yin_yang.png){style float:left;width:80px;height:68px;margin:-10px 15px 0 0}
+![Yin-Yang](/media/yin_yang.png){style float:left;width:80px;height:68px;margin:0 15px 10px 0}
 
 Chinese "Yin and Yang" -figure (on the left) is a beautiful geometrical symbol which contains the idea of opposite seeds. We can see a white seed on the black background and a black seed on the white background in a relationship that enables everlasting change and mutation. Not only two is apparent on a line, two points (A & B) and the relation between them or one segment with two ends are giving three "things" at once. Is this the reason why ancient arithmeticians didn't regard one and two as numbers at all, but rather said that three is the first real number? Subject, object and the relation between them, they all are included simultaneously on the conscious act of the investigator.
 
