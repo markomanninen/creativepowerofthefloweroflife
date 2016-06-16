@@ -1,6 +1,6 @@
 # Appendix 2 - Occurrences of the FOL
 
-Faded pictures represents links to copyright protected images, which needs to be obtained from the original source.
+Faded pictures represents links to copyright protected images, and they need to be obtained from the original source.
 
 ### 2000 BC - 0 AD
 
