@@ -13,7 +13,7 @@
 	* [Fleur-de-lis as a part of the Tree of Life](./part2/fleurdelis.md)
 	* [Partnership between lilies and pomegranates](./part2/partnership.md)
 	* [Life and death drama](./part2/lifeanddeath.md)
-	* [Sweet and salty waters](./part2/waters.md)
+	* [Sweet, fresh, and salty waters](./part2/waters.md)
 * [New items](newitems.md)
 * [Epilogue](epilogue.md)
 * [Conclusions](conclusions.md)
