@@ -9,9 +9,9 @@
     "keywords": "flower of life, six-petal rosette, six-spoked wheel, rosette symbolism, apsamikku, concave square, square root of 3, square root of 2, intersecting circles, overlapping circles, hexagon, hexagram, equilateral triangle, rhombus, lozenge, vesica piscis, fleur-de-lis, lily symbolism, tree of life, menorah history, sacred geometry, ancient mathematics, hittite sun disc",
     "language": "en",
     
-    "totalpages": 102,
-    "hidepageheaders": [2, 3, 7, 37, 100, 101, 102],
-    "hidepagefooters": [2, 3, 7, 37, 100, 101, 102],
+    "totalpages": 103,
+    "hidepageheaders": [2, 3, 8, 37, 102, 103],
+    "hidepagefooters": [2, 3, 8, 37, 102, 103],
 
     "plugins": ["regexplace", "ga"],
 
