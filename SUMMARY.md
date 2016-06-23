@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Foreword](foreword.md)
+* [Preface](preface.md)
 * [Part 1: Introspections](./part1/index.md)
 	* [From a point to a line](./part1/pointline.md)
 	* [From a line to a plane](./part1/lineplane.md)
