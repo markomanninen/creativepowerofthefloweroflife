@@ -356,23 +356,23 @@ div#newitems\.md h3 {
 
 /* hexagon, hexagram and six-spoked wheel */
 
-figure#fig3\.3\.10,
-figure#fig3\.3\.11,
-figure#fig3\.3\.12 {
+figure#fig4\.3\.10,
+figure#fig4\.3\.11,
+figure#fig4\.3\.12 {
     float: left;
     width: 33%;
 }
 
-figure#fig3\.3\.10 img,
-figure#fig3\.3\.11 img,
-figure#fig3\.3\.12 img {
+figure#fig4\.3\.10 img,
+figure#fig4\.3\.11 img,
+figure#fig4\.3\.12 img {
     width: 240px;
 }
 
 /* hittite suns */
 
-figure#fig4\.3\.1,
-figure#fig4\.3\.2 {
+figure#fig5\.3\.1,
+figure#fig5\.3\.2 {
     float: left;
     width: 48%;
     margin: 0 5px;
@@ -380,31 +380,31 @@ figure#fig4\.3\.2 {
 
 /* hittite sun 1 and 2 models */
 
-figure#fig4\.3\.3,
-figure#fig4\.3\.6 {
+figure#fig5\.3\.3,
+figure#fig5\.3\.6 {
     margin: 0 5px;
 }
 
-figure#fig4\.3\.4,
-figure#fig4\.3\.5,
-figure#fig4\.3\.7,
-figure#fig4\.3\.8 {
+figure#fig5\.3\.4,
+figure#fig5\.3\.5,
+figure#fig5\.3\.7,
+figure#fig5\.3\.8 {
     float: left;
     width: 48%;
     margin: 0 5px;
 }
 
-figure#fig4\.3\.4 img,
-figure#fig4\.3\.5 img,
-figure#fig4\.3\.7 img,
-figure#fig4\.3\.8 img {
+figure#fig5\.3\.4 img,
+figure#fig5\.3\.5 img,
+figure#fig5\.3\.7 img,
+figure#fig5\.3\.8 img {
     width: 185px;
 }
 
 /* pomegranates */
 
-figure#fig4\.5\.1,
-figure#fig4\.5\.2 {
+figure#fig5\.5\.1,
+figure#fig5\.5\.2 {
     float: left;
     width: 48%;
     margin: 0 5px;
@@ -412,15 +412,15 @@ figure#fig4\.5\.2 {
 
 /* coin */
 
-figure#fig4\.5\.2 img {
+figure#fig5\.5\.2 img {
     width: 250px;
     margin: 60px;
 }
 
 /* lilies */
 
-figure#fig4\.5\.4,
-figure#fig4\.5\.5 {
+figure#fig5\.5\.4,
+figure#fig5\.5\.5 {
     float: left;
     width: 48%;
     margin: 0 5px;
@@ -428,9 +428,9 @@ figure#fig4\.5\.5 {
 
 /* distaff blades */
 
-figure#fig5\.2,
-figure#fig5\.3,
-figure#fig5\.4 {
+figure#fig6\.2,
+figure#fig6\.3,
+figure#fig6\.4 {
     float: left;
     width: 31%;
     margin: 0 5px;
@@ -439,74 +439,74 @@ figure#fig5\.4 {
 /* classification images */
 
 /* class 0 */
-figure#fig8\.2,
-figure#fig8\.3 {
+figure#fig9\.2,
+figure#fig9\.3 {
     float:left;
     width: 47%;
     margin: 0 5px;
 }
-figure#fig8\.3 img {width: 200px;}
-figure#fig8\.2 img {width: 330px;}
+figure#fig9\.3 img {width: 200px;}
+figure#fig9\.2 img {width: 330px;}
 
 /* class 1 */
-figure#fig8\.4,
-figure#fig8\.5 {
+figure#fig9\.4,
+figure#fig9\.5 {
     float:left;
     width: 47%;
     margin: 0 5px;
 }
-figure#fig8\.5 img {width: 200px;}
-figure#fig8\.4 img {width: 360px;}
+figure#fig9\.5 img {width: 200px;}
+figure#fig9\.4 img {width: 360px;}
 
 /* class 2 */
-figure#fig8\.6,
-figure#fig8\.7 {
+figure#fig9\.6,
+figure#fig9\.7 {
     float:left;
     width: 47%;
     margin: 0 5px;
 }
-figure#fig8\.7 img {width: 200px;}
-figure#fig8\.6 img {width: 330px;}
+figure#fig9\.7 img {width: 200px;}
+figure#fig9\.6 img {width: 330px;}
 
 /* class 3 */
-figure#fig8\.8,
-figure#fig8\.9 {
+figure#fig9\.8,
+figure#fig9\.9 {
     float:left;
     width: 47%;
     margin: 0 5px;
 }
-figure#fig8\.9 img {width: 200px;}
-figure#fig8\.8 img {width: 335px;}
+figure#fig9\.9 img {width: 200px;}
+figure#fig9\.8 img {width: 335px;}
 
 /* bar codes */
 
-figure#fig14\.1,
-figure#fig14\.2,
-figure#fig14\.3 {
+figure#fig15\.1,
+figure#fig15\.2,
+figure#fig15\.3 {
     float:left;
     width: 30%;
     margin: 0 5px;
 }
 
-figure#fig14\.1 img,
-figure#fig14\.2 img,
-figure#fig14\.3 img {
+figure#fig15\.1 img,
+figure#fig15\.2 img,
+figure#fig15\.3 img {
     width: 75%;
 }
 
-figure#fig14\.1:after {
+figure#fig15\.1:after {
     content: "PDF";
 }
-figure#fig14\.2:after {
+figure#fig15\.2:after {
     content: "EPUB";
 }
-figure#fig14\.3:after {
+figure#fig15\.3:after {
     content: "MOBI";
 }
 
-figure#fig14\.1 figcaption,
-figure#fig14\.2 figcaption,
-figure#fig14\.3 figcaption {
+figure#fig15\.1 figcaption,
+figure#fig15\.2 figcaption,
+figure#fig15\.3 figcaption {
     display: none;
 }
 
