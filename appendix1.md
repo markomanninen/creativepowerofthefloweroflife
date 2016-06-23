@@ -71,7 +71,7 @@ The class 3 is the "real" FOL according to D. Melchizedek. It is not as common a
 
 Mathematical properties of the class 3 symbol elements are interesting, especially number of circles needed to construct the symbol, which is 19 for the figure 7.8 and 55 for the figure 7.9. Number 55 is the tenth number (greater than 0) on the triangular number sequence called pyramidal number: 1+2+3+4+5+6+7+8+9+10 = 55. Number 55 is also the tenth fibonacci number greater than 0: 1<sub>1</sub>, 1<sub>2</sub>, 2<sub>3</sub>, 3<sub>4</sub>, 5<sub>5</sub>, 8<sub>6</sub>, 13<sub>7</sub>, 21<sub>8</sub>, 34<sub>9</sub>, 55<sub>10</sub>,... It is the largest Fibonacci number to be a triangular number.
 
-Intersections points counts 37 for the figure 7.8 and 73 for the figure 7.9. 37 and 73 are mirror numbers. 73 is the 21st prime number. 37 is the 12th prime number. 21 and 12 are again mirror numbers, and further 21 is 3\*7 or 7\*3 so we can speak of nested recursive mirror number sequence here.
+Intersections points counts 37 for the figure 7.8 and 73 for the figure 7.9. 37 and 73 are mirror numbers. 73 is the 21st prime number. 37 is the 12th prime number. 21 and 12 are again mirror numbers, and further 21 is 3\*7 or 7\*3 so we can speak of nested recursive mirror number sequence here. Other curiosity is that the "Plato's lambda" (1,2,4,8 + 1,3,9,27) adds up to 55.
 
 
 #### Class 1, 2, and 3 mathematical properties and options
