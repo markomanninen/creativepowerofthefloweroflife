@@ -67,8 +67,9 @@ We all either know or have heard how much mathematics and music have to do with 
 It is interesting to note how the other PIE root syllable *bha-* serves as a root for Greco-Latin syllables *phos-*, *phor-*, and *phon-*, namely "to shine", "to carry", and "to sound". A similar cluster of meanings than the cane cognates mentioned before is noteworthy. And again, this triple word cluster is in sync with Finnish words: *kaunis*<!-- cite author="" title="Proto-Germanic skauniz means beautiful, shining. So means Old English skiene. Estonian ilus means beautiful and is coming from illuminare (lat.)." date="" location="" type="selfref" href="#" -->, *kantaa*, and *kannel* as well as with Latin words: *canorus/candor*, *canalis/canistra*, and *canere* respectively. In many languages it looks like the whole group of concepts (linguists might say "a cluster of cognates") are tied to these two different root words, the cane and *bha*.
 
 *Su'bha* in Sanskrit means bright and beautiful which are both expressed on one well-known statement that is probably misattributed, but that is rightly so describing the spirit of Plato:
-
+<br/><br/>
 > Beauty is the splendor of truth
+<br/><br/>
 
 Moreover, *Bha'rati* is to carry, *bha'jan* is a devotional song, *bha'n* is to speak or to say, and *bha'rtr* is to sustain<!-- cite author="Franco Rendich" title="Comparative etymological dictionary of classical Indo-European languages" date="" location="Letter B" type="book" href="https://en.wiktionary.org/wiki/sheen" -->. Thus, we see a similar group of concepts emerging from the same root syllables.
 
