@@ -63,8 +63,8 @@ From the samples we have, it is clear that this form is already more difficult t
 
 There are totally 45 circles in the figure 7.7. Number 45 is the 9th pyramidal number: 1+2+3+4+5+6+7+8+9 = 45.
 
-<!-- nopb -->
 <!-- endnopb -->
+<!-- nopb -->
 
 ## Class 3
 
