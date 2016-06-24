@@ -27,7 +27,7 @@ I have taken geometry to my toolbox for a couple of reasons. The most obvious is
 
 > "Look yonder," said my Guide, "in Flatland thou hast lived; of Lineland thou hast received a vision; thou hast soared with me to the heights of Spaceland; now, in order to complete the range of thy experience, I conduct thee downward to the lowest depth of existence, even to the realm of Pointland, the Abyss of No dimensions.<!-- cite author="Edward A. Abbott" title="Flatland - A romance of many dimensions" date="1891" location="Chapter 20" type="book" href="http://www.geom.uiuc.edu/~banchoff/Flatland/" -->
 
-Reflections of the same object may give us totally different impression when it is looked from a different point of view. For example, a special wedge cut from cylinder to a 3D model (picture 6.1) looks nothing special at first. But when the light is aimed from three sides of the object, we realize that the single object holds plane figures of a triangle, a square, and a circle.
+Reflections of the same object may give us totally different impression when it is looked from a different point of view. For example, a special wedge cut from cylinder to a 3D model (picture 7.1) looks nothing special at first. But when the light is aimed from three sides of the object, we realize that the single object holds plane figures of a triangle, a square, and a circle.
 
 ![Cylindrical wedge projections © Antti Oinonen](/media/3dobject.png){caption=1 width="400px"}
 

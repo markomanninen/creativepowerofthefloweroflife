@@ -139,9 +139,10 @@ Wiki page states the ancient history of the caves:
 These separate but connected ideas of the binary and the trinary division of wheels are crucial in order to understand the development of the Cownose and the Flower of Life patterns further. Philosophically the sequence of the square root 2 and the square root 3 was developed by Plato in Timaeus, where he speaks of Anima Mundi and sets up the concept known as "Plato's lambda". It is a simple right and left handed sequence of numbers starting from:
 
 a) 1, 2, 4, 8,...
+
 b) 1, 3, 9, 27,...
 
-These doubling and tripling sequences are nothing but powers of the square roots of 2 and 3. Sequences are coherent with roots of the trees better known as the tree of knowledge and the tree of life. The tree of knowledge is an ability to distinct between good and bad, i.e. difference on the existence. The tree of life serves as a unifier, i.e. sameness on the existence<!-- cite author="Ernest McClain" title="The Pythagorean Plato: Prelude to the Song Itself" date="1978" location="Page 64-65" type="article" href="http://www.ernestmcclain.net/Plato_OPTIMIZED.pdf" -->.
+These doubling and tripling sequences are nothing but powers of the square roots of 2 and 3. Sequences are coherent with roots of the trees better known as the Tree of Knowledge and the Tree of Life. The Tree of Knowledge is an ability to distinct between good and bad, i.e. difference on the existence. The Tree of Life serves as a unifier, i.e. sameness on the existence. Ernest McClain has gone deep to the realm of this idea in his excellent book *The Pythagorean Plato: Prelude to the Song Itself*<!-- cite author="Ernest McClain" title="The Pythagorean Plato: Prelude to the Song Itself" date="1978" location="Page 64-65" type="article" href="http://www.ernestmcclain.net/Plato_OPTIMIZED.pdf" -->.
 
 
 ### Oldest reference of the FOL pattern so far
