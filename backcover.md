@@ -43,7 +43,7 @@ The debate over the controversial symbol, the <b>Flower of Life</b>, is getting 
 
 <br/>
 
-*Creative power of the Flower of Life* electronic book is published in four different formats: [Online](http://creative.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life) and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
+*Creative power of the Flower of Life* electronic book is published in four different formats: [Online](http://creative.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/creative-power-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/creative-power-of-the-flower-of-life), and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/creative-power-of-the-flower-of-life)
 
 ![PDF](/media/978-952-68480-3-7/isbn.png){caption=1}
 
