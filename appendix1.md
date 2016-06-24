@@ -14,6 +14,7 @@ I have distinguished seven main classifications where the first two of them are 
 
 The FOL formation could also have been categorized to two other groups: hexagonal and concave forms. Many of the occurrences of the symbol instead of using curved lines, uses straight lines which creates a hexagonal grid. But I have left this categorization for the future work.
 
+<!-- nopb -->
 
 ## Vesica Piscis
 
@@ -23,6 +24,7 @@ Two same size circles intersecting each other at the center of the circles. Afte
 
 Piscis or a fish <img src="./media/smallfish.png" width="30" /> is known to refer to the middle of the symbol which is somewhat similar to a fish shape. The ratio between the radius of the circle and straight line drawn on two intersection points is called the measure of a fish. The ratio is a square root of 3 or its reciprocal 1/√3 depending which one of the two lines is taken as a measurement of the unit. This geometric form is so famous and well known in history and has so much information available that it doesn’t really need any special description.
 
+<!-- endnopb -->
 
 ## Six-petal rosette
 
@@ -47,6 +49,7 @@ Similarly, with the six-petal rosette, the class 1 FOL is too common to be colle
 
 In this complementary document [item 1](newitems.html#item-1), [item 2 a, b, c](newitems.html#item-2-a-b-c), and [item 5](newitems.html#item-5) as a continuous ornament contains the class 1 version of the FOL.
 
+<!-- nopb -->
 
 ## Class 2
 
@@ -60,6 +63,8 @@ From the samples we have, it is clear that this form is already more difficult t
 
 There are totally 45 circles in the figure 7.7. Number 45 is the 9th pyramidal number: 1+2+3+4+5+6+7+8+9 = 45.
 
+<!-- nopb -->
+<!-- endnopb -->
 
 ## Class 3
 
@@ -73,6 +78,7 @@ Mathematical properties of the class 3 symbol elements are interesting, especial
 
 Intersections points counts 37 for the figure 7.8 and 73 for the figure 7.9. 37 and 73 are mirror numbers. 73 is the 21st prime number. 37 is the 12th prime number. 21 and 12 are again mirror numbers, and further 21 is 3\*7 or 7\*3 so we can speak of nested recursive mirror number sequence here. Other curiosity is that the "Plato's lambda" (1,2,4,8 + 1,3,9,27) adds up to 55.
 
+<!-- endnopb -->
 
 #### Class 1, 2, and 3 mathematical properties and options
 
