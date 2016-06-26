@@ -19,7 +19,7 @@ figcaption {
     text-align: center;
     font-style: italic;
     line-height: 1.5em;
-    font-size: 80%;
+    font-size: 0.9em;
     color: #666;
     display: block;
 }
@@ -31,6 +31,11 @@ figcaption {
 .page .section1 table img.faded {
     opacity: 0.2;
     filter: alpha(opacity=20); /* For IE8 and earlier */
+}
+
+figure#fig4.1.1 img,
+figure#fig4.1.2 img {
+    width: 10%;
 }
 
 /* hexagon, hexagram and six-spoked wheel */
@@ -83,6 +88,11 @@ figure#fig13\.3 figcaption {
 }
 
 /* table headers */
+
+.page .section1 div#appendix1\.md table,
+.page .section1 div#appendix2\.md table {
+    font-size: 0.63em;
+}
 
 #page-book-details .details-readme section table thead,
 div#README\.md table thead {
@@ -205,9 +215,14 @@ div.googlemaps {
     font-size: 75%;
 }
 
+ul.citations,
+ul.references {
+    margin-left: -35px;
+}
+
 .page .section1 ul.citations,
 .page .section1 ul.references {
-    margin-left: -30px;
+    margin-left: -35px !important;
 }
 
 .page .section1 ul.citations li:nth-child(1) {
@@ -272,16 +287,17 @@ div.googlemaps {
 
 /* part 1 and 2 image align */
 
-div[data-filepath="part1/index.md"].book .book-body .page-wrapper .page-inner section#section-,
-div[data-filepath="part2/index.md"].book .book-body .page-wrapper .page-inner section#section- {
-    text-align: center;
+div#part1\/index\.md img,
+div#part2\/index\.md img {
+    margin-top: 10px;
+    max-width: 99%;
 }
 
 /* big number */
 
 div#part1\/pointline\.md pre {
     text-align: center;
-    font-size: 120%;
+    font-size: 0.84em;
 }
 
 /* kalevala quote */
@@ -328,10 +344,8 @@ div#part1\/pointline\.md blockquote {
 }
 
 .page .section1 div#backcover\.md div.author {
-	float: inherit;
-    width: auto;
-    padding-bottom: 10px;
-    text-align: center;
+    margin-bottom: 20px;
+    margin-top: -100px
 }
 
 .page .section1 div#backcover\.md p:nth-child(1) br {

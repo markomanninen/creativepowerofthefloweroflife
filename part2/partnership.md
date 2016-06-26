@@ -6,7 +6,7 @@ Lilies (as different types of palmettes) and pomegranates are both almost exclus
 
 There is evidence that the six-spoked pomegranate was used as a religious symbol in Israel already in the 14-13th century BC. The picture 5.5.1 is a thumb size object made of ivory representing the pomegranate<!-- cite author="wikipedia.org" title="Ivory pomegranate" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Ivory_pomegranate" -->. The picture 5.5.2 is a reverse side of a coin issued by the Jewish rebels in 68 AD<!-- cite author="wikipedia.org" title="First Jewish Revolt coinage" date="" location="" type="website" href="https://en.wikipedia.org/wiki/First_Jewish_Revolt_coinage" --> and it has three pomegranates in the middle of it.
 
-![Ivory pomegranate sculpture with six pegs / Public Domain](/media/pomegranatethumb1.png){caption=1}
+![Ivory pomegranate sculpture with six pegs and a paleo-Hebrew inscription/ Public Domain](/media/ivorypomegranate.png){caption=1}
 ![Three pomegranates in a coin / Classical Numismatic Group, Inc. http://www.cngcoins.com](/media/israelcoin1.png){caption=1}
 <!-- clear -->
 
