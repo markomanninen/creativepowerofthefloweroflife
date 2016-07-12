@@ -98,6 +98,10 @@ figcaption {
     page-break-before: right;
 }
 
+.page .section.toc  {
+    page-break-inside: always;
+}
+
 /* table headers */
 
 div#README\.md table {
@@ -518,10 +522,6 @@ div.page-break {
 
 div.page-break:before {
     content: ' ';
-}
-
-.page .section.toc  {
-    page-break-inside: always;
 }
 
 /* no page break inside element on pdf/print definition */

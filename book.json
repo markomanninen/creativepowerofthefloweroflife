@@ -10,8 +10,8 @@
     "language": "en",
     
     "totalpages": 108,
-    "hidepageheaders": [2, 3, 5, 9, 40, 106, 107, 108],
-    "hidepagefooters": [2, 3, 5, 9, 40, 106, 107, 108],
+    "hidepageheaders": [2, 3, 9, 40, 106, 107, 108],
+    "hidepagefooters": [2, 3, 9, 40, 106, 107, 108],
 
     "plugins": ["regexplace", "ga"],
 

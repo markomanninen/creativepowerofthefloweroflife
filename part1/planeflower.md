@@ -4,7 +4,7 @@ The formation of the FOL is easy. First we have one circle (centered at point A)
 
 ![Two circles intersecting at their centers](/media/abvesica.png){caption=1 width="33%"}
 
-This figure is known from Old Babylonian times as an *Ox-eye* (igi.gu<sub>4</sub><!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics 2100 - 1600 BC" date="1999" location="Page 46, Figure 3.7 b" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" -->)), and it can be seen as a primary generator of well-defined geometric forms. The lens-like part in the middle has various names such as Vesica Piscis (bladder of a fish), womb / female vulva, and mandorla (almond) that brings us back through a botanical connection to the symbology of the formation of the FOL. Symmetrical figures outside of the oval central shape are called lunes<!-- cite author="Weisstein, Eric W." title="MathWorld" date="" location="Lune" type="website" href="http://mathworld.wolfram.com/Lune.html" --> in geometry and they resemble waning and waxing phases of the Moon.
+This figure is known from Old Babylonian times as an *Ox-eye* (igi.gu<sub>4</sub><!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics 2100 - 1600 BC" date="1999" location="Page 46, Figure 3.7 b" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" -->), and it can be seen as a primary generator of well-defined geometric forms. The lens-like part in the middle has various names such as Vesica Piscis (bladder of a fish), womb / female vulva, and mandorla (almond) that brings us back through a botanical connection to the symbology of the formation of the FOL. Symmetrical figures outside of the oval central shape are called lunes<!-- cite author="Weisstein, Eric W." title="MathWorld" date="" location="Lune" type="website" href="http://mathworld.wolfram.com/Lune.html" --> in geometry and they resemble waning and waxing phases of the Moon.
 
 ### Rhombus
 
@@ -38,6 +38,8 @@ Already from the Old Babylonian times it is known that people tended to give des
 
 ![Arbelos - Shoemaker's knife © Mosmas](/media/arbelos_shoemakers_knife.jpg){caption=1 width=300}
 
+Thus, the name and the meaning of the square root of 3 could have been associated with the fishes. Yet, the square root of 2, or halving and doubling, could have been associated with the bread. See for example  "grain-field" or "barge" that are terms used in Babylonian mathematics<!-- cite author="Eleanor Robson" title="Mesopotamian Mathematics, 2100-1600 BC" date="1999" location="Page 46" type="book" href="http://www.helsinki.fi/~whiting/coefficients01.pdf" -->. But more interesting is the fact that the square root of 3 is not only the ratio inside Vesica Piscis, but also the diagonal of the cube compared to the side of the cube. Unfortunately going more deep into the third dimension is not in the scope of this document. This is just another example how ideas of higher dimensions are present on lower dimensions.
+
 ### Six-petal rosette
 
 The naming of the FOL is speculated later on in the document Part 2, so let us finalize the figure by adding circles with center points E, F, and G:
@@ -50,7 +52,7 @@ I haven't collected items containing the six-petal rosette simply because they a
 
 ![Floral motives in Porvoo Cathedral](/media/porvoocathedral.png){caption=1}
 
-Three more figures worth noting are found when connecting six intersecting points of the previous figure with straight lines. They form the hexagon, the hexagram, and the six-spoked wheel. Figures are shown below respectively:
+Three more figures worth noting are found when connecting six intersecting points of the previous figure with straight lines. They form the hexagon (picture 4.3.10), the hexagram (picture 4.3.11), and the six-spoked wheel (picture 4.3.12).
 
 ![Hexagon](/media/hexagon.png){caption=1}
 
@@ -88,7 +90,7 @@ How does this relate to the study of the FOL? There are six circles around the F
 
 ![Six circles](/media/sixcircles.png){caption=1 width="33%"}
 
-From the illustration above, we can notice how the first circle can be taken away from the center of the construction while still keeping the figure complete and full. Although they are often cited, it is good to meditate these words from Genesis 2: 1-3:
+From the illustration above, we can notice how the first circle can be taken away from the center of the construction while still keeping the figure symmetric and complete. Although they are often cited, it is good to meditate these words from Genesis 2:1-3<!-- cite author="biblehub.com" title="Old Testament" date="" location="Genesis 2:1-3" type="website" href="http://biblehub.com/interlinear/john/21.htm" -->:
 
 > Thus the heavens and the earth were finished, and all their multitude. And on the seventh day God finished the work that he had done, and he rested on the seventh day from all the work that he had done. So God blessed the seventh day and hallowed it, because on it God rested from all the work that he had done in creation.
 
@@ -96,11 +98,11 @@ Number six seems to be the final complete and steady result at this stage, but w
 
 ![Flower of Life, class 1](/media/sixmoreintersectingpoints.jpg){caption=1 width=300}
 
-When the center circle is included on the motif, FOL class 1 is formed because six more leaves encircling the six-petal rosette become apparent. On the outer edge of the hand-drawn figure above we can see six more intersecting points that urge us to repeat the procedure over and over again.
+When the center circle is included on the motif, FOL class 1 is formed because six more leaves encircling the six-petal rosette become apparent. On the outer edge of the hand-drawn figure above (picture 4.3.16) we can see six more intersecting points that urge us to repeat the procedure over and over again.
 
 ![Flower of Life, class 2](/media/secondround.jpg){caption=1 width=300}
 
-On the above figure we have finished the second round and encircled the motif with 12 leaves. This is the FOL class 2. Both class 1 and class 2 are common on ancient mosaic art, ivory items, and wooden carvings.
+On the above figure (picture 4.3.17) we have finished the second round and encircled the motif with 12 leaves. This is the FOL class 2. Both class 1 and class 2 are common on ancient mosaic art, ivory items, and wooden carvings.
 
 ### FOL - symbol and pattern
 
@@ -110,7 +112,7 @@ We can now see the third round of drawing process of the formation of the FOL be
 
 ![Flower of Life, round 3](/media/fulfol.png){caption=1 width="33%"}
 
-A very subtle but still important aspect must be noticed here. If the FOL pattern is continued further like this without the finishing step described below, we can rather speak of ornamentation than the symbol itself. If we finish the picture by filling 18 outer leaves of the hexagonal shape of the figure and remove the leftover circular arcs, we will end up getting a well-defined, clearly elaborated, consciously bordered symbol. This way we can make a distinction between an ornament and a symbol.
+A very subtle but still important aspect must be noticed here. If the FOL pattern is continued further like this without the finishing step described below, we can rather speak of ornamentation than the symbol itself. If we finish the picture by filling 18 outer leaves of the hexagonal shape of the figure and remove the leftover circular arcs, we will end up getting a well-defined, clearly elaborated, consciously bordered symbol (see picture 4.3.21). This way we can make a distinction between an ornament and a symbol.
 
 But this doesn't mean that an ornament can't act as a symbol, even if it itself might be constructed from repeated symbols. One can see this ornamentation defined to a higher category, analogical to a decryptable non-verbal sign of intercultural communication as described by Nadezhda Nikolenko<!-- cite author="Nadezhda Nikolenko" title="Ornament as a Symbol of Intercultural Communication" date="2013" location="Page 452" type="article" href="http://www.idosi.org/mejsr/mejsr17(4)13/7.pdf" -->:
 
@@ -148,7 +150,7 @@ Mythologically these two sequences are coherent with roots of the trees better k
 
 In his book on pottery styles, Gonzague Quivron presents an interesting collection of floral motives developing from early to mature stage<!-- cite author="Gonzague Quivron" title="The Evolution on the Mature Indus Pottery Style in the Light of the Excavations at Nausharo, Pakistan" date="2000" location="" type="article" href="https://www.academia.edu/12459285/The_Evolution_on_the_Indus_Pottery_Style" --> in the Indus Valley Civilization chronology. In the figure 16.8, **the FOL pattern (class p) exists already in the Pre-Indus traditions**, before Mature Indus period, i.e. before 2500 BC. But then the FOL disappears from the motif samples while the Cownose motif (16.9) appears practically on every stage. A partial screenshot of the figure 16<!-- cite author="Gonzague Quivron" title="The Evolution on the Mature Indus Pottery Style in the Light of the Excavations at Nausharo, Pakistan" date="2000" location="Page 181" type="article" href="https://www.academia.edu/12459285/The_Evolution_on_the_Indus_Pottery_Style" --> can be seen below:
 
-![Flower motives](/media/flowermotives.png){caption=1 width=400}
+![Flower motives © Gonzague Quivron](/media/flowermotives.png){caption=1 width=400}
 
 Although not totally satisfactory, because I have not found the actual artifact, nevertheless, this is the earliest reference to the FOL pattern I have found after my earlier research in 2014. I expected to find the earliest references to the FOL at around 2000 BC from Mesopotamia, but instead the earliest reference is the ancient Indus ceramic pottery decorative motif from the middle of the third millennium BC. From now on, it is just a matter of debate between historians and their schools; if we can expect that the FOL ornament was really invented in India, or if it was borrowed from Mesopotamia, thus making the dating of the FOL symbol to be even earlier than 2500 BC. The next occurrence of the FOL in India is the Bedse cave arch decoration<!-- cite author="Marko Manninen" title="Artifacts of the Flower of Life" date="2015" location="Figure 6.1.10" type="book" href="http://artifacts.flowerofliferesearch.com/2000-0bc.html#fig6.1.10" --> on a Buddhist temple in Maharashtra, India, 200 BC. 
 
