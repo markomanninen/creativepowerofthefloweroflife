@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This is my second book that intends to discover the history of the Flower of Life symbol. Now my main focus is on the interpretation of the symbol and on meanings attached to it throughout the history, starting from the Bronze Age until our days.
+This is my second book that intends to discover the history of the Flower of Life symbol. Now my main focus is on the interpretation of the symbol and on meanings attached to it throughout the history, starting from the Near East Bronze Age<!-- cite author="wikipedia.org" title="Bronze Age - Near East" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Bronze_Age#Near_East_timeline" --> until our days.
 
 The reader is expected to be familiar with basics of the Flower of Life geometry<!-- cite author="wikipedia.org" title="Flower of Life geometry" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Overlapping_circles_grid#Modern_usage" -->. Elementary knowledge of the ancient Near East history and history of mathematics is helpful. Knowledge of visual arts, geometry, and comparative religion studies are also useful.
 
