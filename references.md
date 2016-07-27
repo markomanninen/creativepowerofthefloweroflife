@@ -20,7 +20,7 @@ I have listed the most important book and article references in alphabetical ord
 * Franco Rendich: Comparative etymological Dictionary of Indo-European - Sanskrit - Greek - Latin (2014)
 * Gonzague Quivron: The Evolution on the Mature Indus Pottery Style in the Light of the Excavations at Nausharo, Pakistan (2000)
 * Irene S. Lemos: The Protogeometric Aegean: The Archaeology of the Late Eleventh and Tenth Centuries BC (2002)
-* J. R. R. Tolkien: The story of Kullervo (1915)
+* J.R.R. Tolkien: The story of Kullervo (1915), Letters (1981)
 * James A. Marusek: Did a Supernova cause the Collapse of Civilization in India? (2005)
 * Johann Wolfgang von Goethe: The Fairy Tale of the Green Snake and the Beautiful Lily (1795)
 * John A. Halloran: Sumerian Lexicon (Version 3.0) (1999)
