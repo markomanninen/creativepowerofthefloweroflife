@@ -164,10 +164,10 @@ But now it is time to complete the FOL class 3.
 
 In the picture below, leftover and erasable arcs are faded by gray dotted lines leaving 18 outer petals as a border of the hexagonally shaped symbol. Black solid lines present the final symbol, the Flower of Life class 3:
 
-![Flower of Life class 3](/media/folclass3pattern.png){caption=1 width=300}
+![Flower of Life class 3](/media/folclass3pattern.png){caption=1 width=280}
 
 Although sometimes used as an ornament and as a pattern (particularly on [class p](../appendix1.md#classp) artifacts), my take is that the FOL also has a strict symbolic form. This comes apparent by enclosing arcs, which are notable on [class 1](../appendix1.md#class1), [class 2](../appendix1.md#class2), and [class 3](../appendix1.md#class3) illustrations. We can often see the final symbol placed on a circular object, to places such as the bottom of goblets, vases, and whorls. Or alternatively, the FOL symbol might be encircled with a deliberate border, like on mosaics. In his books<!-- cite author="Drunvalo Melchizedek" title="The Ancient Secret of the Flower of Life" date="1999, 2000" location="" type="book" href="#" -->, Drunvalo Melchizedek pays a great attention to the limiting additional circle around the symbol. Seemingly, the border that is used will affect some mathematical ratios that we can see in the FOL. In the picture below, the bigger interior circle around the motif is in contact with the six outermost smaller circles. The bigger exterior circle finalizes the symbol as it was described by D. Melchizedek. This concludes the formation of the symbol in Part 1 of this complementary document focusing on the formation of the FOL symbol.
 
-![Flower of Life / Public Domain](/media/Flower-of-Life.png){caption=1 width=300}
+![Flower of Life / Public Domain](/media/Flower-of-Life.png){caption=1 width=280}
 
 {% include 'footnotes.md' %}
