@@ -17,7 +17,7 @@ I hope that my independent research provides valuable resources for people to fu
 | **Description** | Complementary material to the [Artifacts of the Flower of Life](http://artifacts.flowerofliferesearch.com/) research document |
 | **Keywords** | {{ config.keywords }} |
 | **Language** | English |
-| **Published** | Will be published 2016-xx-xx as an electronic book |
+| **Published** | Published {{ config.published }} as an electronic book |
 | **Updated** | {{ gitbook.time }} |
 | **ISBN** | 978-952-68480-3-7 (PDF)<br/>978-952-68480-4-4 (EPUB)<br/>978-952-68480-5-1 (MOBI) |
 | **Collection** | Open-source |
