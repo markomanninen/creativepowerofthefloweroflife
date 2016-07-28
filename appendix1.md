@@ -69,7 +69,6 @@ There are totally 45 circles in the figure 7.7. Number 45 is the 9th pyramidal n
 <br/>
 <br/>
 <br/>
-<br/>
 
 <!-- nopb -->
 
