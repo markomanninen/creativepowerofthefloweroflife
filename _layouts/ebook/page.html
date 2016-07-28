@@ -53,7 +53,16 @@ window.handleState = function handleState () {
 document.onreadystatechange = window.handleState;
 
 ready(function () {
+  /*
+  $('img.faded').parent().remove();
+  
   $('table tbody td').wrapInner('<div class="nopb"></div>');
+  
+  [].forEach.call(document.querySelectorAll('.faded'), function (el) {
+    el.style.visibility = 'hidden';
+    el.style.display = 'none';
+  });
+  */
 });
 
 </script>
