@@ -1,6 +1,6 @@
 ## Hittite sun discs
 
-To get convinced of the Bronze Age origin of the geometrical ideas of squares and equilateral triangles, we can take a look at the Pre-Hittite religious standards. Excavations started in 1910s by a German archaeology team in Alacahöyük<!-- cite author="turkishculture.org" title="Turkish Culture Portal - Alacahöyük" date="" location="" type="website" href="http://www.turkishculture.org/archaeology/alacahoyuk-1085.htm" -->, central Turkey, and later continued by a Turkish team whose work was personally funded by Mustafa Kemal Atatürk, revealed objects known as the Hittite Sun. 
+To get convinced of the Near East Bronze Age origin of the geometrical ideas of squares and equilateral triangles, we can take a look at the Pre-Hittite religious standards. Excavations started in 1910s by a German archaeology team in Alacahöyük<!-- cite author="turkishculture.org" title="Turkish Culture Portal - Alacahöyük" date="" location="" type="website" href="http://www.turkishculture.org/archaeology/alacahoyuk-1085.htm" -->, central Turkey, and later continued by a Turkish team whose work was personally funded by Mustafa Kemal Atatürk, revealed objects known as the Hittite Sun. 
 
 ![The most famous Hittite sun disc standard](/media/prehittitesun1.jpg){caption=1}
 ![Rarely presented Hittite sun disc standard](/media/prehittitesun2.jpg){caption=1}

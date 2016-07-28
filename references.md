@@ -6,6 +6,7 @@ I have listed the most important book and article references in alphabetical ord
 ### Bibliography
 
 * Ali Nourai: An Etymological Dictionary of Persian, English and other Indo-European Languages (2013)
+* Ali reza Taheri: The 'Man-Bull' and the Master of Animals in Mesopotamia and in Iran (2013)
 * Asko Parpola: Hind Leg + Fish: Towards Further Understanding of the Indus Script (2009)
 * Dalia-Ruth Halperin: Illuminating in Micrography: The Catalan Micrography (2013)
 * Davis Donald C. Benson: A Smoother Pebble (2003)

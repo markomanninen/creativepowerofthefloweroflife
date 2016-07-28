@@ -298,7 +298,12 @@ div#newitems\.md h3 {
 .page .section ul.references {
     margin-left: -30px;
 }
-
+/*
+.page .section ul.citations li a,
+.page .section ul.references li a {
+    float: left;
+}
+*/
 .page .section ul.citations li:nth-child(1) {
     margin-top: 20px;
     padding-top: 20px;
