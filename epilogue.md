@@ -42,7 +42,7 @@ Since the Flower of Life symbol and pattern mostly occur on ceremonial vessels t
 
 The ongoing evaluation process *in anticipation of understanding in the light of the increased knowledge of the parts*<!-- cite author="René Gothóni" title="Words Matter. Hermeneutics in the Study of Religions" date="2011" location="" type="book" href="#" --> is a great guide in this quest. The hermeneutic circle is a sound tool to use to face the challenge of describing and understanding the meaning of the FOL. René Gothóni states, that:
 
-> Academic ambition dictates that we cannot remain on the level of description only, when we relate how humans experience religion, for instance. Likewise, the authenticity of experiences of life and societal responsibility obliges us as scholars not to ascend and entirely withdraw ourselves to the level of abstract concepts either.<!-- cite author="René Gothóni" title="Words Matter. Hermeneutics in the Study of Religions" date="2011" location="Page 1" type="book" href="#" -->
+> Academic ambition dictates that we cannot remain on the level of description only, when we relate how humans experience religion, for instance. Likewise, the authenticity of experiences of life and societal responsibility obliges us as scholars not to ascend and entirely withdraw ourselves to the level of abstract concepts either.<!-- cite author="" title="Ibid." date="" location="Page 1" type="selfref" href="#" -->
 
 The methodology used in this study is far from being purely statistical and objective. Further understanding of the Flower of Life symbology requires interdisciplinary discourse between three aforementioned subjects at least. By the study of geometry, mythology, and etymology the qualitative dimension is strongly emphasized.
 
@@ -54,6 +54,6 @@ But the etymological study also leads to the augmentation because it forces us t
 
 > by **joining two or more basic ideas represented by the sounds of consonants and vowels**. Such sounds, each of which has a particular semantic value, were governed, as we shall see, by precise associative rules.
 
-Althought the etymology of the dimensional principles presented on my book are not explicitly related to the Flower of Life symbol, botanical roots of the naming of the properties of the projective geometry should be interesting enough curiosities for serious students.
+Although the etymology of the dimensional principles presented on my book are not explicitly related to the Flower of Life symbol, botanical roots of the naming of the properties of the projective geometry should be interesting enough curiosities for serious students.
 
 {% include 'footnotes.md' %}

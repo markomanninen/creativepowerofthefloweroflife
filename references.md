@@ -53,7 +53,7 @@ I have listed the most important book and article references in alphabetical ord
 * Valstspapīru Sp: Latvju raksti - Ornament letton (1930)
 * Veera Vallinheimo: Rukinlapa - Käyttöesine ja kihlalahja (1967)
 * Victor Hehn: Cultivated Plants and Domesticated Animals in Their Migration from Asia to Europe (1891)
-* Wolf Leslau: Comparative Dictionary of Ge'ez (Classical Ethiopic): Geʻez-English, English-Geʻez, with an Index of the Semitic Roots (1987)
+* Wolf Leslau: Comparative Dictionary of Ge'ez (Classical Ethiopic): Ge'ez-English, English-Ge'ez, with an Index of the Semitic Roots (1987)
 
 
 ### Websites
@@ -65,6 +65,10 @@ I have listed the most important book and article references in alphabetical ord
 * [wiktionary.org](http://wiktionary.org)
 * [etymonline.com](http://etymonline.com)
 * [http://wiki.tcl.tk/28557](http://wiki.tcl.tk/28557) Anonymous source (goldin) for geometrical figures and vocabulary of Old Babylonian mathematics
+* [mathsisfun.com](http://mathsisfun.com)
+* [biblehub.com](http://www.biblehub.com)
+* [flickr.com](http://www.flickr.com)
+* [archive.org](https://www.archive.org)
 
 
 {% if book.citations %}
