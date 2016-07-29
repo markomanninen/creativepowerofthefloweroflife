@@ -475,3 +475,7 @@ figure#fig15\.2 figcaption,
 figure#fig15\.3 figcaption {
     display: none;
 }
+
+h1#backcover {
+    margin-top: -20px;
+}

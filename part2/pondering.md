@@ -1,6 +1,6 @@
 ## Pondering the name
 
-In Part 1 of this document, I have specified the geometrical base components with some etymological ideas around the FOL, and I have repeatedly made notes about a similar geometrical shape from Old Babylonian times called the Cownose (akk. *Apsamikku*). Now, it is time to move forward and give more descriptive ideas of the FOL symbol.
+In Part 1 of this document, I have specified the geometrical base components with some etymological ideas around the FOL, and I have repeatedly made notes about a similar geometrical shape from Old Babylonian times called the Cownose (akk. *apsamikku*). I also proposed that Akkadian term *apusamiikku* could be used as an ancient name for the Flower of Life in Mesopotamia. Now, it is time to move forward and give more descriptive ideas of the FOL symbol so that future investigators could identify possible naming conventions for the FOL.
 
 The basic idea of "flowering" is too evident for it to be ignored as a possible ancient name for the six-petal rosette base of the pattern. The first thing is to find out what kind of words ancients used as:
 
