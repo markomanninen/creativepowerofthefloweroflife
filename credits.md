@@ -1,9 +1,9 @@
 # Credits
 
 
-### Acknowlements
+### Acknowledgements
 
-I want to express my special thanks and deep gratitude to Minna Haataja for her invaluable time spent with proofreading and editing this book. Countless sentences are now much clearer and easier to understand than they would have been, if they were written solely by my own hands. I also want to acknowledge Maaria Kuukorento, who has been my second eyes and ears on many important trips and giving necessary cheering all along the way of writing this book. Spending hours after hours on museums and archaeological sites would have taken at least double time without her help. Finally thanks for everyone contributing to this work which would have been be too overwhelming, or should I better say impossible to do just by myself.
+I want to express my special thanks and deep gratitude to Minna Haataja for her invaluable time spent with proofreading and editing this book. Countless sentences are now much clearer and easier to understand than they would have been, if they were written solely by my own hands. I also want to acknowledge Maaria Kuukorento, who has been my second eyes and ears on many important trips and giving necessary cheering all along the way of writing this book. Spending hours after hours on museums and archaeological sites would have taken at least double time without her help. Finally warm thanks to everyone contributing to this work which would have been too overwhelming, or should I better say impossible to do just by myself.
 
 
 ### About pictures

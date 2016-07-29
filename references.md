@@ -59,7 +59,7 @@ I have listed the most important book and article references in alphabetical ord
 
 ### Websites
 
- I have used Wikipedia extensively so that people interested on the different topics can easily find more information and relevant resources by following provided links. Wikipedia pages are not meant as evidences for my theories, but purely for additional information.
+ I have used Wikipedia extensively so that people interested in the different topics can easily find more information and relevant resources by following provided links. Wikipedia pages are not meant as an evidence for my theories, but purely for additional information.
 
 * [wikipedia.org](http://wikipedia.org)
 * [wikimedia.org](http://wikimedia.org)
